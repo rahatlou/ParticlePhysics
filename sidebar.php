@@ -24,7 +24,7 @@
   <?php/* include("Didattica/ParticlePhysics/news.html") */?>
 </div>
 
-  <h2>Bibliography and reference books</h2>
+  <h2>Bibliography and references</h2>
   <div style="height: 400px; overflow: auto">
   <ul>
     <li>Francesco Terranova, <a href="https://global.oup.com/academic/product/a-modern-primer-in-particle-and-nuclear-physics-9780192845245?cc=it&lang=en&">A modern primer in particle and nuclear physics</a></li>
