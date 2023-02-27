@@ -68,8 +68,8 @@
 
 		  <tr>
 		    <td>2023-02-27 </td>
-		    <td>Introduction. syllabus. course plan. Collisions and decays.</td>
-		    <td><a href="" target=blank_></a></td>
+		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. </td>
+		    <td><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-27-lecture.pdf" target=blank_>pdf</a></td>
       </tr>
 
 

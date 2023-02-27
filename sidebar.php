@@ -1,6 +1,6 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 9 Feb 2023</h3>
+<h3 class=h3sidebar>Last update: 27 Feb 2023</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -17,7 +17,11 @@
 <h2>Office Hours</h2>
   <ul>
     <li>
-      Wednesday 13:30-15:30, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 241, Piano 2, Edificio Marconi (CU013)</a> oppure per appuntamento</li>
+      Wednesday 13:30-15:30, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 241, Piano 2, Edificio Marconi (CU013)</a> or by appointment
+    </li>
+    <li>
+      Francesco Pandolfi, Friday 10-12, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 245-B, Piano 2, Edificio Marconi (CU013)</a> or by appointment
+    </li>
   </ul>
 
 <div class="post news">
