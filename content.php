@@ -67,14 +67,15 @@
 
 
 		  <tr>
-		    <td>2023-02-27 </td>
-		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. </td>
-		    <td><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-27-lecture.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center">2023-02-27 </td>
+		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. (Grifiths Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-27-lecture.pdf" target=blank_>pdf</a></td>
       </tr>
 			<tr>
-		    <td>2023-02-29 </td>
-		    <td>Collisions with fixed target and collinding beams. Cross section: definition and calculation with Fermi's Golden rule. Resonant cross section and the Breit-Wigner function.</td>
-		    <td><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-29-lecture.pdf" target=blank_></a></td>
+		    <td style="text-align: center">2023-02-29 </td>
+		    <td>Collisions with fixed target and collinding beams. Cross section: definition and calculation with Fermi's Golden rule.
+					Resonant cross section and the Breit-Wigner function. (Grifiths Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-29-lecture.pdf" target=blank_></a></td>
       </tr>
 
 
