@@ -17,7 +17,7 @@
 					 Sara` effettutato l'appello all'inizio di ogni lezione.</p>
 					 */ ?>
 
-			<p>All communicaztion and news will appear on Google Classroom.
+			<p>All communication and news will appear on Google Classroom.
 				All students attending the course are kindly asked to register on
 					<a href="https://classroom.google.com/c/NTU5MjU5NDIxMjQ5?cjc=3l3e5j7"  target="_blank">google classroom</a> using the class code
 					<a href="https://classroom.google.com/c/NTU5MjU5NDIxMjQ5?cjc=3l3e5j7"  target="_blank">3l3e5j7</a>.
