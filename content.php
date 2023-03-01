@@ -41,6 +41,7 @@
 	  	<li> <b>Monday, 12-14, Aula Conversi </b>, Edificio Marconi (CU013) </li>
 	  	<li> <b>Wednesday  10-12, Aula Conversi </b>, Edificio Marconi (CU013) </li>
 			<li> Friday 9-10, Aula Majorana, Edificio Marconi (CU013) (Not on weekly basis and to be confirmed when necessary) </li>
+			<li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li>
 		</ul>
 	</div>
 
@@ -74,10 +75,15 @@
 			<tr>
 		    <td style="text-align: center">2023-02-29 </td>
 		    <td>Collisions with fixed target and collinding beams. Cross section: definition and calculation with Fermi's Golden rule.
-					Resonant cross section and the Breit-Wigner function. (Grifiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-29-lecture.pdf" target=blank_></a></td>
+					Resonant cross section and the Breit-Wigner distribution. (Grifiths Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-01-lecture-collisions-cross_section.pdf" target=blank_>pdf</a></td>
       </tr>
 
+			<tr>
+		    <td style="text-align: center">2023-03-06 </td>
+		    <td>Continuous and discrete symmetries. Quantum numbers and conervation laws. Strangeness, charge and hypercharge.</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-06-lecture.pdf" target=blank_></a></td>
+      </tr>
 
 		</table>
 
