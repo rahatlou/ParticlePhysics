@@ -41,7 +41,7 @@
 	  	<li> <b>Monday, 12-14, Aula Conversi </b>, Edificio Marconi (CU013) </li>
 	  	<li> <b>Wednesday  10-12, Aula Conversi </b>, Edificio Marconi (CU013) </li>
 			<li> Friday 9-10, Aula Majorana, Edificio Marconi (CU013) (Not on weekly basis and to be confirmed when necessary) </li>
-			<li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li>
+			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
 	</div>
 
