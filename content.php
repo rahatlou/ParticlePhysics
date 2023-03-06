@@ -81,7 +81,8 @@
 
 			<tr>
 		    <td style="text-align: center">2023-03-06 </td>
-		    <td>Leptons, quarks, and hadrons. Leton and baryon numbers. Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation</td>
+		    <td>Leptons, quarks, and hadrons. Leton and baryon numbers. Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation.
+				(Terraniva Ch. 5, Griffiths Ch. 4)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-06-lecture-symmetries.pdf" target=blank_>pdf</a></td>
       </tr>
 
