@@ -31,13 +31,13 @@
   <h2>Bibliography and references</h2>
   <div style="height: 400px; overflow: auto">
   <ul>
-    <li>Terranova, <a href="https://global.oup.com/academic/product/a-modern-primer-in-particle-and-nuclear-physics-9780192845245?cc=it&lang=en&">A modern primer in particle and nuclear physics</a></li>
-    <li>Griffiths, <a href="https://www.wiley.com/en-us/Introduction+to+Elementary+Particles+%2C+2nd%2C+Revised+Edition-p-9783527406012">Introduction to Elementary Particles , 2nd Ed.</a></li>
-    <li>Perkins, <a href="https://doi.org/10.1017/CBO9780511809040">Introduction to High Energy Physics, 4th ed.</a></li>
-    <li>Cahn and Goldhaber, <a href="https://doi.org/10.1017/CBO9780511609923">The experimental foundation of Particle Physics</a>, 2nd Ed.</li>
-    <li>Bagnaia, <a href="https://www.roma1.infn.it/~bagnaia/particle_physics.html">lectures from previous years</a></li>
-    <li>Paramatti, <a href="http://cern.ch/ric/cinematica.pdf">Dispense di cinematica relativistica</a></li>
-    <li>Sakurai, Napolitano, <a href="https://www.zanichelli.it/ricerca/prodotti/meccanica-quantistica-moderna-sakurai-napolitano">Meccanica quantistica moderna, 2nd Ed.</a></li>
+    <li>Terranova, <a href="https://global.oup.com/academic/product/a-modern-primer-in-particle-and-nuclear-physics-9780192845245?cc=it&lang=en&" target="_blank">A modern primer in particle and nuclear physics</a></li>
+    <li>Griffiths, <a href="https://www.wiley.com/en-us/Introduction+to+Elementary+Particles+%2C+2nd%2C+Revised+Edition-p-9783527406012" target="_blank">Introduction to Elementary Particles , 2nd Ed.</a></li>
+    <li>Perkins, <a href="https://doi.org/10.1017/CBO9780511809040" target="_blank">Introduction to High Energy Physics, 4th ed.</a></li>
+    <li>Cahn and Goldhaber, <a href="https://doi.org/10.1017/CBO9780511609923" target="_blank">The experimental foundation of Particle Physics</a>, 2nd Ed.</li>
+    <li>Bagnaia, <a href="https://www.roma1.infn.it/~bagnaia/particle_physics.html" target="_blank">lectures from previous years</a></li>
+    <li>Paramatti, <a href="http://cern.ch/ric/cinematica.pdf" target="_blank">Dispense di cinematica relativistica</a></li>
+    <li>Sakurai, Napolitano, <a href="https://www.zanichelli.it/ricerca/prodotti/meccanica-quantistica-moderna-sakurai-napolitano" target="_blank">Meccanica quantistica moderna, 2nd Ed.</a></li>
   </ul>
   </div>
 
