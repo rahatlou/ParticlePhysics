@@ -82,14 +82,15 @@
 			<tr>
 		    <td style="text-align: center">2023-03-06 </td>
 		    <td>Leptons, quarks, and hadrons. Leton and baryon numbers. Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation.
-				(Terraniva Ch. 5, Griffiths Ch. 4)</td>
+				(Terranova Ch. 5, Griffiths Ch. 4)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-06-lecture-symmetries.pdf" target=blank_>pdf</a></td>
       </tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-08 </td>
-		    <td>Isospin. Strangeness, charge and hypercharge.</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td>Parity and charge parity of composite states. Isospin: hypothesis and experimental evidence. Strangeness, charge and hypercharge. Static quark model. Scalar meson octet.
+				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-08-lecture-isospin-strangeness-quarkmodel.pdf" target=blank_>pdf</a></td>
       </tr>
 
 		</table>
