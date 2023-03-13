@@ -102,7 +102,7 @@
 			</tr>
 			<tr>
 		    <td style="text-align: center">2023-03-15 </td>
-		    <td>Static quark model. Baryon multiplets. Prediction and discovery of &Sigma;<sup>-</sup>.
+		    <td>Static quark model. Baryon multiplets. Prediction and discovery of &Omega;<sup>-</sup>.
 				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
