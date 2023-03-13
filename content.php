@@ -90,7 +90,7 @@
 		    <td style="text-align: center">2023-03-08 </td>
 		    <td>Parity and charge parity of composite states. Isospin: hypothesis and experimental evidence. Strangeness, charge and hypercharge. Static quark model. Scalar meson octet.
 				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-08-lecture-isospin-strangeness-quarkmodel.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
       </tr>
 
 			<tr>
