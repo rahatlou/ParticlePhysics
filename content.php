@@ -93,6 +93,13 @@
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-08-lecture-isospin-strangeness-quarkmodel.pdf" target=blank_>pdf</a></td>
       </tr>
 
+			<tr>
+		    <td style="text-align: center">2023-03-13 </td>
+		    <td>Static quark model. Meson and baryon multiplets. Producion and decay. Light meson mixing.
+				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4,
+				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-08-lecture-isospin-strangeness-quarkmodel.pdf" target=blank_>pdf</a></td>
+
 		</table>
 
 
