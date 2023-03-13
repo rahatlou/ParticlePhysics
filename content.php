@@ -103,8 +103,17 @@
 			<tr>
 		    <td style="text-align: center">2023-03-15 </td>
 		    <td>Static quark model. Baryon multiplets. Prediction and discovery of &Omega;<sup>-</sup>.
+					SU(4) flavor with charm quark.
+					Hypothesis of new quantum number: color;
 				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-03-17 </td>
+		    <td>CP symmetry. CP violation in Kaon decays. Helicity.
+				()</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
 
