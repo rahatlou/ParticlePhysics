@@ -40,7 +40,7 @@
 			<ul>
 	  	<li> <b>Monday, 12-14, Aula Conversi </b>, Edificio Marconi (CU013) </li>
 	  	<li> <b>Wednesday  10-12, Aula Conversi </b>, Edificio Marconi (CU013) </li>
-			<li> Friday 9-10, Aula Majorana, Edificio Marconi (CU013) (Not on weekly basis and to be confirmed when necessary) </li>
+			<li> Friday 8-10, Aula Majorana, Edificio Marconi (CU013) (Not on weekly basis and to be confirmed when necessary): <b>March 17</b> </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
 	</div>
@@ -95,10 +95,27 @@
 
 			<tr>
 		    <td style="text-align: center">2023-03-13 </td>
-		    <td>Static quark model. Meson and baryon multiplets. Producion and decay. Light meson mixing.
+		    <td>Static quark model. Meson multiplets. Producion and decay. Light meson mixing.
+				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4,
+				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-13-lecture-quark-model.pdf" target=blank_>pdf</a></td>
+			</tr>
+			<tr>
+		    <td style="text-align: center">2023-03-15 </td>
+		    <td>Static quark model. Baryon multiplets. Prediction and discovery of &Omega;<sup>-</sup>.
+					SU(4) flavor with charm quark.
+					Hypothesis of new quantum number: color;
 				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-03-17 </td>
+		    <td>CP symmetry. CP violation in Kaon decays. Helicity.
+				()</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
 
 		</table>
 
