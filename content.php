@@ -40,7 +40,7 @@
 			<ul>
 	  	<li> <b>Monday, 12-14, Aula Conversi </b>, Edificio Marconi (CU013) </li>
 	  	<li> <b>Wednesday  10-12, Aula Conversi </b>, Edificio Marconi (CU013) </li>
-			<li> Friday 8-10, Aula Majorana, Edificio Marconi (CU013) (Not on weekly basis and to be confirmed when necessary): <b>March 17</b> </li>
+			<li> Friday 8:30-10, Aula Majorana, Edificio Marconi (CU013) (Not on weekly basis and to be confirmed when necessary): <b>March 17</b> </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
 	</div>
@@ -111,9 +111,31 @@
 			</tr>
 
 			<tr>
-		    <td style="text-align: center">2023-03-17 </td>
+		    <td style="text-align: center">2023-03-17, Fri @ 8:30</td>
 		    <td>CP symmetry. Helicity.
 				()</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
+
+
+			<tr>
+		    <td style="text-align: center">2023-03-20</td>
+		    <td>
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-03-22, Wed</td>
+		    <td> No lecture
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-03-24, Fri @ 8:30</td>
+		    <td>
+				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
 
