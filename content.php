@@ -120,15 +120,15 @@
 
 			<tr>
 		    <td style="text-align: center">2023-03-20</td>
-		    <td> Color quantum number. Hadron wave functions. Hadronic, semileptonic and leptonic decays.
+		    <td> Color quantum number. Baryon and Meson wave functions. Similarities and differences between gluons and photon. Hadronic, semileptonic and leptonic decays.
 					Festures of 3 body decays.
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-20-lecture-color-decays.pdf" target=blank_>pdf</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-22, Wed</td>
-		    <td> No lecture
+		    <td> <b>No lecture</b>
 				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
