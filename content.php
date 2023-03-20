@@ -121,7 +121,7 @@
 			<tr>
 		    <td style="text-align: center">2023-03-20</td>
 		    <td> Color quantum number. Baryon and Meson wave functions. Similarities and differences between gluons and photon. Hadronic, semileptonic and leptonic decays.
-					Festures of 3 body decays.
+					Festures of 3 body decays. 	(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4)
 				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-20-lecture-color-decays.pdf" target=blank_>pdf</a></td>
 			</tr>
