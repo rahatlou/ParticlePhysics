@@ -70,27 +70,27 @@
 		  <tr>
 		    <td style="text-align: center">2023-02-27 </td>
 		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. (Grifiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-27-lecture.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-27-lecture.pdf" target=blank_>board</a></td>
       </tr>
 			<tr>
 		    <td style="text-align: center">2023-02-29 </td>
 		    <td>Collisions with fixed target and collinding beams. Cross section: definition and calculation with Fermi's Golden rule.
 					Resonant cross section and the Breit-Wigner distribution. (Grifiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-01-lecture-collisions-cross_section.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-01-lecture-collisions-cross_section.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-06 </td>
 		    <td>Leptons, quarks, and hadrons. Leton and baryon numbers. Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation.
 				(Terranova Ch. 5, Griffiths Ch. 4)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-06-lecture-symmetries.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-06-lecture-symmetries.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-08 </td>
 		    <td>Parity and charge parity of composite states. Isospin: hypothesis and experimental evidence. Strangeness, charge and hypercharge. Static quark model. Scalar meson octet.
 				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-08-lecture-isospin-strangeness-quarkmodel.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-08-lecture-isospin-strangeness-quarkmodel.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
@@ -98,7 +98,7 @@
 		    <td>Static quark model. Meson multiplets. Producion and decay. Light meson mixing.
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-13-lecture-quark-model.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-13-lecture-quark-model.pdf" target=blank_>board</a></td>
 			</tr>
 			<tr>
 		    <td style="text-align: center">2023-03-15 </td>
@@ -107,7 +107,7 @@
 					Hypothesis of new quantum number: color;
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-15-lecture-baryons-color.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-15-lecture-baryons-color.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
@@ -123,7 +123,7 @@
 		    <td> Color quantum number. Baryon and Meson wave functions. Similarities and differences between gluons and photon. Hadronic, semileptonic and leptonic decays.
 					Festures of 3 body decays. 	(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-20-lecture-color-decays.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-20-lecture-color-decays.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
@@ -135,10 +135,29 @@
 
 			<tr>
 		    <td style="text-align: center">2023-03-24, Fri @ 8:30</td>
-		    <td> QED at work. e<sup>+</sup>e<sup>-</sup> scattering: cross section and experimental techniques. Discovery of quarks and color.
+		    <td> QED at work. e<sup>+</sup>e<sup>-</sup> scattering: cross section. Bhabha and Moeller scattering. Mandelstam variables. u-, t-, and s-channel diagrams.
+					Annihilation channel and muon pair production. Annihilation diagram.
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-24-lecture-ee-collisions.pdf" target=blank_>board</a></td>
 			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-03-27</td>
+		    <td> e<sup>+</sup>e<sup>-</sup> scattering: cross section and experimental techniques. Experiments at PETRA. The JADE detector.
+					e<sup>+</sup>e<sup>-</sup>&rightarrow;e<sup>+</sup>e<sup>-</sup>, &mu;<sup>+</sup>&mu;<sup>-</sup>,&tau;<sup>+</sup>&tau;<sup>-</sup>, hadrons
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-27-lecture-ee-collisions.pdf" target=blank_>board</a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-03-29</td>
+		    <td> e<sup>+</sup>e<sup>-</sup> scattering: quarks and color.
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-24-lecture-ee-collisions.pdf" target=blank_></a></td>
+			</tr>
+
+
+
 
 		</table>
 
