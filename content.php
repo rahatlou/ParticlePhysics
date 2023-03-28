@@ -121,7 +121,7 @@
 			<tr>
 		    <td style="text-align: center">2023-03-20</td>
 		    <td> Color quantum number. Baryon and Meson wave functions. Similarities and differences between gluons and photon. Hadronic, semileptonic and leptonic decays.
-					Festures of 3 body decays. 	(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4)
+					Features of 3 body decays. 	(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4)
 				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-20-lecture-color-decays.pdf" target=blank_>board</a></td>
 			</tr>
@@ -143,7 +143,7 @@
 
 			<tr>
 		    <td style="text-align: center">2023-03-27</td>
-		    <td> e<sup>+</sup>e<sup>-</sup> scattering: cross section and experimental techniques. Experiments at PETRA. The JADE detector.
+		    <td> e<sup>+</sup>e<sup>-</sup> scattering: total and differential cross section. Experimental techniques. Experiments at PETRA. The JADE detector.
 					e<sup>+</sup>e<sup>-</sup>&rightarrow;e<sup>+</sup>e<sup>-</sup>, &mu;<sup>+</sup>&mu;<sup>-</sup>,&tau;<sup>+</sup>&tau;<sup>-</sup>, hadrons
 				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-27-lecture-ee-collisions.pdf" target=blank_>board</a></td>
@@ -153,9 +153,14 @@
 		    <td style="text-align: center">2023-03-29</td>
 		    <td> e<sup>+</sup>e<sup>-</sup> scattering: quarks and color.
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-24-lecture-ee-collisions.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
 
+			<tr>
+		    <td style="text-align: center">2023-03-31, Fri @ 8:30</td>
+		    <td> 				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
 
 
 
