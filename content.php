@@ -151,14 +151,14 @@
 
 			<tr>
 		    <td style="text-align: center">2023-03-29</td>
-		    <td> e<sup>+</sup>e<sup>-</sup> scattering: quarks and color.
+		    <td> e<sup>+</sup>e<sup>-</sup> scattering: measurement of R. Charm quark. Discovery of J/&Psi; at Brookhaven.
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-29-ee-collisions.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-31, Fri @ 8:30</td>
-		    <td> 				</td>
+		    <td> Discovery of J/&Psi; at SLAC. J/&Psi; properties. Charmonium resonances. Discrovery of	the bottom quark and Upsilon.	</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
 
