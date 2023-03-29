@@ -153,7 +153,7 @@
 		    <td style="text-align: center">2023-03-29</td>
 		    <td> e<sup>+</sup>e<sup>-</sup> scattering: measurement of R. Charm quark. Discovery of J/&Psi; at Brookhaven.
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-29-ee-collisions.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-29-lecture-ee-collisions.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
