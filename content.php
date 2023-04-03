@@ -158,9 +158,34 @@
 
 			<tr>
 		    <td style="text-align: center">2023-03-31, Fri @ 8:30</td>
-		    <td> Discovery of J/&Psi; at SLAC. J/&Psi; properties. Charmonium resonances. Discrovery of	the bottom quark and Upsilon.	</td>
+		    <td> Discovery of J/&Psi; at SLAC. J/&Psi; properties. Charmonium resonances. Charmonium decay. OZI rule.	</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-31-lecture-charmonium.pdf" target=blank_>board</a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-04-03</td>
+		    <td>Number of families in the standard model. Discovery of the &tau; lepton. Discovery of the bottom quark and Upsilon.Looking for the top quark.</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-03-lecture-tau-b-top.pdf" target=blank_>board</a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-04-05</td>
+		    <td>Discovery of the top quark. Tau neutrino. Weak interactions: from the Fermi model to the Gauge theory.</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-04-12</td>
+		    <td>Weak interactions</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-04-14, Fri @ 8:30</td>
+		    <td>Weak interactions</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
+
 
 
 
