@@ -170,8 +170,8 @@
 
 			<tr>
 		    <td style="text-align: center">2023-04-05</td>
-		    <td>Discovery of the top quark. Tau neutrino. Weak interactions: from the Fermi model to the Gauge theory.</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td>Discovery of the top quark. Weak interactions. Number of neutrino flavors.</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-05-lecture-top-weak.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
