@@ -176,7 +176,7 @@
 
 			<tr>
 		    <td style="text-align: center">2023-04-12</td>
-		    <td>Weak interactions</td>
+		    <td><b>No Lecture</b></td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
 
