@@ -197,10 +197,18 @@
 
 			<tr>
 		    <td style="text-align: center">2023-04-17</td>
-		    <td>Muon decay. Helicity suppression in pion decay. Neutron decay. Lepton universality in weak interactions.
+		    <td>Muon decay. Helicity suppression in pion decay. Neutron decay.
+				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-17-lecture-weak.pdf" target=blank_>board</a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-04-19</td>
+		    <td>Lepton universality in weak interactions. Weak interaction of Quarks. Cabibbo angle. The GIM mechanism. Neutral Weak Currents.
 				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
+
 
 
 
