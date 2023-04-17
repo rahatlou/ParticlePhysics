@@ -167,9 +167,11 @@
 
 			<tr>
 		    <td style="text-align: center">2023-04-03</td>
-		    <td>Number of families in the standard model. Discovery of the &tau; lepton. Discovery of the bottom quark and Upsilon.Looking for the top quark.</td>
+		    <td>Number of families in the standard model. Discovery of the &tau; lepton. Discovery of the bottom quark and Upsilon.Looking for the top quark.
+					(Goldhaber Ch. 9, 11)
+				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-03-lecture-tau-b-top.pdf" target=blank_>board</a>
-				(Goldhaber Ch. 9, 11)</td>
+				</td>
 			</tr>
 
 			<tr>
@@ -189,13 +191,13 @@
 			<tr>
 		    <td style="text-align: center">2023-04-14, Fri @ 8:30</td>
 		    <td>Weak interaction as a chrial theory: Helicity and chirality. From Fermi model to current-current theory. Heavy weak mediator and Fermi constant G<sub>F</sub>
-				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-14-lecture-weak.pdf" target=blank_></a></td>
+				(Terranova Ch. 10, Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-14-lecture-weak.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-17</td>
-		    <td><b>Muon decay. Helicity suppression in pion decay. Neutron decay. Lepton universality in weak interactions.
+		    <td>Muon decay. Helicity suppression in pion decay. Neutron decay. Lepton universality in weak interactions.
 				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
