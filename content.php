@@ -211,10 +211,19 @@
 
 			<tr>
 		    <td style="text-align: center">2023-04-26</td>
-		    <td>The GIM mechanism. Neutral Weak Current.
+		    <td>The GIM mechanism. Tree and Loop diagrams. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Oscillation of neutral B mesons.
+					Neutral Weak Current.
+				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-26-lecture-weak.pdf" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-04-26</td>
+		    <td>Discovery of Neutral Weak Current. Discovery of W<sup>&pm;</sup> and Z<sup>0</sup>
 				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
+
 
 
 
