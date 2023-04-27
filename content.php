@@ -232,7 +232,7 @@
 
 
 			<tr>
-		    <td style="text-align: center">2023-05-03, Fri @ 8:30</td>
+		    <td style="text-align: center">2023-05-05, Fri @ 8:30</td>
 		    <td></td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
