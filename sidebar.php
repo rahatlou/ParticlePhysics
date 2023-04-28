@@ -1,4 +1,4 @@
-script<div id="sidebar-content">
+<div id="sidebar-content">
 
 <h3 class=h3sidebar>Last update: 28 Apr 2023</h3>
   Created by
