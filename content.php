@@ -219,20 +219,28 @@
 
 			<tr>
 		    <td style="text-align: center">2023-04-28, Fri @ 8:30</td>
-		    <td>Discovery of Neutral Weak Current. Discovery of W<sup>&pm;</sup> and Z<sup>0</sup>
-				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td>Discovery of Neutral Weak Current at CERN. Electroweak theory of Glashow-Weinberg-Salam.
+				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 9, Goldhaber Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-28-lecture-weak.pdf" target=blank_></a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-03</td>
-		    <td></td>
+		    <td>Discovery of W<sup>&pm;</sup> and Z<sup>0</sup>.
+				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 9, Goldhaber Ch. 6)
+			 </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
 
 
 			<tr>
 		    <td style="text-align: center">2023-05-05, Fri @ 8:30</td>
+		    <td>CP Violation. Number of neutrino families</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-05-08</td>
 		    <td></td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
