@@ -241,11 +241,27 @@
 
 			<tr>
 		    <td style="text-align: center">2023-05-08</td>
-		    <td>CP Violation in neutral K and B mesons</td>
+		    <td>CP Violation in neutral K. Quantum entanglement and coherent production of B mesons</td>
+		    <td style="text-align: center">kaons(<a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-08-cpvk.pdf" target=blank_>pdf</a>)
+			  B(<a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-08-lecture-cpvb.pdf" target=blank_>board</a>)
+				</td>
+			</tr>
+
+
+			<tr>
+		    <td style="text-align: center">2023-05-03</td>
+		    <td>CP violation in neutral B mesons
+			 </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
 
 
+			<tr>
+		    <td style="text-align: center">2023-05-15</td>
+		    <td>
+			 </td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
 
 
 
