@@ -235,13 +235,13 @@
 
 			<tr>
 		    <td style="text-align: center">2023-05-05, Fri @ 8:30</td>
-		    <td>Measurement of Number of neutrino families at LEP. CP Violation in neutral K mesons.</td>
+		    <td>Measurement of Number of neutrino families at LEP. (Terranova 12.7, Goldhaber 13). CP Violation in neutral K mesons. (Goldhaber Ch. 7, Terranova 13.7)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-05-LEPnu-CPVK.pdf" target=blank_>pdf</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-08</td>
-		    <td>CP Violation in neutral K. Quantum entanglement and coherent production of B mesons</td>
+		    <td>CP Violation in neutral K. Quantum entanglement and coherent production of B mesons (Goldhaber Ch. 7, Terranova 13.7)</td>
 		    <td style="text-align: center">kaons(<a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-08-cpvk.pdf" target=blank_>pdf</a>)
 			  B(<a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-08-lecture-cpvb.pdf" target=blank_>board</a>)
 				</td>
@@ -250,7 +250,7 @@
 
 			<tr>
 		    <td style="text-align: center">2023-05-10</td>
-		    <td>Oscillation of neutral B mesons. CP violation in neutral B meson.
+		    <td>Oscillation of neutral B mesons. CP violation in neutral B meson. (Goldhaber Ch. 15, Terranova 13.7)
 			 </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-10-lecture-cpvb.pdf" target=blank_>board</a></td>
 			</tr>
@@ -258,14 +258,14 @@
 
 			<tr>
 		    <td style="text-align: center">2023-05-15</td>
-		    <td>Scattering and structure of hadrons.
+		    <td>Structure of hadrons: Rutherford and Mott cross sections. Elastic elecron-nucleon scattering. (Goldhaber Ch. 8, Perkins Ch. 5)
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-15-lecture-scattering.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-17</td>
-		    <td>
+		    <td>Inelastic electron-nucleon scattering. Form factors and structure functions.
 			 </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
