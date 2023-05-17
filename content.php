@@ -265,9 +265,9 @@
 
 			<tr>
 		    <td style="text-align: center">2023-05-17</td>
-		    <td>Inelastic electron-nucleon scattering. Form factors and structure functions.
+		    <td>Inelastic electron-nucleon scattering. Form factors. Goldhaber Ch. 8, Perkins Ch. 5)
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-17-lecture-scattering.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
