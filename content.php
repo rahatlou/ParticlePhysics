@@ -265,17 +265,30 @@
 
 			<tr>
 		    <td style="text-align: center">2023-05-17</td>
-		    <td>Inelastic electron-nucleon scattering. Form factors. Goldhaber Ch. 8, Perkins Ch. 5)
+		    <td>Inelastic electron-nucleon scattering for pointlike target. Form factor. (Goldhaber Ch. 8, Perkins Ch. 5)
 			 </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-17-lecture-scattering.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-19, Fri @ 8:30</td>
-		    <td></td>
+		    <td>Inelastic electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental determination of the average proton size (Goldhaber Ch. 8, Perkins Ch. 5)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
 
+			<tr>
+		    <td style="text-align: center">2023-05-22</td>
+		    <td>
+			 </td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
+			
+			<tr>
+		    <td style="text-align: center">2023-05-24</td>
+		    <td>
+			 </td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+			</tr>
 
 
 
