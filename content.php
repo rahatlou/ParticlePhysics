@@ -278,7 +278,7 @@
 
 			<tr>
 		    <td style="text-align: center">2023-05-22</td>
-		    <td>
+		    <td>Discovery of gluons at PETRA. Hadronic jets: experimental signature and techniques.
 			 </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
