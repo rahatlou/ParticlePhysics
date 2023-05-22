@@ -280,12 +280,12 @@
 		    <td style="text-align: center">2023-05-22</td>
 		    <td>Discovery of gluons at PETRA. Hadronic jets: experimental signature and techniques.
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-22-gluon-hadronicjets.pdf" target=blank_>pdf</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-24</td>
-		    <td>
+		    <td>Hadronic jets. Properties of hadronic jets from uds, c, and b quarks
 			 </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
 			</tr>
