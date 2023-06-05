@@ -308,7 +308,7 @@
 		    <td style="text-align: center">2023-06-05</td>
 		    <td>Physics at Large Hadron Collider.
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-06-05-lhcphysics.pdf" target=blank_>slides</a></td>
 			</tr>
 
 
