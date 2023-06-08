@@ -7,7 +7,7 @@
 
 <p>
 <a href="https://classroom.google.com/c/NTU5MjU5NDIxMjQ5?cjc=3l3e5j7"  target="_blank">Google classroom: 3l3e5j7</a><br>
-<a href="https://calendar.google.com/calendar/u/0/r?cid=c_classroomd30d228b@group.calendar.google.com">Calendario Google del corso</a></br>
+<a href="https://calendar.google.com/calendar/u/0/r?cid=c_classroomd30d228b@group.calendar.google.com">Google calendar of the course</a></br>
 
 
 <p>Syllabus and exam sessions:
