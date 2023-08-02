@@ -44,7 +44,8 @@
 		 <p>Calendar of oral exams</p>
 		<ul>
 			<!--li><a target=blank_ href=""></a></li-->
-			<li>September session: exams on 4, 7, 11, 13, 14 of september depending on the number of students (max 3 each day).</li>
+			<li>September session: exams on 4, 7, 11, 13, 14 of september depending on the number of students (max 3 each day). Students can indicate
+			their preference by filling <a target=blank_ href="https://docs.google.com/forms/d/e/1FAIpQLSctVLIQg6zc0xv3WETBRKDr2xiu10TIqGEH9H0BFQAKfIBHww/viewform?usp=sf_link">this form</a>.</li>
 			<li> <a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN3utzIV2wcTgj5KJPks8okKovxsYqwKz7X2JdSvofURi2eV6oIXrhe327WIyvP1a0GnPxe1jIalZ4/pubhtml?gid=1946016321&single=true">July</a> </li>
  	  	<li> <a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQsv64i1JUAqGF7ZtQtxuDogQGIxeoahaiOohhroV4IHGGMBw2s595rFg9hlh19PW6l-NFwM3AKC2Ab/pubhtml?gid=1831539286&single=true">June</a> </li>
  		</ul>
