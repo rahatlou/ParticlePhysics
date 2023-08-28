@@ -41,6 +41,10 @@
 		<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2022/30055/20190322084705/bb8df54f-be46-4230-bd6e-aec49b6b9cf1/ed6e9474-40d7-4d78-98ee-2457068eff6e/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=ed6e9474-40d7-4d78-98ee-2457068eff6e&current_erogata=bb8df54f-be46-4230-bd6e-aec49b6b9cf1" target="_blank">Dates of exam sessions</a>
 		</p>
 
+		<p>
+		All oral exams willtake place in the Stanza 241, Piano 2, Edificio Marconi (CU013).
+	</p>
+
 		 <p>Calendar of oral exams</p>
 		<ul>
 			<!--li><a target=blank_ href=""></a></li-->
