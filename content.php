@@ -48,7 +48,8 @@
 		 <p>Calendar of oral exams</p>
 		<ul>
 			<!--li><a target=blank_ href=""></a></li-->
-			<li>October: reservations are open to all students</li> 
+			<li><a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTsUuJi-AeZe69wyum8ECSznXp4dTwX_imMe335BwGp5MuoUIf3t39uMpJC5Q--OKopa9V9STOBcAPW/pubhtml?gid=1887757232&single=true">February</a> </li>
+			<li>October: reservations are open to all students</li>
 			<li><a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdHAcMrrmjnVmGxgtgZWKS7omwvkrRXPgJZcKJc6ugSQU0lp84t1n8XzF3AB5ILJUngwylYiTV9EOs/pubhtml?gid=299033388&single=true">September</a> </li>
 			<li> <a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN3utzIV2wcTgj5KJPks8okKovxsYqwKz7X2JdSvofURi2eV6oIXrhe327WIyvP1a0GnPxe1jIalZ4/pubhtml?gid=1946016321&single=true">July</a> </li>
  	  	<li> <a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQsv64i1JUAqGF7ZtQtxuDogQGIxeoahaiOohhroV4IHGGMBw2s595rFg9hlh19PW6l-NFwM3AKC2Ab/pubhtml?gid=1831539286&single=true">June</a> </li>
