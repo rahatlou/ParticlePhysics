@@ -1,17 +1,17 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 6 February 2024</h3>
+<h3 class=h3sidebar>Last update: 21 February 2024</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
 
 <p>
-<a href="https://classroom.google.com/c/NTU5MjU5NDIxMjQ5?cjc=3l3e5j7"  target="_blank">Google classroom: 3l3e5j7</a><br>
-<a href="https://calendar.google.com/calendar/u/0/r?cid=c_classroomd30d228b@group.calendar.google.com">Google calendar of the course</a></br>
+<a href=""  target="_blank">Google classroom: </a><br>
+<a href="">Google calendar of the course</a></br>
 
 
 <p>Syllabus and exam sessions:
-<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2022/30055/20190322084705/bb8df54f-be46-4230-bd6e-aec49b6b9cf1/ed6e9474-40d7-4d78-98ee-2457068eff6e/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=ed6e9474-40d7-4d78-98ee-2457068eff6e&current_erogata=bb8df54f-be46-4230-bd6e-aec49b6b9cf1" target="_blank">catalogo Sapienza</a>
+<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2023/32384/20190322090929/b11487b2-73a1-4c99-a3cc-2028e7f41e1a/9f2cf951-1b4b-4f0e-8789-9962791dee1b/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=9f2cf951-1b4b-4f0e-8789-9962791dee1b&current_erogata=b11487b2-73a1-4c99-a3cc-2028e7f41e1a" target="_blank">catalogo Sapienza</a>
 </p>
 
 <h2>Office Hours</h2>

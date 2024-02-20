@@ -1,6 +1,6 @@
 <div id="content">
 	<h1>Particle Physics</h1>
-  <h3>A.A. 2022-23</h3>
+  <h3>A.A. 2023-24</h3>
 
 	<div class="post news-cont">
 	   <? /*php include("Didattica/FNSN/news.html") */?>
@@ -19,8 +19,8 @@
 
 			<p>All communication and news will appear on Google Classroom.
 				All students attending the course are kindly asked to register on
-					<a href="https://classroom.google.com/c/NTU5MjU5NDIxMjQ5?cjc=3l3e5j7"  target="_blank">google classroom</a> using the class code
-					<a href="https://classroom.google.com/c/NTU5MjU5NDIxMjQ5?cjc=3l3e5j7"  target="_blank">3l3e5j7</a>.
+					<a href=""  target="_blank">google classroom</a> using the class code
+					<a href=""  target="_blank">3l3e5j7</a>.
 			  You can register  <b>exclusively</b> with your uniroma1 credentials (no personal google account).
 			</p>
 
@@ -38,21 +38,16 @@
 			  if you intend to take the exam. All comunications regarding the calendar of oral exams will be through infostud. </p>
 
 		<p>
-		<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2022/30055/20190322084705/bb8df54f-be46-4230-bd6e-aec49b6b9cf1/ed6e9474-40d7-4d78-98ee-2457068eff6e/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=ed6e9474-40d7-4d78-98ee-2457068eff6e&current_erogata=bb8df54f-be46-4230-bd6e-aec49b6b9cf1" target="_blank">Dates of exam sessions</a>
+		<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2023/32384/20190322090929/b11487b2-73a1-4c99-a3cc-2028e7f41e1a/9f2cf951-1b4b-4f0e-8789-9962791dee1b/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=9f2cf951-1b4b-4f0e-8789-9962791dee1b&current_erogata=b11487b2-73a1-4c99-a3cc-2028e7f41e1a" target="_blank">Dates of exam sessions</a>
 		</p>
 
 		<p>
-		All oral exams willtake place in the Stanza 241, Piano 2, Edificio Marconi (CU013).
+		All oral exams will take place in the Stanza 241, Piano 2, Edificio Marconi (CU013).
 	</p>
 
 		 <p>Calendar of oral exams</p>
 		<ul>
 			<!--li><a target=blank_ href=""></a></li-->
-			<li><a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTsUuJi-AeZe69wyum8ECSznXp4dTwX_imMe335BwGp5MuoUIf3t39uMpJC5Q--OKopa9V9STOBcAPW/pubhtml?gid=1887757232&single=true">February</a> </li>
-			<li>October: reservations are open to all students</li>
-			<li><a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTdHAcMrrmjnVmGxgtgZWKS7omwvkrRXPgJZcKJc6ugSQU0lp84t1n8XzF3AB5ILJUngwylYiTV9EOs/pubhtml?gid=299033388&single=true">September</a> </li>
-			<li> <a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQN3utzIV2wcTgj5KJPks8okKovxsYqwKz7X2JdSvofURi2eV6oIXrhe327WIyvP1a0GnPxe1jIalZ4/pubhtml?gid=1946016321&single=true">July</a> </li>
- 	  	<li> <a target=blank_ href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQsv64i1JUAqGF7ZtQtxuDogQGIxeoahaiOohhroV4IHGGMBw2s595rFg9hlh19PW6l-NFwM3AKC2Ab/pubhtml?gid=1831539286&single=true">June</a> </li>
  		</ul>
 
 	</div>
@@ -64,7 +59,7 @@
 			<ul>
 	  	<li> <b>Monday, 12-14, Aula Conversi </b>, Edificio Marconi (CU013) </li>
 	  	<li> <b>Wednesday  10-12, Aula Conversi </b>, Edificio Marconi (CU013) </li>
-			<li> <b>Friday 8:30-10, Aula Majorana</b>, Edificio Marconi (CU013): <b>March 17, 24, 31, April 14, 28, May 5, 19</b> </li>
+			<li> <b>Friday 8:30-10, Aula 3</b>, Edificio Fermi (CU033): <b>March , April , May </b> </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
 	</div>
@@ -92,10 +87,11 @@
 
 
 		  <tr>
-		    <td style="text-align: center">2023-02-27 </td>
+		    <td style="text-align: center">2023-02-26 </td>
 		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. (Grifiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-27-lecture.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="" target=blank_>board</a></td>
       </tr>
+<?php /*
 			<tr>
 		    <td style="text-align: center">2023-02-29 </td>
 		    <td>Collisions with fixed target and collinding beams. Cross section: definition and calculation with Fermi's Golden rule.
@@ -334,7 +330,7 @@
 			 </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-06-05-lhcphysics.pdf" target=blank_>slides</a></td>
 			</tr>
-
+*/ ?>
 
 		</table>
 
