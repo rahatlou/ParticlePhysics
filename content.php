@@ -59,7 +59,7 @@
 			<ul>
 	  	<li> <b>Monday, 12-14, Aula Conversi </b>, Edificio Marconi (CU013) </li>
 	  	<li> <b>Wednesday  10-12, Aula Conversi </b>, Edificio Marconi (CU013) </li>
-			<li> <b>Friday 8:30-10, Aula 3</b>, Edificio Fermi (CU033): <b>March , April , May </b> </li>
+			<li> <b>Friday 8:30-10, Aula 3</b>, Edificio Fermi (CU033): <b>March 1,8,15,22, April 5,12, May 3,10,17,24</b> </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
 	</div>
