@@ -19,8 +19,8 @@
 
 			<p>All communication and news will appear on Google Classroom.
 				All students attending the course are kindly asked to register on
-					<a href=""  target="_blank">google classroom</a> using the class code
-					<a href=""  target="_blank">3l3e5j7</a>.
+					<a href="https://classroom.google.com/c/NjY0MzU1MDQxMjQ5?cjc=zbhlmhc"  target="_blank">google classroom</a> using the class code
+					<a href="https://classroom.google.com/c/NjY0MzU1MDQxMjQ5?cjc=zbhlmhc"  target="_blank">zbhlmhc</a>.
 			  You can register  <b>exclusively</b> with your uniroma1 credentials (no personal google account).
 			</p>
 

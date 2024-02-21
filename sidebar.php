@@ -6,7 +6,7 @@
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
 
 <p>
-<a href=""  target="_blank">Google classroom: </a><br>
+<a href="https://classroom.google.com/c/NjY0MzU1MDQxMjQ5?cjc=zbhlmhc"  target="_blank">Google classroom: </a><br>
 <a href="">Google calendar of the course</a></br>
 
 
