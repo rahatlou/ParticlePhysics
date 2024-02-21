@@ -48,6 +48,10 @@
 		 <p>Calendar of oral exams</p>
 		<ul>
 			<!--li><a target=blank_ href=""></a></li-->
+			<li><a target=blank_ href=""></a>May</li>
+			<li><a target=blank_ href=""></a>June</li>
+			<li><a target=blank_ href=""></a>July</li>
+			<li><a target=blank_ href=""></a>September</li>
  		</ul>
 
 	</div>
