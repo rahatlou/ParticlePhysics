@@ -48,7 +48,6 @@
 		 <p>Calendar of oral exams</p>
 		<ul>
 			<!--li><a target=blank_ href=""></a></li-->
-			<li><a target=blank_ href=""></a>May</li>
 			<li><a target=blank_ href=""></a>June</li>
 			<li><a target=blank_ href=""></a>July</li>
 			<li><a target=blank_ href=""></a>September</li>
@@ -91,7 +90,7 @@
 
 
 		  <tr>
-		    <td style="text-align: center">2023-02-26 </td>
+		    <td style="text-align: center">2024-02-26 </td>
 		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. (Grifiths Ch. 6)</td>
 		    <td style="text-align: center"><a href="" target=blank_>board</a></td>
       </tr>
