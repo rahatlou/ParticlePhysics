@@ -7,13 +7,13 @@
 
 <p>
 <a href="https://classroom.google.com/c/NjY0MzU1MDQxMjQ5?cjc=zbhlmhc"  target="_blank">Google classroom: zbhlmhc</a><br>
-<a href="">Google calendar of the course</a></br>
+<!--a href="">Google calendar of the course</a></br-->
 
 
 <p>Syllabus and exam sessions:
 <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2023/32384/20190322090929/b11487b2-73a1-4c99-a3cc-2028e7f41e1a/9f2cf951-1b4b-4f0e-8789-9962791dee1b/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=9f2cf951-1b4b-4f0e-8789-9962791dee1b&current_erogata=b11487b2-73a1-4c99-a3cc-2028e7f41e1a" target="_blank">catalogo Sapienza</a>
 </p>
-<p>Previos years: <a href="index.php?link=Didattica&sublink=2023.ParticlePhysics">2023</a></p>
+<p>Website of previous years: <a href="index.php?link=Didattica&sublink=2023.ParticlePhysics">2023</a></p>
 
 <h2>Office Hours</h2>
   <ul>
