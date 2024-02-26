@@ -95,7 +95,7 @@
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-02-26-lecture-01.pdf" target=blank_>board</a></td>
       </tr>
 			<tr>
-		    <td style="text-align: center">2023-02-29 </td>
+		    <td style="text-align: center">2024-02-28 </td>
 		    <td>Collisions with fixed target and collinding beams. Cross section: definition and calculation with Fermi's Golden rule.
 					Resonant cross section and the Breit-Wigner distribution. (Grifiths Ch. 6)</td>
 		    <td style="text-align: center"><a href="" target=blank_>board</a></td>
