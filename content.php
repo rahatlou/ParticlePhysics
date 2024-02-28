@@ -40,6 +40,10 @@
 		<p>
 		<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2023/32384/20190322090929/b11487b2-73a1-4c99-a3cc-2028e7f41e1a/9f2cf951-1b4b-4f0e-8789-9962791dee1b/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=9f2cf951-1b4b-4f0e-8789-9962791dee1b&current_erogata=b11487b2-73a1-4c99-a3cc-2028e7f41e1a" target="_blank">Dates of exam sessions</a>
 		</p>
+		<p>The exams will take place over several days starting on the date indicated on infostud. At the closing of the reservations, students are asked to indicate their preference for a few dates and time slots
+			and the calendar is communicted through infostud and published on this page before the starting date.
+		</p>
+		</form>
 
 		<p>
 		All oral exams will take place in the Stanza 241, Piano 2, Edificio Marconi (CU013).
