@@ -111,7 +111,12 @@
 		    <td style="text-align: center">2024-03-01, Fri @ 8:30</td>
 		    <td>Rutherford scattering. Mott formula for electron scattering.
 					Resonant cross section and the Breit-Wigner distribution. (Grifiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-01-lecture-03.pdf" target=blank_>board</a></td>
+      </tr>
+			<tr>
+		    <td style="text-align: center">2024-03-03 </td>
+		    <td></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
       </tr>
 
 
