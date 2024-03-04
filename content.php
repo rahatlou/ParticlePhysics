@@ -113,14 +113,52 @@
 					Resonant cross section and the Breit-Wigner distribution. (Grifiths Ch. 6)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-01-lecture-03.pdf" target=blank_>board</a></td>
       </tr>
+
 			<tr>
-		    <td style="text-align: center">2024-03-03 </td>
-		    <td></td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center">2024-03-04 </td>
+		    <td>Probing structure of nucleons: Rutherford and Mott cross sections. Deviations in &alpha; scattering. lecron-nucleon scattering: elastic and inelastic (Goldhaber Ch. 8, Perkins Ch. 5)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-04-lecture-04.pdf" target=blank_>board</a></td>
+      </tr>
+
+			<tr>
+		    <td style="text-align: center">2024-03-06 </td>
+		    <td> electron-nucleon scattering for pointlike and extended target. Form factors.
+					 electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure
+					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-06-lecture-05.pdf" target=blank_></a></td>
       </tr>
 
 
 			<?php /*
+
+
+
+			<tr>
+		    <td style="text-align: center">2023-05-22</td>
+		    <td>Discovery of gluons at PETRA. Hadronic jets: experimental signature and techniques.
+			 </td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-22-gluon-hadronicjets.pdf" target=blank_>pdf</a></td>
+			</tr>
+
+
+			<tr>
+		    <td style="text-align: center">2023-05-29</td>
+		    <td>Deep Inelastic scattering. Probing structure functions at SLAC. Scaling. (Goldhaber Ch. 8, Perkins Ch. 5)
+			 </td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-29-lecture-dis.pdf" target=blank_>board</a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-05-31</td>
+		    <td>Deep Inelastic scattering. Quark parton model. Parton density functions. (Goldhaber Ch. 8, Perkins Ch. 5)
+			 </td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-31-lecture-quarkparton.pdf" target=blank_>board</a></td>
+			</tr>
+
+
+
+
+
 
 			<tr>
 		    <td style="text-align: center">2023-03-06 </td>
@@ -290,62 +328,14 @@
 				</td>
 			</tr>
 
-
 			<tr>
-		    <td style="text-align: center">2023-05-10</td>
-		    <td>Oscillation of neutral B mesons. CP violation in neutral B meson. (Goldhaber Ch. 15, Terranova 13.7)
+				<td style="text-align: center">2023-05-10</td>
+				<td>Oscillation of neutral B mesons. CP violation in neutral B meson. (Goldhaber Ch. 15, Terranova 13.7)
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-10-lecture-cpvb.pdf" target=blank_>board</a></td>
+				<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-10-lecture-cpvb.pdf" target=blank_>board</a></td>
 			</tr>
 
 
-			<tr>
-		    <td style="text-align: center">2023-05-15</td>
-		    <td>Structure of hadrons: Rutherford and Mott cross sections. Elastic elecron-nucleon scattering. (Goldhaber Ch. 8, Perkins Ch. 5)
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-15-lecture-scattering.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-05-17</td>
-		    <td>electron-nucleon scattering for pointlike and extended target. Form factor. (Goldhaber Ch. 8, Perkins Ch. 5)
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-17-lecture-scattering.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-05-19, Fri @ 8:30</td>
-		    <td> electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure (Goldhaber Ch. 8, Perkins Ch. 5)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-19-lecture-scattering.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-05-22</td>
-		    <td>Discovery of gluons at PETRA. Hadronic jets: experimental signature and techniques.
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-22-gluon-hadronicjets.pdf" target=blank_>pdf</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-05-24</td>
-		    <td>Hadronic jets. Properties of hadronic jets from uds, c, and b quarks
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-24-jets-btag.pdf" target=blank_>pdf</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-05-29</td>
-		    <td>Deep Inelastic scattering. Probing structure functions at SLAC. Scaling. (Goldhaber Ch. 8, Perkins Ch. 5)
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-29-lecture-dis.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-05-31</td>
-		    <td>Deep Inelastic scattering. Quark parton model. Parton density functions. (Goldhaber Ch. 8, Perkins Ch. 5)
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-31-lecture-quarkparton.pdf" target=blank_>board</a></td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-06-05</td>
