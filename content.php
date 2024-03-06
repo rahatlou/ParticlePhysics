@@ -95,13 +95,13 @@
 
 		  <tr>
 		    <td style="text-align: center">2024-02-26 </td>
-		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. (Grifiths Ch. 6)</td>
+		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. (Griffiths Ch. 6)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-02-26-lecture-01.pdf" target=blank_>board</a></td>
       </tr>
 			<tr>
 		    <td style="text-align: center">2024-02-28 </td>
 		    <td>Collisions with fixed target and collinding beams. Instantaneous and integrated luminosity.
-					 Cross section: definition and calculation with Fermi's Golden rule. (Grifiths Ch. 6)
+					 Cross section: definition and calculation with Fermi's Golden rule. (Griffiths Ch. 6)
 			  </td>
 
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-02-28-lecture-02.pdf" target=blank_>board</a></td>
@@ -110,7 +110,7 @@
 			<tr>
 		    <td style="text-align: center">2024-03-01, Fri @ 8:30</td>
 		    <td>Rutherford scattering. Mott formula for electron scattering.
-					Resonant cross section and the Breit-Wigner distribution. (Grifiths Ch. 6)</td>
+					Resonant cross section and the Breit-Wigner distribution. (Griffiths Ch. 6)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-01-lecture-03.pdf" target=blank_>board</a></td>
       </tr>
 
@@ -131,7 +131,7 @@
 			<tr>
 		    <td style="text-align: center">2024-03-08, Fri @ 8:30 </td>
 		    <td> Form factors. electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure.
-					 Deep Inelastic scattering. Probing structure functions at SLAC.
+					 Deep Inelastic scattering. Probing structure functions at SLAC. Scaling. Quark Parton Model. Parton density functions.
 					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-08-lecture-06.pdf" target=blank_></a></td>
       </tr>
@@ -148,22 +148,6 @@
 			 </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-22-gluon-hadronicjets.pdf" target=blank_>pdf</a></td>
 			</tr>
-
-
-			<tr>
-		    <td style="text-align: center">2023-05-29</td>
-		    <td>Deep Inelastic scattering. Probing structure functions at SLAC. Scaling. (Goldhaber Ch. 8, Perkins Ch. 5)
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-29-lecture-dis.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-05-31</td>
-		    <td>Deep Inelastic scattering. Quark parton model. Parton density functions. (Goldhaber Ch. 8, Perkins Ch. 5)
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-31-lecture-quarkparton.pdf" target=blank_>board</a></td>
-			</tr>
-
 
 
 
