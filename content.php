@@ -116,7 +116,7 @@
 
 			<tr>
 		    <td style="text-align: center">2024-03-04 </td>
-		    <td>Probing structure of nucleons: Rutherford and Mott cross sections. Deviations in &alpha; scattering. lecron-nucleon scattering: elastic and inelastic (Goldhaber Ch. 8, Perkins Ch. 5)</td>
+		    <td>Probing structure of nucleons: Rutherford and Mott cross sections. Deviations in &alpha; scattering. electron-nucleon scattering: elastic and inelastic (Goldhaber Ch. 8, Perkins Ch. 5)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-04-lecture-04.pdf" target=blank_>board</a></td>
       </tr>
 
@@ -125,15 +125,24 @@
 		    <td> electron-nucleon scattering for pointlike and extended target. Form factors.
 					 electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure
 					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-06-lecture-05.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-06-lecture-05.pdf" target=blank_>board</a></td>
       </tr>
+
+			<tr>
+		    <td style="text-align: center">2024-03-08, Fri @ 8:30 </td>
+		    <td> Form factors. electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure.
+					 Deep Inelastic scattering. Probing structure functions at SLAC.
+					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-08-lecture-06.pdf" target=blank_></a></td>
+      </tr>
+
 
 
 			<?php /*
 
 
 
-			<tr>
+			<tr>     POSTPONED to LATER
 		    <td style="text-align: center">2023-05-22</td>
 		    <td>Discovery of gluons at PETRA. Hadronic jets: experimental signature and techniques.
 			 </td>
