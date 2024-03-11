@@ -139,9 +139,15 @@
 		    <td style="text-align: center">2024-03-11 </td>
 		    <td> Deep Inelastic scattering. Probing structure functions at SLAC. Scaling. Quark Parton Model. Parton density functions.
 					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-11-lecture-07.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-11-lecture-07.pdf" target=blank_>board</a></td>
       </tr>
 
+			<tr>
+		    <td style="text-align: center">2024-03-13 </td>
+		    <td> Quark Parton Model. Parton density functions. Quarks and hadrons. Continuous and discrete symmetries. Quantum numbers and conservation laws. 
+					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-13-lecture-08.pdf" target=blank_></a></td>
+      </tr>
 
 
 
