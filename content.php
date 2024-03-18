@@ -145,33 +145,35 @@
 			<tr>
 		    <td style="text-align: center">2024-03-13 </td>
 		    <td> No Lecture </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-13-lecture-08.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="" target=blank_></a></td>
       </tr>
 			<tr>
 		    <td style="text-align: center">2024-03-15 </td>
 		    <td> No Lecture </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-13-lecture-08.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="" target=blank_></a></td>
       </tr>
 
 			<tr>
 		    <td style="text-align: center">2024-03-18 </td>
-		    <td> Quark Parton Model. Parton density functions. Quarks and hadrons. Continuous and discrete symmetries. Quantum numbers and conservation laws.
-					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
+		    <td> Quark Parton Model. Parton density functions. Quarks and hadrons.
+					(Goldhaber Ch. 8, Perkins Ch. 5)  Continuous and discrete symmetries.(Terranova Ch. 5, Griffiths Ch. 4)
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-18-lecture-08.pdf" target=blank_>board</a></td>
+      </tr>
+
+			<tr>
+		    <td style="text-align: center">2024-03-20 </td>
+		    <td> Quark Parton Model. Parton density functions. Quarks and hadrons.
+					(Goldhaber Ch. 8, Perkins Ch. 5)  Continuous and discrete symmetries.(Terranova Ch. 5, Griffiths Ch. 4)
+				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-13-lecture-08.pdf" target=blank_></a></td>
       </tr>
+
 
 
 
 			<?php /*
 
-
-
-			<tr>     POSTPONED to LATER
-		    <td style="text-align: center">2023-05-22</td>
-		    <td>Discovery of gluons at PETRA. Hadronic jets: experimental signature and techniques.
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-22-gluon-hadronicjets.pdf" target=blank_>pdf</a></td>
-			</tr>
 
 
 
@@ -351,6 +353,16 @@
 			 </td>
 				<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-10-lecture-cpvb.pdf" target=blank_>board</a></td>
 			</tr>
+
+
+
+						<tr>     POSTPONED to LATER
+					    <td style="text-align: center">2023-05-22</td>
+					    <td>Discovery of gluons at PETRA. Hadronic jets: experimental signature and techniques.
+						 </td>
+					    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-22-gluon-hadronicjets.pdf" target=blank_>pdf</a></td>
+						</tr>
+
 
 
 
