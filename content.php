@@ -163,35 +163,23 @@
 
 			<tr>
 		    <td style="text-align: center">2024-03-20 </td>
-		    <td> Quark Parton Model. Parton density functions. Quarks and hadrons.
-					(Goldhaber Ch. 8, Perkins Ch. 5)  Continuous and discrete symmetries.(Terranova Ch. 5, Griffiths Ch. 4)
+		    <td> Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation. Parity and charge parity of composite states.
+				(Terranova Ch. 5, Griffiths Ch. 4)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-13-lecture-08.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-20-lecture-09.pdf" target=blank_></a></td>
       </tr>
 
+			<tr>
+		    <td style="text-align: center">2023-03-08 </td>
+		    <td>Isospin: hypothesis and experimental evidence. Strangeness, charge and hypercharge. Static quark model. Scalar meson octet.
+				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-22-lecture-10.pdf" target=blank_></a></td>
+      </tr>
 
 
 
 			<?php /*
 
-
-
-
-
-
-			<tr>
-		    <td style="text-align: center">2023-03-06 </td>
-		    <td>Leptons, quarks, and hadrons. Leton and baryon numbers. Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation.
-				(Terranova Ch. 5, Griffiths Ch. 4)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-06-lecture-symmetries.pdf" target=blank_>board</a></td>
-      </tr>
-
-			<tr>
-		    <td style="text-align: center">2023-03-08 </td>
-		    <td>Parity and charge parity of composite states. Isospin: hypothesis and experimental evidence. Strangeness, charge and hypercharge. Static quark model. Scalar meson octet.
-				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-08-lecture-isospin-strangeness-quarkmodel.pdf" target=blank_>board</a></td>
-      </tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-13 </td>
@@ -208,13 +196,6 @@
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-15-lecture-baryons-color.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-03-17, Fri @ 8:30</td>
-		    <td>Helicity of neutrinos. The Goldhaber experiment.
-				(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-17-helicity-neutrino.pdf" target=blank_>pdf</a></td>
 			</tr>
 
 
@@ -294,6 +275,14 @@
 				(Terranova Ch. 10, Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-14-lecture-weak.pdf" target=blank_>board</a></td>
 			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-03-17, Fri @ 8:30</td>
+		    <td>Helicity of neutrinos. The Goldhaber experiment.
+				(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-17-helicity-neutrino.pdf" target=blank_>pdf</a></td>
+			</tr>
+
 
 			<tr>
 		    <td style="text-align: center">2023-04-17</td>
