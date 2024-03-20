@@ -164,9 +164,10 @@
 			<tr>
 		    <td style="text-align: center">2024-03-20 </td>
 		    <td> Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation. Parity and charge parity of composite states.
+					Isospin as new internal continuous symmetry.
 				(Terranova Ch. 5, Griffiths Ch. 4)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-20-lecture-09.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-20-lecture-09.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
