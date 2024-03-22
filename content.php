@@ -174,7 +174,7 @@
 		    <td style="text-align: center">2023-03-22, Fri @ 8:30  </td>
 		    <td>Isospin: hypothesis and experimental evidence. G-parity. Strangeness, charge and hypercharge. Static quark model. Scalar meson octet.
 				(Terranova Ch.8, Perkins Ch. 4 and 5, Griffiths Ch. 4)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-22-lecture-10.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-22-lecture-10.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
