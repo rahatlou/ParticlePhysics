@@ -179,34 +179,28 @@
 
 			<tr>
 		    <td style="text-align: center">2023-03-25 </td>
-		    <td>Static quark model. Meson multiplets. Producion and decay. Light meson mixing.
+		    <td>Static quark model. Meson multiplets. Producion and decay. Light meson mixing. Decay of &rho;<sup>0</sup>
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
-				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-25-lecture-11.pdf" target=blank_></a></td>
+				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf"  target=blank_>PDG ch. 15</a>, <a href="https://pdglive.lbl.gov"  target=blank_>PDGlive</a>,
+				<a href="https://pdg.lbl.gov/2002/clebrpp.pdf"  target=blank_>Clebsch-Gordan coefficients</a>)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-25-lecture-11.pdf" target=blank_>board</a></td>
 			</tr>
 
-
-			<?php /*
-
-
 			<tr>
-		    <td style="text-align: center">2023-03-13 </td>
-		    <td>Static quark model. Meson multiplets. Producion and decay. Light meson mixing.
-				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
-				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-13-lecture-quark-model.pdf" target=blank_>board</a></td>
-			</tr>
-
-
-			<tr>
-		    <td style="text-align: center">2023-03-15 </td>
+		    <td style="text-align: center">2023-03-27 </td>
 		    <td>Static quark model. Baryon multiplets. Prediction and discovery of &Omega;<sup>-</sup>.
 					SU(4) flavor with charm quark.
 					Hypothesis of new quantum number: color;
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-15-lecture-baryons-color.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-27-lecture-12.pdf" target=blank_></a></td>
 			</tr>
+
+
+
+			<?php /*
+
+
 
 
 			<tr>
