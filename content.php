@@ -188,14 +188,28 @@
 
 			<tr>
 		    <td style="text-align: center">2023-03-27 </td>
-		    <td>Static quark model. Baryon multiplets. Prediction and discovery of &Omega;<sup>-</sup>.
-					SU(4) flavor with charm quark.
-					Hypothesis of new quantum number: color;
+		    <td>Static quark model. Baryon multiplets. Prediction and discovery of &Omega;<sup>-</sup>. Baryon decays.
+					Hypothesis of new quantum number: color. Baryon decuplet.
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-27-lecture-12.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-27-lecture-12.pdf" target=blank_>board</a></td>
 			</tr>
 
+			<tr>
+		    <td style="text-align: center">2024-04-03</td>
+		    <td> Color quantum number. Baryon octets. Baryon and Meson wave functions. Similarities and differences between gluons and photon.
+					SU(4) flavor with charm quark.
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-03-lecture-13.pdf" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2023-04-05, Fri @ 8:30</td>
+		    <td> Experimental evidence of quarks and color. e<sup>+</sup>e<sup>-</sup> scattering: cross section. Bhabha and Moeller scattering. Mandelstam variables. u-, t-, and s-channel diagrams.
+					Annihilation channel and muon pair production. Annihilation diagram. (Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-05-lecture-14.pdf" target=blank_></a></td>
+			</tr>
 
 
 			<?php /*
@@ -211,12 +225,6 @@
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-20-lecture-color-decays.pdf" target=blank_>board</a></td>
 			</tr>
 
-			<tr>
-		    <td style="text-align: center">2023-03-22, Wed</td>
-		    <td> <b>No lecture</b>
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-24, Fri @ 8:30</td>
