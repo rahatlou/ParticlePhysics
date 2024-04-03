@@ -197,16 +197,19 @@
 
 			<tr>
 		    <td style="text-align: center">2024-04-03</td>
-		    <td> Color quantum number. Baryon octets. Baryon and Meson wave functions. Similarities and differences between gluons and photon.
+		    <td> Color quantum number. Baryon octets. Baryon and Meson wave functions.
 					SU(4) flavor with charm quark.
+					(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4,
+					<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-03-lecture-13.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-03-lecture-13.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-05, Fri @ 8:30</td>
-		    <td> Experimental evidence of quarks and color. e<sup>+</sup>e<sup>-</sup> scattering: cross section. Bhabha and Moeller scattering. Mandelstam variables. u-, t-, and s-channel diagrams.
-					Annihilation channel and muon pair production. Annihilation diagram. (Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
+		    <td>Experimental evidence of quarks and color. e<sup>+</sup>e<sup>-</sup> scattering: cross section. Bhabha and Moeller scattering. Mandelstam variables. u-, t-, and s-channel diagrams.
+					Annihilation channel and muon pair production. Annihilation diagram. <sup>+</sup>e<sup>-</sup> scattering: total and differential cross section.
+					(Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
 				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-05-lecture-14.pdf" target=blank_></a></td>
 			</tr>
@@ -215,15 +218,6 @@
 			<?php /*
 
 
-
-
-			<tr>
-		    <td style="text-align: center">2023-03-20</td>
-		    <td> Color quantum number. Baryon and Meson wave functions. Similarities and differences between gluons and photon. Hadronic, semileptonic and leptonic decays.
-					Features of 3 body decays. 	(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, 6.1, 6.2, Griffiths Ch. 8)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-20-lecture-color-decays.pdf" target=blank_>board</a></td>
-			</tr>
 
 
 			<tr>
