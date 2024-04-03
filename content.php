@@ -208,7 +208,7 @@
 			<tr>
 		    <td style="text-align: center">2023-04-05, Fri @ 8:30</td>
 		    <td>Experimental evidence of quarks and color. e <sup>+</sup> e<sup>-</sup> scattering: cross section. Bhabha and Moeller scattering. Mandelstam variables. u-, t-, and s-channel diagrams.
-					Annihilation channel and muon pair production. Annihilation diagram. <sup>+</sup>e<sup>-</sup> scattering: total and differential cross section.
+					Annihilation channel and muon pair production. Annihilation diagram. e<sup>+</sup>e<sup>-</sup> scattering: total and differential cross section.
 					(Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
 				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-05-lecture-14.pdf" target=blank_></a></td>
