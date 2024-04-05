@@ -226,6 +226,20 @@
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-08-lecture-15.pdf" target=blank_></a></td>
 			</tr>
 
+			<tr>
+		    <td style="text-align: center">2024-04-10 </td>
+		    <td> No Lecture </td>
+		    <td style="text-align: center"><a href="" target=blank_></a></td>
+      </tr>
+
+			<tr>
+		    <td style="text-align: center">2023-04-12</td>
+		    <td> Measurement of R. Discovery of J/&Psi; and charm quark. J/&Psi; properties. Charmonium resonances. Charmonium decay. OZI rule.
+					(Goldhaber Ch. 9, 10)
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-12-lecture-16.pdf" target=blank_></a></td>
+			</tr>
+
 
 			<?php /*
 
