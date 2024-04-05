@@ -171,14 +171,14 @@
       </tr>
 
 			<tr>
-		    <td style="text-align: center">2023-03-22, Fri @ 8:30  </td>
+		    <td style="text-align: center">2024-03-22, Fri @ 8:30  </td>
 		    <td>Isospin: hypothesis and experimental evidence. G-parity. Strangeness, charge and hypercharge. Static quark model. Scalar meson octet.
 				(Terranova Ch.8, Perkins Ch. 4 and 5, Griffiths Ch. 4)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-22-lecture-10.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
-		    <td style="text-align: center">2023-03-25 </td>
+		    <td style="text-align: center">2024-03-25 </td>
 		    <td>Static quark model. Meson multiplets. Producion and decay. Light meson mixing. Decay of &rho;<sup>0</sup>
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf"  target=blank_>PDG ch. 15</a>, <a href="https://pdglive.lbl.gov"  target=blank_>PDGlive</a>,
@@ -187,7 +187,7 @@
 			</tr>
 
 			<tr>
-		    <td style="text-align: center">2023-03-27 </td>
+		    <td style="text-align: center">2024-03-27 </td>
 		    <td>Static quark model. Baryon multiplets. Prediction and discovery of &Omega;<sup>-</sup>. Baryon decays.
 					Hypothesis of new quantum number: color. Baryon decuplet.
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
@@ -206,38 +206,29 @@
 			</tr>
 
 			<tr>
-		    <td style="text-align: center">2023-04-05, Fri @ 8:30</td>
-		    <td>Experimental evidence of quarks and color. e <sup>+</sup> e<sup>-</sup> scattering: total and differential cross section.
+		    <td style="text-align: center">2024-04-05, Fri @ 8:30</td>
+		    <td>
 					Bhabha and Moeller scattering.
-					Mandelstam variables. u-, t-, and s-channel diagrams.
-					Annihilation channel and muon pair production. Annihilation diagram.
+					Mandelstam variables. u-, t-, and s-channel diagrams. Annihilation diagram.
+					Muon pair production. e <sup>+</sup> e<sup>-</sup>&rightarrow;&mu;<sup>+</sup>&mu;<sup>-</sup>: total and differential cross section.
+					Pair production of quarks. Ratio R of hadronic and muon cross sections. Experimental evidence of quarks and color.
 					(Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-05-lecture-14.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-05-lecture-14.pdf" target=blank_>board</a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2024-04-08</td>
+		    <td> Measurement of R. PETRA e<sup>+</sup>e<sup>-</sup> collider at DESY. The JADE detector. Experimental technqiues for identification of
+					e<sup>+</sup>e<sup>-</sup>&rightarrow;e<sup>+</sup>e<sup>-</sup>, &mu;<sup>+</sup>&mu;<sup>-</sup>,&tau;<sup>+</sup>&tau;<sup>-</sup>, hadrons
+					(Griffiths Ch.8, Goldhaber Ch. 10)
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-08-lecture-15.pdf" target=blank_></a></td>
 			</tr>
 
 
 			<?php /*
 
-
-
-
-			<tr>
-		    <td style="text-align: center">2023-03-24, Fri @ 8:30</td>
-		    <td> QED at work. e<sup>+</sup>e<sup>-</sup> scattering: cross section. Bhabha and Moeller scattering. Mandelstam variables. u-, t-, and s-channel diagrams.
-					Annihilation channel and muon pair production. Annihilation diagram. (Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-24-lecture-ee-collisions.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-03-27</td>
-		    <td> e<sup>+</sup>e<sup>-</sup> scattering: total and differential cross section. Experimental techniques. Experiments at PETRA. The JADE detector.
-					e<sup>+</sup>e<sup>-</sup>&rightarrow;e<sup>+</sup>e<sup>-</sup>, &mu;<sup>+</sup>&mu;<sup>-</sup>,&tau;<sup>+</sup>&tau;<sup>-</sup>, hadrons
-					(Griffiths Ch.8, Goldhaber Ch. 10)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-27-lecture-ee-collisions.pdf" target=blank_>board</a></td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-29</td>
