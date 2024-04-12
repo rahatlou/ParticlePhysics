@@ -223,7 +223,7 @@
 					e<sup>+</sup>e<sup>-</sup>&rightarrow;e<sup>+</sup>e<sup>-</sup>, &mu;<sup>+</sup>&mu;<sup>-</sup>,&tau;<sup>+</sup>&tau;<sup>-</sup>, hadrons
 					(Griffiths Ch.8, Goldhaber Ch. 10)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-08-lecture-15.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-08-lecture-15.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
@@ -234,7 +234,7 @@
 
 			<tr>
 		    <td style="text-align: center">2024-04-12</td>
-		    <td> Measurement of R. Discovery of J/&Psi; and charm quark. J/&Psi; properties. 
+		    <td> Measurement of R. Discovery of J/&Psi; and charm quark. J/&Psi; properties.
 					(Goldhaber Ch. 9, 10)
 				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-12-lecture-16.pdf" target=blank_>board</a></td>
