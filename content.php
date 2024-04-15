@@ -243,12 +243,22 @@
 
 			<tr>
 		    <td style="text-align: center">2024-04-15</td>
-		    <td> J/&Psi; properties. Charmonium resonances. Decay of qqbar resonances. Charmonium decay. OZI rule.
-					Discovery of the &tau; lepton. Discovery of the bottom quark and the Upsilon (&Upsilon;) resonances.
+		    <td> Decay of qqbar resonances: EM and strong decays of the &Phi;(1020). Charmonium resonances. J/&Psi; properties and decay. The OZI rule.
+					Discovery of the &tau; lepton.
 					(Goldhaber Ch. 9, 10, 11)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-15-lecture-17.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-15-lecture-17.pdf" target=blank_>board</a></td>
 			</tr>
+
+
+			<tr>
+		    <td style="text-align: center">2024-04-17</td>
+		    <td> Discovery of the bottom quark and the Upsilon (&Upsilon;) resonances. Discovery of the top quark.
+					(Goldhaber Ch. 9, 10, 11)
+				</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-17-lecture-18.pdf" target=blank_></a></td>
+			</tr>
+
 
 
 
@@ -257,30 +267,6 @@
 
 			<?php /*
 
-
-			<tr>
-		    <td style="text-align: center">2023-03-29</td>
-		    <td> e<sup>+</sup>e<sup>-</sup> scattering: measurement of R. Charm quark. Discovery of J/&Psi; at Brookhaven.
-					(Griffiths Ch.8, Goldhaber Ch. 10)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-29-lecture-ee-collisions.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-03-31, Fri @ 8:30</td>
-		    <td> Discovery of J/&Psi; at SLAC. J/&Psi; properties. Charmonium resonances. Charmonium decay. OZI rule.
-				(Goldhaber Ch. 9)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-31-lecture-charmonium.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-04-03</td>
-		    <td>Number of families in the standard model. Discovery of the &tau; lepton. Discovery of the bottom quark and Upsilon.Looking for the top quark.
-					(Goldhaber Ch. 9, 11)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-03-lecture-tau-b-top.pdf" target=blank_>board</a>
-				</td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-05</td>
