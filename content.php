@@ -262,13 +262,19 @@
 			<tr>
 				<td style="text-align: center">2024-04-22</td>
 				<td>Weak interactions. Number of neutrino flavors. Weak interaction as a chrial theory: Helicity and chirality.
-					From Fermi model to current-current theory. Heavy weak mediator and Fermi constant G<sub>F</sub>
+					From Fermi model to current-current theory.
 				 (Terranova Ch. 10, Goldhaber Ch. 14, 6, Griffiths Ch. 9, Perkins Ch. 9)
 				</td>
-				<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-22-lecture-19.pdf" target=blank_></a></td>
+				<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-22-lecture-19.pdf" target=blank_>board</a></td>
 			</tr>
 
 
+			<tr>
+		    <td style="text-align: center">2024-04-24</td>
+		    <td>Heavy weak mediator and Fermi constant G<sub>F</sub>. Helicity of neutrinos. The Goldhaber experiment.
+				(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-24-lecture-20.pdf" target=blank_></a></td>
+			</tr>
 
 
 
