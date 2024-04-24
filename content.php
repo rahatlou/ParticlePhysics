@@ -271,11 +271,19 @@
 
 			<tr>
 		    <td style="text-align: center">2024-04-24</td>
-		    <td>Heavy weak mediator and Fermi constant G<sub>F</sub>. Helicity of neutrinos. The Goldhaber experiment.
+		    <td>Helicity of neutrinos. The Goldhaber experiment. Helicity suppression. Chiral weak interaction.
 				(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-24-lecture-20.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-24-eseercitazione-20.pdf" target=blank_>pdf</a></td>
 			</tr>
 
+
+
+			<tr>
+		    <td style="text-align: center">2024-04-29</td>
+		    <td>Heavy weak mediator and Fermi constant G<sub>F</sub>. Muon decay. Neutron decay. Helicity suppression in pion decay.
+				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-29-lecture-21.pdf" target=blank_></a></td>
+			</tr>
 
 
 
@@ -283,20 +291,8 @@
 
 
 
-			<tr>
-		    <td style="text-align: center">2023-03-17, Fri @ 8:30</td>
-		    <td>Helicity of neutrinos. The Goldhaber experiment.
-				(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-17-helicity-neutrino.pdf" target=blank_>pdf</a></td>
-			</tr>
 
 
-			<tr>
-		    <td style="text-align: center">2023-04-17</td>
-		    <td>Muon decay. Helicity suppression in pion decay. Neutron decay.
-				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-17-lecture-weak.pdf" target=blank_>board</a></td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-19</td>
