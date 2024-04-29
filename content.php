@@ -280,9 +280,16 @@
 
 			<tr>
 		    <td style="text-align: center">2024-04-29</td>
-		    <td>Heavy weak mediator and Fermi constant G<sub>F</sub>. Muon decay. Neutron decay. Helicity suppression in pion decay.
-				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-29-lecture-21.pdf" target=blank_></a></td>
+		    <td>Heavy weak mediator and Fermi constant G<sub>F</sub>. Test of V-A theory: Muon decay and Helicity suppression in pion decay.
+				(Terranova Ch. 10, Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-29-lecture-21.pdf" target=blank_>board</a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2024-05-03</td>
+		    <td>Lepton universality in weak interactions. Neutron decay. Weak interaction of Quarks. Cabibbo angle.
+				(Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-03-lecture-22.pdf" target=blank_></a></td>
 			</tr>
 
 
