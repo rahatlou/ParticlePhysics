@@ -287,34 +287,26 @@
 
 			<tr>
 		    <td style="text-align: center">2024-05-03</td>
-		    <td>Lepton universality in weak interactions. Neutron decay. Weak interaction of Quarks. Cabibbo angle.
+		    <td>Lepton universality in weak interactions. Neutron decay. Weak interaction of hadrons.
 				(Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-03-lecture-22.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-03-lecture-22.pdf" target=blank_>board</a></td>
 			</tr>
 
+			<tr>
+		    <td style="text-align: center">2024-05-06</td>
+		    <td>Weak interaction of quarks. Charged weak current. Cabibbo angle. The GIM mechanism. Tree and Loop diagrams.
+				  The Cabibbo-Kobayashi-Maskawa (CKM) matrix.
+				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-06-lecture-23.pdf" target=blank_>board</a></td>
+			</tr>
 
 
 			<?php /*
 
 
+			Oscillation of neutral B mesons.
+			Neutral Weak Current.
 
-
-
-
-			<tr>
-		    <td style="text-align: center">2023-04-19</td>
-		    <td>Lepton universality in weak interactions. Weak interaction of Quarks. Cabibbo angle.
-				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-19-lecture-weak.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-04-26</td>
-		    <td>The GIM mechanism. Tree and Loop diagrams. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Oscillation of neutral B mesons.
-					Neutral Weak Current.
-				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-26-lecture-weak.pdf" target=blank_>board</a></td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-28, Fri @ 8:30</td>
