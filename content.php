@@ -286,7 +286,7 @@
 			</tr>
 
 			<tr>
-		    <td style="text-align: center">2024-05-03</td>
+		    <td style="text-align: center">2024-05-03, Fri @ 8:30</td>
 		    <td>Lepton universality in weak interactions. Neutron decay. Weak interaction of hadrons.
 				(Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-03-lecture-22.pdf" target=blank_>board</a></td>
