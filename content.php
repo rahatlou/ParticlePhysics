@@ -297,7 +297,7 @@
 		    <td>Weak interaction of quarks. Charged weak current. Cabibbo angle. The GIM mechanism. Tree and Loop diagrams.
 				  The Cabibbo-Kobayashi-Maskawa (CKM) matrix.
 				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-06-lecture-23.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-06-lecture-23.pdf" target=blank_></a></td>
 			</tr>
 
 
