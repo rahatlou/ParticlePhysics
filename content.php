@@ -66,7 +66,7 @@
 			<ul>
 	  	<li> <b>Monday, 12-14, Aula Conversi </b>, Edificio Marconi (CU013) </li>
 	  	<li> <b>Wednesday  10-12, Aula Conversi </b>, Edificio Marconi (CU013) </li>
-			<li> <b>Friday 8:30-10, Aula 3</b>, Edificio Fermi (CU033): <b>March 1,8,15,22, April 5,12, May 3,10,17,24</b> </li>
+			<li> <b>Friday 8:30-10, Aula 3</b>, Edificio Fermi (CU033): <b>March 1,8,15,22, April 5,12, May 3</b> </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
 	</div>
@@ -294,41 +294,45 @@
 
 			<tr>
 		    <td style="text-align: center">2024-05-06</td>
-		    <td>Weak interaction of quarks. Charged weak current. Cabibbo angle. The GIM mechanism. Tree and Loop diagrams.
-				  The Cabibbo-Kobayashi-Maskawa (CKM) matrix.
+		    <td>Weak interaction of quarks. Flavor changing charged weak current. The Cabibbo angle. The GIM mechanism. Tree and Loop diagrams.
 				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-06-lecture-23.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-06-lecture-23.pdf" target=blank_>board</a></td>
+			</tr>
+
+
+			<tr>
+		    <td style="text-align: center">2024-05-08</td>
+		    <td>The GIM mechanism. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Oscillation of neutral mesons. Structure of weak interactions.
+					Neutral Weak Current.
+				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-08-lecture-24.pdf" target=blank_></a></td>
+			</tr>
+
+
+			<tr>
+		    <td style="text-align: center">2024-05-13</td>
+		    <td>Discovery of Neutral Weak Current at CERN. Electroweak theory of Glashow-Weinberg-Salam.
+				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 9, Goldhaber Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-13-lecture-25.pdf" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2024-05-15</td>
+		    <td>Number of families in the Standard Model. Measurement of Number of neutrino families at LEP. (Terranova 12.7, Goldhaber 13). CP Violation.</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-15-lecture-26.pdf" target=blank_></a></td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2024-05-20</td>
+		    <td>CP Violation in neutral K. Quantum entanglement and coherent production of B mesons (Goldhaber Ch. 7, Terranova 13.7)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-20-lecture-27.pdf" target=blank_></a>
+				</td>
 			</tr>
 
 
 			<?php /*
 
 
-			Oscillation of neutral B mesons.
-			Neutral Weak Current.
-
-
-			<tr>
-		    <td style="text-align: center">2023-04-28, Fri @ 8:30</td>
-		    <td>Discovery of Neutral Weak Current at CERN. Electroweak theory of Glashow-Weinberg-Salam.
-				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-28-lecture-weak.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2023-05-03</td>
-		    <td>Discovery of W<sup>&pm;</sup> and Z<sup>0</sup> at CERN
-				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 9, Goldhaber Ch. 6)
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-03-lecture-weak.pdf" target=blank_>board</a></td>
-			</tr>
-
-
-			<tr>
-		    <td style="text-align: center">2023-05-05, Fri @ 8:30</td>
-		    <td>Measurement of Number of neutrino families at LEP. (Terranova 12.7, Goldhaber 13). CP Violation in neutral K mesons. (Goldhaber Ch. 7, Terranova 13.7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-05-LEPnu-CPVK.pdf" target=blank_>pdf</a></td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-08</td>
