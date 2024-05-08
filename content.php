@@ -302,10 +302,11 @@
 
 			<tr>
 		    <td style="text-align: center">2024-05-08</td>
-		    <td>The GIM mechanism. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Oscillation of neutral mesons. Structure of weak interactions.
+		    <td>The GIM mechanism. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Measurement of CKM matrix elements.
+					Oscillation of neutral mesons. Structure of weak interactions.
 					Neutral Weak Current.
 				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-08-lecture-24.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-08-lecture-24.pdf" target=blank_>board</a></td>
 			</tr>
 
 
@@ -332,6 +333,10 @@
 
 			<?php /*
 
+
+			Number of families
+			top decay and V_tb
+			unitarity of CKM matrix
 
 
 			<tr>
