@@ -94,27 +94,27 @@
 		  <tr>
 		    <td style="text-align: center">2023-02-27 </td>
 		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. (Grifiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-02-27-lecture.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-02-27-lecture.pdf" target=blank_>board</a></td>
       </tr>
 			<tr>
 		    <td style="text-align: center">2023-02-29 </td>
 		    <td>Collisions with fixed target and collinding beams. Cross section: definition and calculation with Fermi's Golden rule.
 					Resonant cross section and the Breit-Wigner distribution. (Grifiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-01-lecture-collisions-cross_section.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-01-lecture-collisions-cross_section.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-06 </td>
 		    <td>Leptons, quarks, and hadrons. Leton and baryon numbers. Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation.
 				(Terranova Ch. 5, Griffiths Ch. 4)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-06-lecture-symmetries.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-06-lecture-symmetries.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-08 </td>
 		    <td>Parity and charge parity of composite states. Isospin: hypothesis and experimental evidence. Strangeness, charge and hypercharge. Static quark model. Scalar meson octet.
 				(Terranova Ch.8, Perkins Ch. 4, Griffiths Ch. 4)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-08-lecture-isospin-strangeness-quarkmodel.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-08-lecture-isospin-strangeness-quarkmodel.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
@@ -122,7 +122,7 @@
 		    <td>Static quark model. Meson multiplets. Producion and decay. Light meson mixing.
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-13-lecture-quark-model.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-13-lecture-quark-model.pdf" target=blank_>board</a></td>
 			</tr>
 			<tr>
 		    <td style="text-align: center">2023-03-15 </td>
@@ -131,14 +131,14 @@
 					Hypothesis of new quantum number: color;
 				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
 				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-15-lecture-baryons-color.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-15-lecture-baryons-color.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-17, Fri @ 8:30</td>
 		    <td>Helicity of neutrinos. The Goldhaber experiment.
 				(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-17-helicity-neutrino.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-17-helicity-neutrino.pdf" target=blank_>pdf</a></td>
 			</tr>
 
 
@@ -147,14 +147,14 @@
 		    <td> Color quantum number. Baryon and Meson wave functions. Similarities and differences between gluons and photon. Hadronic, semileptonic and leptonic decays.
 					Features of 3 body decays. 	(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, 6.1, 6.2, Griffiths Ch. 8)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-20-lecture-color-decays.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-20-lecture-color-decays.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-22, Wed</td>
 		    <td> <b>No lecture</b>
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/" target=blank_></a></td>
 			</tr>
 
 			<tr>
@@ -162,7 +162,7 @@
 		    <td> QED at work. e<sup>+</sup>e<sup>-</sup> scattering: cross section. Bhabha and Moeller scattering. Mandelstam variables. u-, t-, and s-channel diagrams.
 					Annihilation channel and muon pair production. Annihilation diagram. (Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-24-lecture-ee-collisions.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-24-lecture-ee-collisions.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
@@ -171,7 +171,7 @@
 					e<sup>+</sup>e<sup>-</sup>&rightarrow;e<sup>+</sup>e<sup>-</sup>, &mu;<sup>+</sup>&mu;<sup>-</sup>,&tau;<sup>+</sup>&tau;<sup>-</sup>, hadrons
 					(Griffiths Ch.8, Goldhaber Ch. 10)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-27-lecture-ee-collisions.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-27-lecture-ee-collisions.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
@@ -179,14 +179,14 @@
 		    <td> e<sup>+</sup>e<sup>-</sup> scattering: measurement of R. Charm quark. Discovery of J/&Psi; at Brookhaven.
 					(Griffiths Ch.8, Goldhaber Ch. 10)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-29-lecture-ee-collisions.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-29-lecture-ee-collisions.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-03-31, Fri @ 8:30</td>
 		    <td> Discovery of J/&Psi; at SLAC. J/&Psi; properties. Charmonium resonances. Charmonium decay. OZI rule.
 				(Goldhaber Ch. 9)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-03-31-lecture-charmonium.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-03-31-lecture-charmonium.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
@@ -194,7 +194,7 @@
 		    <td>Number of families in the standard model. Discovery of the &tau; lepton. Discovery of the bottom quark and Upsilon.Looking for the top quark.
 					(Goldhaber Ch. 9, 11)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-03-lecture-tau-b-top.pdf" target=blank_>board</a>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-04-03-lecture-tau-b-top.pdf" target=blank_>board</a>
 				</td>
 			</tr>
 
@@ -203,34 +203,34 @@
 		    <td>Discovery of the top quark. Weak interactions. Number of neutrino flavors.
 			   (Goldhaber Ch. 14, 6, Griffiths Ch. 9, Perkins Ch. 9)
 				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-05-lecture-top-weak.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-04-05-lecture-top-weak.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-12</td>
 		    <td><b>No Lecture</b></td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/" target=blank_></a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-14, Fri @ 8:30</td>
 		    <td>Weak interaction as a chrial theory: Helicity and chirality. From Fermi model to current-current theory. Heavy weak mediator and Fermi constant G<sub>F</sub>
 				(Terranova Ch. 10, Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-14-lecture-weak.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-04-14-lecture-weak.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-17</td>
 		    <td>Muon decay. Helicity suppression in pion decay. Neutron decay.
 				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-17-lecture-weak.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-04-17-lecture-weak.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-19</td>
 		    <td>Lepton universality in weak interactions. Weak interaction of Quarks. Cabibbo angle.
 				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-19-lecture-weak.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-04-19-lecture-weak.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
@@ -238,14 +238,14 @@
 		    <td>The GIM mechanism. Tree and Loop diagrams. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Oscillation of neutral B mesons.
 					Neutral Weak Current.
 				(Griffiths Ch. 9, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-26-lecture-weak.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-04-26-lecture-weak.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-04-28, Fri @ 8:30</td>
 		    <td>Discovery of Neutral Weak Current at CERN. Electroweak theory of Glashow-Weinberg-Salam.
 				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 9, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-04-28-lecture-weak.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-04-28-lecture-weak.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
@@ -253,21 +253,21 @@
 		    <td>Discovery of W<sup>&pm;</sup> and Z<sup>0</sup> at CERN
 				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 9, Goldhaber Ch. 6)
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-03-lecture-weak.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-03-lecture-weak.pdf" target=blank_>board</a></td>
 			</tr>
 
 
 			<tr>
 		    <td style="text-align: center">2023-05-05, Fri @ 8:30</td>
 		    <td>Measurement of Number of neutrino families at LEP. (Terranova 12.7, Goldhaber 13). CP Violation in neutral K mesons. (Goldhaber Ch. 7, Terranova 13.7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-05-LEPnu-CPVK.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-05-LEPnu-CPVK.pdf" target=blank_>pdf</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-08</td>
 		    <td>CP Violation in neutral K. Quantum entanglement and coherent production of B mesons (Goldhaber Ch. 7, Terranova 13.7)</td>
-		    <td style="text-align: center">kaons(<a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-08-cpvk.pdf" target=blank_>pdf</a>)
-			  B(<a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-08-lecture-cpvb.pdf" target=blank_>board</a>)
+		    <td style="text-align: center">kaons(<a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-08-cpvk.pdf" target=blank_>pdf</a>)
+			  B(<a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-08-lecture-cpvb.pdf" target=blank_>board</a>)
 				</td>
 			</tr>
 
@@ -276,7 +276,7 @@
 		    <td style="text-align: center">2023-05-10</td>
 		    <td>Oscillation of neutral B mesons. CP violation in neutral B meson. (Goldhaber Ch. 15, Terranova 13.7)
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-10-lecture-cpvb.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-10-lecture-cpvb.pdf" target=blank_>board</a></td>
 			</tr>
 
 
@@ -284,55 +284,55 @@
 		    <td style="text-align: center">2023-05-15</td>
 		    <td>Structure of hadrons: Rutherford and Mott cross sections. Elastic elecron-nucleon scattering. (Goldhaber Ch. 8, Perkins Ch. 5)
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-15-lecture-scattering.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-15-lecture-scattering.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-17</td>
 		    <td>electron-nucleon scattering for pointlike and extended target. Form factor. (Goldhaber Ch. 8, Perkins Ch. 5)
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-17-lecture-scattering.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-17-lecture-scattering.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-19, Fri @ 8:30</td>
 		    <td> electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure (Goldhaber Ch. 8, Perkins Ch. 5)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-19-lecture-scattering.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-19-lecture-scattering.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-22</td>
 		    <td>Discovery of gluons at PETRA. Hadronic jets: experimental signature and techniques.
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-22-gluon-hadronicjets.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-22-gluon-hadronicjets.pdf" target=blank_>pdf</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-24</td>
 		    <td>Hadronic jets. Properties of hadronic jets from uds, c, and b quarks
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-24-jets-btag.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-24-jets-btag.pdf" target=blank_>pdf</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-29</td>
 		    <td>Deep Inelastic scattering. Probing structure functions at SLAC. Scaling. (Goldhaber Ch. 8, Perkins Ch. 5)
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-29-lecture-dis.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-29-lecture-dis.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-05-31</td>
 		    <td>Deep Inelastic scattering. Quark parton model. Parton density functions. (Goldhaber Ch. 8, Perkins Ch. 5)
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-31-lecture-quarkparton.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-05-31-lecture-quarkparton.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2023-06-05</td>
 		    <td>Physics at Large Hadron Collider.
 			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-06-05-lhcphysics.pdf" target=blank_>slides</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2023/material/2023-06-05-lhcphysics.pdf" target=blank_>slides</a></td>
 			</tr>
 
 
