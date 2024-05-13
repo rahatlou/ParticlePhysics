@@ -319,7 +319,7 @@
 
 			<tr>
 		    <td style="text-align: center">2024-05-15</td>
-		    <td>Tests of eletroweak theory. Experimental evidence for W and  bosons. Number of families in the Standard Model. Measurement of Number of neutrino families at LEP. (Terranova 12.7, Goldhaber 13). </td>
+		    <td>Tests of the eletroweak theory. Experimental evidence for W and Z bosons. Number of families in the Standard Model. Measurement of Number of neutrino families at LEP. (Terranova 12.7, Goldhaber 13). </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-15-lecture-26.pdf" target=blank_></a></td>
 			</tr>
 
