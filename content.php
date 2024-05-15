@@ -305,7 +305,7 @@
 		    <td>The GIM mechanism. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Measurement of CKM matrix elements.
 					Oscillation of neutral mesons. Structure of weak interactions.
 					Neutral Weak Current.
-				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6)</td>
+				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6, Terranova Ch. 13)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-08-lecture-24.pdf" target=blank_>board</a></td>
 			</tr>
 
@@ -313,19 +313,19 @@
 			<tr>
 		    <td style="text-align: center">2024-05-13</td>
 		    <td>Discovery of Neutral Weak Current at CERN. Electroweak theory of Glashow-Weinberg-Salam.
-				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 9, Goldhaber Ch. 6)</td>
+				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 7, Goldhaber Ch. 6)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-13-lecture-25.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2024-05-15</td>
-		    <td>Tests of the eletroweak theory. Experimental evidence for W and Z bosons. Number of families in the Standard Model. Measurement of Number of neutrino families at LEP. (Terranova 12.7, Goldhaber 13). </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-15-lecture-26.pdf" target=blank_></a></td>
+		    <td>Tests of the eletroweak theory. Experimental evidence for W and Z bosons.  (Terranova Ch. 12, Goldhaber Ch. 12, Perkins Ch. 7, Griffiths Ch. 9). </td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-15-lecture-26.pdf" target=blank_>board</a></td>
 			</tr>
 
 			<tr>
 		    <td style="text-align: center">2024-05-20</td>
-		    <td>CP Violation in neutral kaons. CP Violation in B mesons. Unitarity triangle and the CKM matrix. Quantum entanglement and coherent production of B mesons (Goldhaber Ch. 7, Terranova 13.7)</td>
+		    <td>CP Violation in neutral kaons. CP Violation in B mesons. Unitarity triangle and the CKM matrix. Quantum entanglement and coherent production of B mesons (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-20-lecture-27.pdf" target=blank_></a>
 				</td>
 			</tr>
@@ -333,7 +333,7 @@
 
 			<?php /*
 
-
+Number of families in the Standard Model. Measurement of Number of neutrino families at LEP.
 			Number of families
 			top decay and V_tb
 			unitarity of CKM matrix
