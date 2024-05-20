@@ -273,7 +273,7 @@
 		    <td style="text-align: center">2024-04-24</td>
 		    <td>Helicity of neutrinos. The Goldhaber experiment. Helicity suppression. Chiral weak interaction.
 				(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-24-eseercitazione-20.pdf" target=blank_>pdf</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-24-esercitazione-20.pdf" target=blank_>pdf</a></td>
 			</tr>
 
 
@@ -325,10 +325,19 @@
 
 			<tr>
 		    <td style="text-align: center">2024-05-20</td>
-		    <td>CP Violation in neutral kaons. CP Violation in B mesons. Unitarity triangle and the CKM matrix. Quantum entanglement and coherent production of B mesons (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-20-lecture-27.pdf" target=blank_></a>
+		    <td>CP Violation in neutral kaons. (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-20-esercitazione-27.pdf" target=blank_>pdf</a>
 				</td>
 			</tr>
+
+
+			<tr>
+		    <td style="text-align: center">2024-05-22</td>
+		    <td>Unitarity triangle and the CKM matrix. CP Violation in B mesons. Quantum entanglement and coherent production of B mesons.  (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-22-lecture-28.pdf" target=blank_></a>
+				</td>
+			</tr>
+
 
 
 			<?php /*
