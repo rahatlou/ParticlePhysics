@@ -333,7 +333,15 @@
 
 			<tr>
 		    <td style="text-align: center">2024-05-22</td>
-		    <td>Unitarity triangle and the CKM matrix. CP Violation in B mesons. Quantum entanglement and coherent production of B mesons.  (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
+		    <td>CP violation and matter--anti-matter asymmetry. Unitarity triangle and the CKM matrix. Direct CP Violation in B mesons. Quantum entanglement and coherent production of B mesons.  (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-22-lecture-28.pdf" target=blank_>board</a>
+				</td>
+			</tr>
+
+			<tr>
+		    <td style="text-align: center">2024-05-27</td>
+		    <td>Oscillation of neutral B mesons. CP Violation in interference between oscillation and decay in B &rightarrow; J/&Psi;K<sub>S</sub>.
+					 Number of families in the Standard Model and experimental evidence at LEP.  (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-22-lecture-28.pdf" target=blank_></a>
 				</td>
 			</tr>
@@ -345,16 +353,8 @@
 Number of families in the Standard Model. Measurement of Number of neutrino families at LEP.
 			Number of families
 			top decay and V_tb
-			unitarity of CKM matrix
 
 
-			<tr>
-		    <td style="text-align: center">2023-05-08</td>
-		    <td>CP Violation in neutral K. Quantum entanglement and coherent production of B mesons (Goldhaber Ch. 7, Terranova 13.7)</td>
-		    <td style="text-align: center">kaons(<a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-08-cpvk.pdf" target=blank_>pdf</a>)
-			  B(<a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-08-lecture-cpvb.pdf" target=blank_>board</a>)
-				</td>
-			</tr>
 
 			<tr>
 				<td style="text-align: center">2023-05-10</td>
