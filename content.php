@@ -342,45 +342,25 @@
 		    <td style="text-align: center">2024-05-27</td>
 		    <td>Oscillation of neutral B mesons. CP Violation in interference between oscillation and decay in B &rightarrow; J/&Psi;K<sub>S</sub>.
 					 Number of families in the Standard Model and experimental evidence at LEP.  (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-22-lecture-28.pdf" target=blank_></a>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-27-lecture-29.pdf" target=blank_>board</a>
 				</td>
 			</tr>
+
+			<tr>
+		    <td style="text-align: center">2024-05-29</td>
+		    <td>Origin of mass in the Standard Model. The Higgs boson. Physics at the Large Hadron Collider.
+			 </td>
+			 <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-29-lecture-30.pdf" target=blank_></a>
+			 </td>
+		 </tr>
 
 
 
 			<?php /*
 
-Number of families in the Standard Model. Measurement of Number of neutrino families at LEP.
 			Number of families
 			top decay and V_tb
 
-
-
-			<tr>
-				<td style="text-align: center">2023-05-10</td>
-				<td>Oscillation of neutral B mesons. CP violation in neutral B meson. (Goldhaber Ch. 15, Terranova 13.7)
-			 </td>
-				<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-10-lecture-cpvb.pdf" target=blank_>board</a></td>
-			</tr>
-
-
-
-						<tr>     POSTPONED to LATER
-					    <td style="text-align: center">2023-05-22</td>
-					    <td>Discovery of gluons at PETRA. Hadronic jets: experimental signature and techniques.
-						 </td>
-					    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-05-22-gluon-hadronicjets.pdf" target=blank_>pdf</a></td>
-						</tr>
-
-
-
-
-			<tr>
-		    <td style="text-align: center">2023-06-05</td>
-		    <td>Physics at Large Hadron Collider.
-			 </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2023-06-05-lhcphysics.pdf" target=blank_>slides</a></td>
-			</tr>
 */ ?>
 
 		</table>
