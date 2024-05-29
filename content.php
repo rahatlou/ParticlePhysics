@@ -348,9 +348,10 @@
 
 			<tr>
 		    <td style="text-align: center">2024-05-29</td>
-		    <td>Origin of mass in the Standard Model. The Higgs boson. Physics at the Large Hadron Collider.
+		    <td>Origin of mass in the Standard Model. The Higgs boson. Physics at the Large Hadron Collider. Dark Matter.
+					(Terranova 13 for the Higgs mechanism)
 			 </td>
-			 <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-29-lecture-30.pdf" target=blank_></a>
+			 <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-29-lecture-30.pdf" target=blank_>pdf</a>
 			 </td>
 		 </tr>
 
