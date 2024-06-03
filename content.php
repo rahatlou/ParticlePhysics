@@ -52,7 +52,7 @@
 		 <p>Calendar of oral exams</p>
 		<ul>
 			<!--li><a target=blank_ href=""></a></li-->
-			<li><a target=blank_ href=""></a>June</li>
+			<li>June: Students  registered on infostud are invited to <a target=blank_ href="https://docs.google.com/forms/d/e/1FAIpQLScm3I5lBC9A4Cc6DNUjL6_QI2Ut6qZ64dbIXUG4E3S6zJ7qtg/viewform?usp=sf_link">fill the form</a>, to select one of the proposed dates for the oral exam.</li>
 			<li><a target=blank_ href=""></a>July</li>
 			<li><a target=blank_ href=""></a>September</li>
  		</ul>
