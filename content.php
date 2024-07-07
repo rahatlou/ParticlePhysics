@@ -53,7 +53,8 @@
 		<ul>
 			<!--li><a target=blank_ href=""></a></li-->
 			<li>
-				<a target=blank_ href=""></a>July: Students registered on infostud are invited to <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXMwKmSqswJnTRNIA21pRZx0_XRLoUCfAKSOUY6rwSP31h7Q/viewform?usp=sf_link" target="_blank">fill this form</a>, to select one of the proposed dates for the oral exam.
+				<a target=blank_ href=""></a>July: <a target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQiDIPZHSbMIIs5PqEIIlhS4c7RII_y6yorq9tnt8SzLxLKwdwrZvVBR3YQs6nicXgI6zo8xmfNB7vt/pubhtml?gid=1915225643&single=true">exam calendar</a>. 
+				<p>Students registered on infostud are invited to <a href="https://docs.google.com/forms/d/e/1FAIpQLSeXMwKmSqswJnTRNIA21pRZx0_XRLoUCfAKSOUY6rwSP31h7Q/viewform?usp=sf_link" target="_blank">fill this form</a>, to select one of the proposed dates for the oral exam.</p>
 			</li>
 			<li>June: <a target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8ICgaZOxfAiMRYNwLkkab7kOXXE3BRuZj1U4_lHr6Xdjyh3m2t3S3hHYGYnSzNkxxg8u7O8vEMsUa/pubhtml?gid=1555936351&single=true">exam calendar</a>
 				<!--Students  registered on infostud are invited to <a target=blank_ href="https://docs.google.com/forms/d/e/1FAIpQLScm3I5lBC9A4Cc6DNUjL6_QI2Ut6qZ64dbIXUG4E3S6zJ7qtg/viewform?usp=sf_link">fill the form</a>, to select one of the proposed dates for the oral exam.--></li>
