@@ -53,7 +53,7 @@
 		<ul>
 			<!--li><a target=blank_ href=""></a></li-->
 			<li>
-				September: <!--a target="_blank" href=""-->exam calendar<!--/a-->.
+				September: <a target="_blank" href="https://docs.google.com/spreadsheets/d/1Tavjx_DfBGJxIf9mtZbzaDfO9GRoyfVohCQKt2eiuAk/pubhtml?gid=1186613816&single=true">exam calendar</a>.
 				<p>Students registered on infostud are invited to <a href="https://docs.google.com/forms/d/e/1FAIpQLSe5AaBp3wtWb6nMdZEjxerwLwqmUzOfxyrkeRoL-SuYzFJvPQ/viewform?usp=sf_link" target="_blank">fill this form</a>, to select one of the proposed dates for the oral exam by 2 September</p>
 			</li>
 			<li>
