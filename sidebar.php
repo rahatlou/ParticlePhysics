@@ -19,7 +19,7 @@
 <h2>Office Hours</h2>
   <ul>
     <li>
-      Wednesday 13:30-15:30, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 251-B, Piano 2, Edificio Marconi (CU013)</a> or by appointment
+      Wednesday 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 251-B, Piano 2, Edificio Marconi (CU013)</a> or any other time by appointment
     </li>
 <?php
 /*
