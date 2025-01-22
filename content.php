@@ -8,14 +8,7 @@
 
 	<div class="post">
 		<p><b>Lectures start on Wednesday 26 Feb 2025</b></p>
-		<?php
-		/*
-			<p>Le lezioni  si svolgeranno in modalita` mista come previsto dall'ateneo.
-				 Tutte le lezioni saranno trasmesse in diretta sulla piattaforma Google meet.</p>
-				 <p>Per seguire le lezioni in presenza e` richiesta la prenotazione su
-					 <a href="https://prodigit.uniroma1.it/">prodigit</a>.
-					 Sara` effettutato l'appello all'inizio di ogni lezione.</p>
-					 */ ?>
+
 
 			<p>All communication and news will appear on Google Classroom.
 				All students attending the course are kindly asked to register on
@@ -24,14 +17,13 @@
 			</p>
 
 
-
 	<h2 class="title">Exams</h2>
 		<div class="entry">
      <p>It is mandatory to make the reservation on infostud for the session of your interest
 			  if you intend to take the exam. All comunications regarding the calendar of oral exams will be through infostud. </p>
 
 		<p>
-		<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2023/32384/20190322090929/b11487b2-73a1-4c99-a3cc-2028e7f41e1a/9f2cf951-1b4b-4f0e-8789-9962791dee1b/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=9f2cf951-1b4b-4f0e-8789-9962791dee1b&current_erogata=b11487b2-73a1-4c99-a3cc-2028e7f41e1a" target="_blank">Dates of exam sessions</a>
+		<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/32384/20220331104432/559e9bb9-081d-4837-8320-122244ceb497/ce13b2fe-4c03-4eff-8a8f-98752c4d0fa8/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=ce13b2fe-4c03-4eff-8a8f-98752c4d0fa8&current_erogata=559e9bb9-081d-4837-8320-122244ceb497" target="_blank">Dates of exam sessions</a>
 		</p>
 		<p>The exams will take place over several days starting on the date indicated on infostud. At the closing of the reservations, students are asked to indicate their preference for a few dates and time slots
 			and the calendar is communicted through infostud and published on this page before the starting date.
@@ -39,8 +31,10 @@
 		</form>
 
 		<p>
-		All oral exams will take place in the Stanza 241, Piano 2, Edificio Marconi (CU013).
+		All oral exams will take place in the Stanza 251-B, Piano 2, Edificio Marconi (CU013).
 	</p>
+
+<?php /*
 
 		 <p>Calendar of oral exams</p>
 		<ul>
@@ -56,6 +50,7 @@
 			<li>June: <a target="_blank" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vT8ICgaZOxfAiMRYNwLkkab7kOXXE3BRuZj1U4_lHr6Xdjyh3m2t3S3hHYGYnSzNkxxg8u7O8vEMsUa/pubhtml?gid=1555936351&single=true">exam calendar</a>
 				<!--Students  registered on infostud are invited to <a target=blank_ href="https://docs.google.com/forms/d/e/1FAIpQLScm3I5lBC9A4Cc6DNUjL6_QI2Ut6qZ64dbIXUG4E3S6zJ7qtg/viewform?usp=sf_link">fill the form</a>, to select one of the proposed dates for the oral exam.--></li>
  		</ul>
+*/ ?>
 
 	</div>
 
@@ -63,10 +58,11 @@
 
 	<h2 class="title">Lecture schedule</h2>
 	<div class="entry">
+		 <p><a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s2_2425-v16.html#M1">orario II semestre</a></p>
 			<ul>
-	  	<li> <b>Monday, 12-14, Aula Conversi </b>, Edificio Marconi (CU013) </li>
-	  	<li> <b>Wednesday  10-12, Aula Conversi </b>, Edificio Marconi (CU013) </li>
-			<li> <b>Friday 8:30-10, Aula 3</b>, Edificio Fermi (CU033): <b>March 1,8,15,22, April 5,12, May 3</b> </li>
+	  	<li> <b>Monday, 12-14, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033) </li>
+	  	<li> <b>Tuesday  8-10, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033): not every week </li>
+			<li> <b>Wednesday 10-12, Aula 3 "Nella Mortara"</b>, Edificio Fermi (CU033) </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
 	</div>
@@ -94,10 +90,12 @@
 
 
 		  <tr>
-		    <td style="text-align: center">2024-02-26 </td>
+		    <td style="text-align: center">2025-02-26 </td>
 		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. (Griffiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-02-26-lecture-01.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics" target=blank_></a></td>
       </tr>
+
+<?php /* --- inizio commento lezioni passate
 			<tr>
 		    <td style="text-align: center">2024-02-28 </td>
 		    <td>Collisions with fixed target and collinding beams. Instantaneous and integrated luminosity.
@@ -354,15 +352,9 @@
 			 <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-29-lecture-30.pdf" target=blank_>pdf</a>
 			 </td>
 		 </tr>
+ ----- fine commento lezioni passate ---- */ ?>
 
 
-
-			<?php /*
-
-			Number of families
-			top decay and V_tb
-
-*/ ?>
 
 		</table>
 
