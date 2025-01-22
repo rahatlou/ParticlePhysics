@@ -1,15 +1,15 @@
 <div id="content">
 	<h1>Particle Physics</h1>
-  <h3>A.A. 2023-24</h3>
+  <h3>A.A. 2024-25</h3>
 
 	<div class="post news-cont">
 	   <? /*php include("Didattica/FNSN/news.html") */?>
 	</div>
 
 	<div class="post">
+		<p><b>Lectures start on Wednesday 26 Feb 2025</b></p>
 		<?php
 		/*
-		<p><b>Lectures start on Monday 27 Feb 2023</b>
 			<p>Le lezioni  si svolgeranno in modalita` mista come previsto dall'ateneo.
 				 Tutte le lezioni saranno trasmesse in diretta sulla piattaforma Google meet.</p>
 				 <p>Per seguire le lezioni in presenza e` richiesta la prenotazione su
@@ -19,16 +19,9 @@
 
 			<p>All communication and news will appear on Google Classroom.
 				All students attending the course are kindly asked to register on
-					<a href="https://classroom.google.com/c/NjY0MzU1MDQxMjQ5?cjc=zbhlmhc"  target="_blank">google classroom</a> using the class code
-					<a href="https://classroom.google.com/c/NjY0MzU1MDQxMjQ5?cjc=zbhlmhc"  target="_blank">zbhlmhc</a>.
+					<a href="https://classroom.google.com/c/MTk0NDgyNTQ5OTZa?cjc=urpjxku"  target="_blank">google classroom, code urpjxku</a>.
 			  You can register  <b>exclusively</b> with your uniroma1 credentials (no personal google account).
 			</p>
-
-<?php /*
-<p>Si puo` richiedere l'accesso alla registrazione di singole lezioni tramite questa
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSf3SxqXdfrWfspBT7wWdodC2sYLiyN4jlWjnwcFNZJ51V7Xew/viewform?usp=sf_link">google form</a>.</p>
-*/?>
-				<!--p>Il ricevimento si volge tramite Meet nell'orario indicato oppure in presenza per appuntamento.</p-->
 
 
 
