@@ -1,6 +1,6 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 22 Jan 2025</h3>
+<h3 class=h3sidebar>Last update: 13 Feb 2025</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
@@ -11,7 +11,7 @@
 
 
 <p>Syllabus and exam sessions:
-<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2023/32384/20190322090929/b11487b2-73a1-4c99-a3cc-2028e7f41e1a/9f2cf951-1b4b-4f0e-8789-9962791dee1b/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=9f2cf951-1b4b-4f0e-8789-9962791dee1b&current_erogata=b11487b2-73a1-4c99-a3cc-2028e7f41e1a" target="_blank">catalogo Sapienza</a>
+<a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/32384/20220331104432/559e9bb9-081d-4837-8320-122244ceb497/ce13b2fe-4c03-4eff-8a8f-98752c4d0fa8/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=ce13b2fe-4c03-4eff-8a8f-98752c4d0fa8&current_erogata=559e9bb9-081d-4837-8320-122244ceb497" target="_blank">catalogo Sapienza</a>
 </p>
 <p>Website of previous years: <a href="index.php?link=Didattica&sublink=2023.ParticlePhysics">2023</a>,
 <a href="index.php?link=Didattica&sublink=2024.ParticlePhysics">2024</a></p>
