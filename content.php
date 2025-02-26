@@ -91,8 +91,14 @@
 
 		  <tr>
 		    <td style="text-align: center">2025-02-26 </td>
-		    <td>Introduction. Collisions and decays. Decay width and lifetime. Branching fraction. Fermi Golden Rule. Two-body decay width calculation. (Griffiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics" target=blank_></a></td>
+		    <td>Introduction. Collisions and decays. Unstable particles. Decay width and lifetime. Q value. Fermi Golden Rule.  (Griffiths Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-02-26-lecture-01.pdf" target=blank_>board</a></td>
+      </tr>
+
+			<tr>
+		    <td style="text-align: center">2025-03-03 </td>
+		    <td> Two-body decay width. Branching fraction. Collisions with fixed target and collinding beams. (Griffiths Ch. 6)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/" target=blank_></a></td>
       </tr>
 
 <?php /* --- inizio commento lezioni passate
