@@ -91,33 +91,40 @@
 
 		  <tr>
 		    <td style="text-align: center">2025-02-26 </td>
-		    <td>Introduction. Collisions and decays. Unstable particles. Decay width and lifetime. Q value. Fermi Golden Rule.  (Griffiths Ch. 6)</td>
+		    <td>Introduction. Collisions and decays. Unstable particles. Decay width and lifetime. Q value. Fermi Golden Rule.  (Griffiths Ch. 6, Terranova Ch. 2)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-02-26-lecture-01.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
 		    <td style="text-align: center">2025-03-03 </td>
-		    <td> Two-body decay width. Branching fraction. Collisions with fixed target and collinding beams. Definiiton of cross section.
-					Instantaneous and integrated luminosity (Griffiths Ch. 6)</td>
+		    <td> Two-body decay width. Branching fraction. Collisions with fixed target and collinding beams. Definition of cross section.
+					Instantaneous and integrated luminosity (Griffiths Ch. 6, Terranova Ch. 2)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-03-lecture-02.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
 		    <td style="text-align: center">2024-03-05</td>
 		    <td>
-					Cross section: calculation with Fermi's Golden rule.
-					Rutherford scattering. Mott formula for electron scattering.
-					Resonant cross section and the Breit-Wigner distribution. (Griffiths Ch. 6)</td>
+					Cross section: calculation of 1+2 &rightarrow; 3+4 scattering with Fermi's Golden rule.
+					Rutherford scattering. The Mott formula.
+					e+e- &rightarrow; e+e- and &mu;+&mu;-.
+					(Griffiths Ch. 6, Terranova Ch. 2)</td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-05-lecture-03.pdf" target=blank_>board</a></td>
+      </tr>
+
+			<tr>
+		    <td style="text-align: center">2024-03-10</td>
+		    <td>
+					Resonant cross section and the Breit-Wigner distribution.
+					(Griffiths Ch. 6, Terranova Ch. 2)
+				  Probing structure of nucleons: Rutherford and Mott cross sections. Deviations in &alpha; scattering. electron-nucleon scattering: elastic and inelastic (Goldhaber Ch. 8, Perkins Ch. 5)
+			  </td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-05-lecture-03.pdf" target=blank_></a></td>
       </tr>
 
 
 <?php /* --- inizio commento lezioni passate
-			<tr>
-		    <td style="text-align: center">2024-02-28 </td>
-		    <td>Collisions with fixed target and collinding beams. Instantaneous and integrated luminosity.
-					 Cross section: definition and calculation with Fermi's Golden rule. (Griffiths Ch. 6)
-			  </td>
+
 
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-02-28-lecture-02.pdf" target=blank_>board</a></td>
       </tr>
@@ -131,7 +138,7 @@
 
 			<tr>
 		    <td style="text-align: center">2024-03-04 </td>
-		    <td>Probing structure of nucleons: Rutherford and Mott cross sections. Deviations in &alpha; scattering. electron-nucleon scattering: elastic and inelastic (Goldhaber Ch. 8, Perkins Ch. 5)</td>
+		    <td></td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-04-lecture-04.pdf" target=blank_>board</a></td>
       </tr>
 
