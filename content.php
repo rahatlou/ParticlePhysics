@@ -61,7 +61,7 @@
 		 <p><a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s2_2425-v16.html#M1">orario II semestre</a></p>
 			<ul>
 	  	<li> <b>Monday, 12-14, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033) </li>
-	  	<li> <b>Tuesday  8-10, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033): not every week </li>
+	  	<li> <b>Tuesday  8-10, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033): 18/3, 25/3, 1/4, 15/4, 29/4</li>
 			<li> <b>Wednesday 10-12, Aula 3 "Nella Mortara"</b>, Edificio Fermi (CU033) </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
@@ -117,24 +117,28 @@
 		    <td>
 					Resonant cross section and the Breit-Wigner distribution.
 					(Griffiths Ch. 6, Terranova Ch. 2)
-				  Probing structure of nucleons: Rutherford and Mott cross sections. Deviations in &alpha; scattering. electron-nucleon scattering: elastic and inelastic (Goldhaber Ch. 8, Perkins Ch. 5)
+				  Probing structure of nucleons: Rutherford and Mott cross sections. Deviations in &alpha; scattering on nuclei.
+					(Perkins Ch. 5, Goldhaber Ch. 8)
 			  </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-05-lecture-03.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-10-lecture-04.pdf" target=blank_>board</a></td>
+      </tr>
+
+			<tr>
+		    <td style="text-align: center">2024-03-12</td>
+		    <td>
+				  Electron-nucleon scattering: elastic and inelastic.
+					electron-nucleon scattering for pointlike and extended target. Form factors.
+					electron-nucleon scattering for Dirac proton: Rosenbluth formula.
+					Experimental proof of proton structure.
+					(Perkins Ch. 5, Goldhaber Ch. 8)</td>
+			  </td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-12-lecture-05.pdf" target=blank_></a></td>
       </tr>
 
 
 <?php /* --- inizio commento lezioni passate
 
 
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-02-28-lecture-02.pdf" target=blank_>board</a></td>
-      </tr>
-
-			<tr>
-		    <td style="text-align: center">2024-03-01, Fri @ 8:30</td>
-		    <td>Rutherford scattering. Mott formula for electron scattering.
-					Resonant cross section and the Breit-Wigner distribution. (Griffiths Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-01-lecture-03.pdf" target=blank_>board</a></td>
-      </tr>
 
 			<tr>
 		    <td style="text-align: center">2024-03-04 </td>
@@ -142,13 +146,7 @@
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-04-lecture-04.pdf" target=blank_>board</a></td>
       </tr>
 
-			<tr>
-		    <td style="text-align: center">2024-03-06 </td>
-		    <td> electron-nucleon scattering for pointlike and extended target. Form factors.
-					 electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure
-					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-06-lecture-05.pdf" target=blank_>board</a></td>
-      </tr>
+
 
 			<tr>
 		    <td style="text-align: center">2024-03-08, Fri @ 8:30 </td>
