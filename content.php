@@ -108,7 +108,8 @@
 					Cross section: calculation of 1+2 &rightarrow; 3+4 scattering with Fermi's Golden rule.
 					Rutherford scattering. The Mott formula.
 					e+e- &rightarrow; e+e- and &mu;+&mu;-.
-					(Griffiths Ch. 6, Terranova Ch. 2)</td>
+					(Griffiths Ch. 6, Terranova Ch. 2)
+				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-05-lecture-03.pdf" target=blank_>board</a></td>
       </tr>
 
@@ -128,12 +129,22 @@
 		    <td>
 				  Electron-nucleon scattering: elastic and inelastic.
 					electron-nucleon scattering for pointlike and extended target. Form factors.
-					electron-nucleon scattering for Dirac proton: Rosenbluth formula.
-					Experimental proof of proton structure.
-					(Perkins Ch. 5, Goldhaber Ch. 8)</td>
+					(Perkins Ch. 5, Goldhaber Ch. 8)
 			  </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-12-lecture-05.pdf" target=blank_></a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-12-lecture-05.pdf" target=blank_>lavagna</a></td>
       </tr>
+
+			<tr>
+		    <td style="text-align: center">2024-03-17</td>
+			<td>
+				electron-nucleon scattering for Dirac proton: Rosenbluth formula.
+				Experimental proof of proton structure.
+        Deep Inelastic scattering. Structure functions. Probing structure functions at SLAC.
+				Scaling. Quark Parton Model. Parton density functions.
+				(Perkins Ch. 5, Goldhaber Ch. 8)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-17-lecture-06.pdf" target=blank_></a></td>
+		</tr>
 
 
 <?php /* --- inizio commento lezioni passate
@@ -147,13 +158,6 @@
       </tr>
 
 
-
-			<tr>
-		    <td style="text-align: center">2024-03-08, Fri @ 8:30 </td>
-		    <td> Form factors. electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure.
-					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-08-lecture-06.pdf" target=blank_>board</a></td>
-      </tr>
 
 			<tr>
 		    <td style="text-align: center">2024-03-11 </td>
