@@ -139,13 +139,20 @@
 			<td>
 				electron-nucleon scattering for Dirac proton: Rosenbluth formula.
 				Experimental proof of proton structure.
-        Deep Inelastic scattering. Structure functions. Probing structure functions at SLAC.
-				Scaling. Quark Parton Model. Parton density functions.
 				(Perkins Ch. 5, Goldhaber Ch. 8)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-17-lecture-06.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-17-lecture-06.pdf" target=blank_>lavagna</a></td>
 		</tr>
 
+		<tr>
+			<td style="text-align: center">2024-03-18</td>
+		<td>
+			Deep Inelastic scattering. Structure functions. Probing structure functions at SLAC.
+			Scaling. Quark Parton Model. Parton density functions.
+			(Perkins Ch. 5, Goldhaber Ch. 8)
+		</td>
+		<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-18-lecture-07.pdf" target=blank_></a></td>
+	</tr>
 
 <?php /* --- inizio commento lezioni passate
 
