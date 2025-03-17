@@ -131,7 +131,7 @@
 					electron-nucleon scattering for pointlike and extended target. Form factors.
 					(Perkins Ch. 5, Goldhaber Ch. 8)
 			  </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-12-lecture-05.pdf" target=blank_>lavagna</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-12-lecture-05.pdf" target=blank_>board</a></td>
       </tr>
 
 			<tr>
@@ -141,7 +141,7 @@
 				Experimental proof of proton structure.
 				(Perkins Ch. 5, Goldhaber Ch. 8)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-17-lecture-06.pdf" target=blank_>lavagna</a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-17-lecture-06.pdf" target=blank_>board</a></td>
 		</tr>
 
 		<tr>
