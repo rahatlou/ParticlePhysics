@@ -41,7 +41,7 @@
     <li>Perkins, <a href="https://doi.org/10.1017/CBO9780511809040" target="_blank">Introduction to High Energy Physics, 4th ed.</a></li>
     <li>Cahn and Goldhaber, <a href="https://doi.org/10.1017/CBO9780511609923" target="_blank">The experimental foundation of Particle Physics</a>, 2nd Ed.</li>
     <li>Bagnaia, <a href="https://www.roma1.infn.it/~bagnaia/particle_physics.html" target="_blank">lectures from previous years</a></li>
-    <li>Paramatti, <a href="http://cern.ch/ric/cinematica.pdf" target="_blank">Dispense di cinematica relativistica</a></li>
+    <li>Paramatti, <a href="https://riccardo.web.cern.ch/cinematica.pdf" target="_blank">Dispense di cinematica relativistica</a></li>
     <li>Sakurai, Napolitano, <a href="https://www.zanichelli.it/ricerca/prodotti/meccanica-quantistica-moderna-sakurai-napolitano" target="_blank">Meccanica quantistica moderna, 2nd Ed.</a></li>
   </ul>
   </div>
