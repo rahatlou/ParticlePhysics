@@ -103,7 +103,7 @@
       </tr>
 
 			<tr>
-		    <td style="text-align: center">2024-03-05</td>
+		    <td style="text-align: center">2025-03-05</td>
 		    <td>
 					Cross section: calculation of 1+2 &rightarrow; 3+4 scattering with Fermi's Golden rule.
 					Rutherford scattering. The Mott formula.
@@ -114,7 +114,7 @@
       </tr>
 
 			<tr>
-		    <td style="text-align: center">2024-03-10</td>
+		    <td style="text-align: center">2025-03-10</td>
 		    <td>
 					Resonant cross section and the Breit-Wigner distribution.
 					(Griffiths Ch. 6, Terranova Ch. 2)
@@ -125,7 +125,7 @@
       </tr>
 
 			<tr>
-		    <td style="text-align: center">2024-03-12</td>
+		    <td style="text-align: center">2025-03-12</td>
 		    <td>
 				  Electron-nucleon scattering: elastic and inelastic.
 					electron-nucleon scattering for pointlike and extended target. Form factors.
@@ -135,7 +135,7 @@
       </tr>
 
 			<tr>
-		    <td style="text-align: center">2024-03-17</td>
+		    <td style="text-align: center">2025-03-17</td>
 			<td>
 				electron-nucleon scattering for Dirac proton: Rosenbluth formula.
 				Experimental proof of proton structure.
@@ -145,14 +145,40 @@
 		</tr>
 
 		<tr>
-			<td style="text-align: center">2024-03-18</td>
+			<td style="text-align: center">2025-03-18</td>
 		<td>
-			Deep Inelastic scattering. Structure functions. Probing structure functions at SLAC.
-			Scaling. Quark Parton Model. Parton density functions.
+			Deep Inelastic electron-proton scattering. Structure functions. Probing structure functions at SLAC.
 			(Perkins Ch. 5, Goldhaber Ch. 8)
 		</td>
-		<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-18-lecture-07.pdf" target=blank_></a></td>
-	</tr>
+		<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-18-lecture-07.pdf" target=blank_>board</a></td>
+  	</tr>
+
+		<tr>
+			<td style="text-align: center">2025-03-19</td>
+		<td>
+			Quark Parton Model. Scaling of structure functions with x. Feynman interpretation of x in DIS. Valence and sea partons. Parton density functions.
+			(Perkins Ch. 5, Goldhaber Ch. 8)
+		</td>
+		<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-19-lecture-08.pdf" target=blank_>board</a></td>
+  	</tr>
+
+		<tr>
+			<td style="text-align: center">2025-03-24 </td>
+			<td> Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation. Parity and charge parity of composite states.
+				Isospin.
+			(Terranova Ch. 5, Griffiths Ch. 4)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2024-03-24-lecture-09.pdf" target=blank_></a></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: center">2025-03-25, @ 8:30  </td>
+			<td>Isospin in hadron scattering. G-parity. Strangeness, charge and hypercharge. SU(3) flavor and Static quark model. Scalar meson octet.
+			(Terranova Ch.8, Perkins Ch. 4 and 5, Griffiths Ch. 4)</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2024-03-25-lecture-10.pdf" target=blank_></a></td>
+		</tr>
+
+
 
 <?php /* --- inizio commento lezioni passate
 
@@ -161,52 +187,9 @@
 			<tr>
 		    <td style="text-align: center">2024-03-04 </td>
 		    <td></td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-04-lecture-04.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/" target=blank_>board</a></td>
       </tr>
 
-
-
-			<tr>
-		    <td style="text-align: center">2024-03-11 </td>
-		    <td> Deep Inelastic scattering. Probing structure functions at SLAC. Scaling. Quark Parton Model. Parton density functions.
-					(Goldhaber Ch. 8, Perkins Ch. 5)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-11-lecture-07.pdf" target=blank_>board</a></td>
-      </tr>
-
-			<tr>
-		    <td style="text-align: center">2024-03-13 </td>
-		    <td> No Lecture </td>
-		    <td style="text-align: center"><a href="" target=blank_></a></td>
-      </tr>
-			<tr>
-		    <td style="text-align: center">2024-03-15 </td>
-		    <td> No Lecture </td>
-		    <td style="text-align: center"><a href="" target=blank_></a></td>
-      </tr>
-
-			<tr>
-		    <td style="text-align: center">2024-03-18 </td>
-		    <td> Quark Parton Model. Parton density functions. Quarks and hadrons.
-					(Goldhaber Ch. 8, Perkins Ch. 5)  Continuous and discrete symmetries.(Terranova Ch. 5, Griffiths Ch. 4)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-18-lecture-08.pdf" target=blank_>board</a></td>
-      </tr>
-
-			<tr>
-		    <td style="text-align: center">2024-03-20 </td>
-		    <td> Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation. Parity and charge parity of composite states.
-					Isospin as new internal continuous symmetry.
-				(Terranova Ch. 5, Griffiths Ch. 4)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-20-lecture-09.pdf" target=blank_>board</a></td>
-      </tr>
-
-			<tr>
-		    <td style="text-align: center">2024-03-22, Fri @ 8:30  </td>
-		    <td>Isospin: hypothesis and experimental evidence. G-parity. Strangeness, charge and hypercharge. Static quark model. Scalar meson octet.
-				(Terranova Ch.8, Perkins Ch. 4 and 5, Griffiths Ch. 4)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-22-lecture-10.pdf" target=blank_>board</a></td>
-      </tr>
 
 			<tr>
 		    <td style="text-align: center">2024-03-25 </td>
