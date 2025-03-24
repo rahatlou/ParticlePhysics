@@ -165,19 +165,29 @@
 		<tr>
 			<td style="text-align: center">2025-03-24 </td>
 			<td> Continuous and discrete symmetries. Quantum numbers and conservation laws.
-				Ispspin: hypothesis and experimental proff in hadron scattering.
-			(Terranova Ch. 5, Griffiths Ch. 4)
+				Ispspin: hypothesis and experimental proof in hadron scattering.
+			(Terranova Ch. 5, Griffiths Ch. 4)(Terranova Ch.8, Perkins Ch. 4 and 5, Griffiths Ch. 4)
+			(<a href="https://pdg.lbl.gov/2024/reviews/rpp2024-rev-clebsch-gordan-coefs.pdf"target=blank_>Clebsch_Gordan coeff. on PDG</a>)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-24-lecture-09.pdf" target=blank_>lavagna</a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-24-lecture-09.pdf" target=blank_>board</a></td>
 		</tr>
 
 		<tr>
 		  <td style="text-align: center">2025-03-25, @ 8:30  </td>
-			<td> Charge Conjugation. Parity and charge parity of composite states. G-parity. Strangeness, charge and hypercharge.
-				SU(3) flavor and Static quark model. Scalar meson octet.
-			(Terranova Ch.8, Perkins Ch. 4 and 5, Griffiths Ch. 4)</td>
+			<td> Isospin in &pi;-nucleon scattering. Discrete symmetries and their eigenvalues.
+				Charge Conjugation. Parity and charge parity of composite states. G-parity. Strangeness, charge and hypercharge.
+			</td>
 			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-25-lecture-10.pdf" target=blank_></a></td>
 		</tr>
+
+		<tr>
+		  <td style="text-align: center">2025-03-26  </td>
+			<td>
+				SU(3) flavor and Static quark model Meson multiplets. Producion and decay. Light meson mixing. Decay of &rho;<sup>0</sup>.
+			(Terranova Ch.8, Perkins Ch. 4 and 5, Griffiths Ch. 4)</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-26-lecture-11.pdf" target=blank_></a></td>
+		</tr>
+
 
 
 
