@@ -164,18 +164,19 @@
 
 		<tr>
 			<td style="text-align: center">2025-03-24 </td>
-			<td> Continuous and discrete symmetries. Quantum numbers and conservation laws. Charge Conjugation. Parity and charge parity of composite states.
-				Isospin.
+			<td> Continuous and discrete symmetries. Quantum numbers and conservation laws.
+				Ispspin: hypothesis and experimental proff in hadron scattering.
 			(Terranova Ch. 5, Griffiths Ch. 4)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2024-03-24-lecture-09.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-24-lecture-09.pdf" target=blank_>lavagna</a></td>
 		</tr>
 
 		<tr>
 		  <td style="text-align: center">2025-03-25, @ 8:30  </td>
-			<td>Isospin in hadron scattering. G-parity. Strangeness, charge and hypercharge. SU(3) flavor and Static quark model. Scalar meson octet.
+			<td> Charge Conjugation. Parity and charge parity of composite states. G-parity. Strangeness, charge and hypercharge.
+				SU(3) flavor and Static quark model. Scalar meson octet.
 			(Terranova Ch.8, Perkins Ch. 4 and 5, Griffiths Ch. 4)</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2024-03-25-lecture-10.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-25-lecture-10.pdf" target=blank_></a></td>
 		</tr>
 
 
