@@ -157,7 +157,7 @@
 			<td style="text-align: center">2025-03-19</td>
 		<td>
 			Quark Parton Model. Scaling of structure functions with x. Feynman interpretation of x in DIS. Valence and sea partons. Parton density functions.
-			(Perkins Ch. 5, Goldhaber Ch. 8)
+			(Perkins Ch. 5, Goldhaber Ch. 8, Torrenova Ch.7.7)
 		</td>
 		<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-19-lecture-08.pdf" target=blank_>board</a></td>
   	</tr>
@@ -186,7 +186,8 @@
 			<td>
 				Charge Conjugation of composite states. G-parity. Strangeness, charge and hypercharge.
 				SU(3) flavor and Static quark model Meson multiplets. Producion and decay. Light meson mixing. Decay of &rho;<sup>0</sup>.
-		  	(Griffiths Ch. 4, Terranova Ch. 5 and 8, Perkins Ch. 4 and 5)</td>
+		  	(Terranova Ch. 5 and 8, Griffiths Ch. 4,  Perkins Ch. 4)
+			</td>
 			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-26-lecture-11.pdf" target=blank_></a></td>
 		</tr>
 
