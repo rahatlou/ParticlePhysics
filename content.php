@@ -175,17 +175,18 @@
 		<tr>
 		  <td style="text-align: center">2025-03-25, @ 8:30  </td>
 			<td> Isospin in &pi;-nucleon scattering. Discrete symmetries and their eigenvalues.
-				Charge Conjugation. Parity and charge parity of composite states. G-parity. Strangeness, charge and hypercharge.
+				Parity. parity of composite states. Charge Conjugation.
 				(Terranova Ch. 5, Griffiths Ch. 4)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-25-lecture-10.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-25-lecture-10.pdf" target=blank_>board</a></td>
 		</tr>
 
 		<tr>
 		  <td style="text-align: center">2025-03-26  </td>
 			<td>
+				Charge Conjugation of composite states. G-parity. Strangeness, charge and hypercharge.
 				SU(3) flavor and Static quark model Meson multiplets. Producion and decay. Light meson mixing. Decay of &rho;<sup>0</sup>.
-			(Terranova Ch.8, Perkins Ch. 4 and 5, Griffiths Ch. 4)</td>
+		  	(Griffiths Ch. 4, Terranova Ch. 5 and 8, Perkins Ch. 4 and 5)</td>
 			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-26-lecture-11.pdf" target=blank_></a></td>
 		</tr>
 
