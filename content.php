@@ -61,7 +61,7 @@
 		 <p><a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s2_2425-v16.html#M1">orario II semestre</a></p>
 			<ul>
 	  	<li> <b>Monday, 12-14, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033) </li>
-	  	<li> <b>Tuesday  8-10, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033): <b>18/3, 25/3, 1/4, 15/4, 29/4</b> (lectures start at 8:30)</li>
+	  	<li> <b>Tuesday  8-10, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033): March: 18, 25, <b>April: 1, 15, 29, May, 13, 20, 27</b> (lectures start at 8:30)</li>
 			<li> <b>Wednesday 10-12, Aula 3 "Nella Mortara"</b>, Edificio Fermi (CU033) </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
@@ -184,11 +184,20 @@
 		<tr>
 		  <td style="text-align: center">2025-03-26  </td>
 			<td>
-				Charge Conjugation of composite states. G-parity. Strangeness, charge and hypercharge.
-				SU(3) flavor and Static quark model Meson multiplets. Producion and decay. Light meson mixing. Decay of &rho;<sup>0</sup>.
+				Charge Conjugation of composite states. G-parity. Strangeness, charge and hypercharge. Gell-Mann Nishijima formula.
+				SU(3) flavor and Static quark model.
 		  	(Terranova Ch. 5 and 8, Griffiths Ch. 4,  Perkins Ch. 4)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-26-lecture-11.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-26-lecture-11.pdf" target=blank_>board</a></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: center">2025-03-31  </td>
+			<td>
+				Static quark model. Meson multiplets. Light meson mixing. Decay of &rho;<sup>0</sup>. Baryon multiplets.
+		  	(Terranova Ch. 5 and 8, Griffiths Ch. 4,  Perkins Ch. 4)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-03-31-lecture-12.pdf" target=blank_></a></td>
 		</tr>
 
 
