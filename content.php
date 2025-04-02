@@ -173,7 +173,7 @@
 		</tr>
 
 		<tr>
-		  <td style="text-align: center">2025-03-25, @ 8:30  </td>
+		  <td style="text-align: center">2025-03-25</td>
 			<td> Isospin in &pi;-nucleon scattering. Discrete symmetries and their eigenvalues.
 				Parity. parity of composite states. Charge Conjugation.
 				(Terranova Ch. 5, Griffiths Ch. 4)
@@ -184,7 +184,8 @@
 		<tr>
 		  <td style="text-align: center">2025-03-26  </td>
 			<td>
-				Charge Conjugation of composite states. G-parity. Strangeness, charge and hypercharge. Gell-Mann Nishijima formula.
+				Charge Conjugation of composite states. G-parity. Strangeness, charge and hypercharge.
+				Gell-Mann Nishijima formula.
 				SU(3) flavor and Static quark model.
 		  	(Terranova Ch. 5 and 8, Griffiths Ch. 4,  Perkins Ch. 4)
 			</td>
@@ -204,10 +205,32 @@
 		  <td style="text-align: center">2025-04-01</td>
 			<td>
 				Static quark model. Baryon multiplets. Prediction and discovery of &Omega;<sup>-</sup>. Baryon decays.
-					Hypothesis of new quantum number: color. Baryon decuplet.
-					(Terranova Ch. 8, Griffiths Ch. 4,  Perkins Ch. 4)
+				 Examples of spectator and internal diagrams for weak decays of &Omega;<sup>-</sup>;
+					Symmetry ofbaryon decuplet. Hypothesis of new quantum number: color.
+					(Terranova Ch. 8, Perkins Ch. 4, Griffiths Ch. 4,  Cahn-Goldhaber ch. 5)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-01-lecture-13.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-01-lecture-13.pdf" target=blank_>board</a></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: center">2025-04-02</td>
+			<td>
+				Color quantum number. gluons as generators of SU(3) color. Matrix elements for QCD and comparison with QED.
+				&alpha;<sub>s</sub> and asymptotic freedom in QCD.
+				Baryon decuplet and singlet multipletes.
+					(Terranova Ch. 7 and 8, Perkins Ch. 4, Griffiths Ch. 4,  Cahn-Goldhaber ch. 5)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-02-lecture-14.pdf" target=blank_>board</a></td>
+		</tr>
+
+		<tr>
+		  <td style="text-align: center">2025-04-07</td>
+			<td>
+				Baryon octets. Baryon and Meson wave functions.
+				SU(4) flavor with charm quark. SU(5) and limits of flavor symmetry.
+					(Terranova Ch. 8, Perkins Ch. 4, Griffiths Ch. 4)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-07-lecture-15.pdf" target=blank_></a></td>
 		</tr>
 
 
@@ -222,26 +245,6 @@
 		    <td></td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/" target=blank_>board</a></td>
       </tr>
-
-
-
-			<tr>
-		    <td style="text-align: center">2024-03-27 </td>
-		    <td>
-				(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4, Griffiths Ch. 4,
-				<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-03-27-lecture-12.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2024-04-03</td>
-		    <td> Color quantum number. Baryon octets. Baryon and Meson wave functions.
-					SU(4) flavor with charm quark.
-					(Terranova Ch.8, Goldhaber Ch. 5, Perkins Ch. 4,
-					<a href="https://pdg.lbl.gov/2022/reviews/rpp2022-rev-quark-model.pdf">PDG ch. 15</a>)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-03-lecture-13.pdf" target=blank_>board</a></td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2024-04-05, Fri @ 8:30</td>
