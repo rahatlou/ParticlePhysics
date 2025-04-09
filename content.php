@@ -224,15 +224,27 @@
 		</tr>
 
 		<tr>
-		  <td style="text-align: center">2025-04-07</td>
+		  <td style="text-align: center">2025-04-09</td>
 			<td>
 				Baryon octets. Baryon and Meson wave functions.
-				SU(4) flavor with charm quark. SU(5) and limits of flavor symmetry.
-					(Terranova Ch. 8, Perkins Ch. 4, Griffiths Ch. 4)
+				SU(4) flavor with charm quark. SU(5) with beauty. D and B mesons and limits of flavor symmetry.
+				<sup>+</sup> e<sup>-</sup>  &rightarrow; <sup>+</sup> e<sup>-</sup> &mu;<sup>+</sup>&mu;<sup>-</sup>, hadrons. Energy threshold for production of hadrons.
+				(Terranova Ch. 8, Perkins Ch. 4, Griffiths Ch. 4)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-07-lecture-15.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-09-lecture-15.pdf" target=blank_>board</a></td>
 		</tr>
 
+		<tr>
+			<td style="text-align: center">2024-04-14</td>
+			<td>
+				Bhabha scattering.Annihilation diagram ant t-channel diagram.
+				Mandelstam variables. u-, t-, and s-channel diagrams.
+				Muon pair production. e <sup>+</sup> e<sup>-</sup>&rightarrow;&mu;<sup>+</sup>&mu;<sup>-</sup>: total and differential cross section.
+				Pair production of quarks. Ratio R of hadronic and muon cross sections. Experimental evidence of quarks and color.
+				(Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-14-lecture-16.pdf" target=blank_></a></td>
+		</tr>
 
 
 
