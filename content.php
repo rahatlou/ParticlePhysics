@@ -237,14 +237,39 @@
 		<tr>
 			<td style="text-align: center">2024-04-14</td>
 			<td>
-				Bhabha scattering.Annihilation diagram ant t-channel diagram.
-				Mandelstam variables. u-, t-, and s-channel diagrams.
 				Muon pair production. e <sup>+</sup> e<sup>-</sup>&rightarrow;&mu;<sup>+</sup>&mu;<sup>-</sup>: total and differential cross section.
-				Pair production of quarks. Ratio R of hadronic and muon cross sections. Experimental evidence of quarks and color.
-				(Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
+				Pair production of quarks. Ratio R of hadronic and muon cross sections.
+				Measurement of R. PETRA e<sup>+</sup>e<sup>-</sup> collider at DESY. The JADE detector.
+				Experimental technqiues for identification of
+					e<sup>+</sup>e<sup>-</sup>&rightarrow;e<sup>+</sup>e<sup>-</sup>, &mu;<sup>+</sup>&mu;<sup>-</sup>,&tau;<sup>+</sup>&tau;<sup>-</sup>, hadrons
+				(Griffiths Ch.8, Perkins Ch. 5.1, 5.2, Cahn-Goldhaber Ch. 10)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-14-lecture-16.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-14-lecture-16.pdf" target=blank_>board</a></td>
 		</tr>
+
+		<tr>
+			<td style="text-align: center">2024-04-15</td>
+			<td>
+				Bhabha scattering. Annihilation diagram ant t-channel diagram.
+				Mandelstam variables. u-, t-, and s-channel diagrams.
+				Measurement of R. Experimental evidence of quarks and color.
+				Discovery of J/&Psi; and charm quark. J/&Psi; properties.
+				(Griffiths Ch.8, Perkins Ch. 5.1, 5.2, Cahn-Goldhaber Ch. 9 and 10)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-15-lecture-17.pdf" target=blank_></a></td>
+		</tr>
+
+		<tr>
+			<td style="text-align: center">2024-04-16</td>
+			<td> Decay of qqbar resonances: EM and strong decays of the &Phi;(1020). Charmonium resonances. J/&Psi; properties and decay.
+				The OZI rule.
+				Discovery of the &tau; lepton.
+				(Cahn-Goldhaber Ch. 9, 10, 11)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-16-lecture-18.pdf" target=blank_></a></td>
+		</tr>
+
+
 
 
 
@@ -258,50 +283,6 @@
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/" target=blank_>board</a></td>
       </tr>
 
-			<tr>
-		    <td style="text-align: center">2024-04-05, Fri @ 8:30</td>
-		    <td>
-					Bhabha and Moeller scattering.
-					Mandelstam variables. u-, t-, and s-channel diagrams. Annihilation diagram.
-					Muon pair production. e <sup>+</sup> e<sup>-</sup>&rightarrow;&mu;<sup>+</sup>&mu;<sup>-</sup>: total and differential cross section.
-					Pair production of quarks. Ratio R of hadronic and muon cross sections. Experimental evidence of quarks and color.
-					(Griffiths Ch.8, Perkins Ch. 5.1, 5.2)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-05-lecture-14.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2024-04-08</td>
-		    <td> Measurement of R. PETRA e<sup>+</sup>e<sup>-</sup> collider at DESY. The JADE detector. Experimental technqiues for identification of
-					e<sup>+</sup>e<sup>-</sup>&rightarrow;e<sup>+</sup>e<sup>-</sup>, &mu;<sup>+</sup>&mu;<sup>-</sup>,&tau;<sup>+</sup>&tau;<sup>-</sup>, hadrons
-					(Griffiths Ch.8, Goldhaber Ch. 10)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-08-lecture-15.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2024-04-10 </td>
-		    <td> No Lecture </td>
-		    <td style="text-align: center"><a href="" target=blank_></a></td>
-      </tr>
-
-			<tr>
-		    <td style="text-align: center">2024-04-12</td>
-		    <td> Measurement of R. Discovery of J/&Psi; and charm quark. J/&Psi; properties.
-					(Goldhaber Ch. 9, 10)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-12-lecture-16.pdf" target=blank_>board</a></td>
-			</tr>
-
-
-			<tr>
-		    <td style="text-align: center">2024-04-15</td>
-		    <td> Decay of qqbar resonances: EM and strong decays of the &Phi;(1020). Charmonium resonances. J/&Psi; properties and decay. The OZI rule.
-					Discovery of the &tau; lepton.
-					(Goldhaber Ch. 9, 10, 11)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-15-lecture-17.pdf" target=blank_>board</a></td>
-			</tr>
 
 
 			<tr>
