@@ -253,7 +253,8 @@
 				Bhabha scattering. Annihilation diagram ant t-channel diagram.
 				Mandelstam variables. u-, t-, and s-channel diagrams.
 				Measurement of R. Experimental evidence of quarks and color.
-				7pi;<sup>0</sup> decays: allowed and suppressed modes.
+				&pi;<sup>0</sup> decays: allowed and suppressed modes.
+				Seatch for new particles in di-leptons. Detector resolution. Pros and cons of e<sup>+</sup>e<sup>-</sup> and &mu;<sup>+</sup>&mu;<sup>-</sup> final states.
 				(Griffiths Ch.8, Perkins Ch. 5.1, 5.2, Cahn-Goldhaber Ch. 9 and 10)
 			</td>
 			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-15-lecture-17.pdf" target=blank_>board</a></td>
