@@ -253,15 +253,17 @@
 				Bhabha scattering. Annihilation diagram ant t-channel diagram.
 				Mandelstam variables. u-, t-, and s-channel diagrams.
 				Measurement of R. Experimental evidence of quarks and color.
-				Discovery of J/&Psi; and charm quark. J/&Psi; properties.
+				7pi;<sup>0</sup> decays: allowed and suppressed modes.
 				(Griffiths Ch.8, Perkins Ch. 5.1, 5.2, Cahn-Goldhaber Ch. 9 and 10)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-15-lecture-17.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-15-lecture-17.pdf" target=blank_>board</a></td>
 		</tr>
 
 		<tr>
 			<td style="text-align: center">2024-04-16</td>
-			<td> Decay of qqbar resonances: EM and strong decays of the &Phi;(1020). Charmonium resonances. J/&Psi; properties and decay.
+			<td>
+				Discovery of J/&Psi; and charm quark. J/&Psi; properties.
+				Decay of qqbar resonances: EM and strong decays of the &Phi;(1020). Charmonium resonances. J/&Psi; properties and decay.
 				The OZI rule.
 				Discovery of the &tau; lepton.
 				(Cahn-Goldhaber Ch. 9, 10, 11)
