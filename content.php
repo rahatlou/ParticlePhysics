@@ -263,14 +263,24 @@
 		<tr>
 			<td style="text-align: center">2024-04-16</td>
 			<td>
-				Discovery of J/&Psi; and charm quark. J/&Psi; properties.
-				Decay of qqbar resonances: EM and strong decays of the &Phi;(1020). Charmonium resonances. J/&Psi; properties and decay.
-				The OZI rule.
-				Discovery of the &tau; lepton.
-				(Cahn-Goldhaber Ch. 9, 10, 11)
+				Discovery of J/&Psi; and charm quark. J/&Psi; properties. Measurement of J/&Psi; width.
+				Charmonium resonances.
+				Decay of q-qbar resonances: Decays of &rho;(770) and &Phi;(1020).
+				(Cahn-Goldhaber Ch. 9)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-16-lecture-18.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-16-lecture-18.pdf" target=blank_>board</a></td>
 		</tr>
+
+		<tr>
+			<td style="text-align: center">2024-04-28</td>
+			<td>
+				Decay of q-qbar resonances: Decays of J/&Psi;.
+				Discovery of the bottom quark and the &Upsilon; (b-bbar) resonances. Discovery of the top quark.
+				(Cahn-Goldhaber Ch. 9, 11, 14)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-28-lecture-19.pdf" target=blank_></a></td>
+		</tr>
+
 
 
 
@@ -290,7 +300,7 @@
 
 			<tr>
 		    <td style="text-align: center">2024-04-17</td>
-		    <td> Discovery of the bottom quark and the Upsilon (&Upsilon;) resonances. Discovery of the top quark.
+		    <td>
 					(Goldhaber Ch. 9, 10, 11)
 				</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-17-lecture-18.pdf" target=blank_>board</a></td>
