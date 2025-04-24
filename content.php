@@ -268,7 +268,7 @@
 				Decay of q-qbar resonances: Decays of &rho;(770) and &Phi;(1020).
 				(Cahn-Goldhaber Ch. 9)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-16-lecture-18.pdf" target=blank_>board</a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-16-lecture-18.pdf" target=blank_>board</a></td>
 		</tr>
 
 		<tr>
