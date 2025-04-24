@@ -235,7 +235,7 @@
 		</tr>
 
 		<tr>
-			<td style="text-align: center">2024-04-14</td>
+			<td style="text-align: center">2025-04-14</td>
 			<td>
 				Muon pair production. e <sup>+</sup> e<sup>-</sup>&rightarrow;&mu;<sup>+</sup>&mu;<sup>-</sup>: total and differential cross section.
 				Pair production of quarks. Ratio R of hadronic and muon cross sections.
@@ -248,7 +248,7 @@
 		</tr>
 
 		<tr>
-			<td style="text-align: center">2024-04-15</td>
+			<td style="text-align: center">2025-04-15</td>
 			<td>
 				Bhabha scattering. Annihilation diagram ant t-channel diagram.
 				Mandelstam variables. u-, t-, and s-channel diagrams.
@@ -261,7 +261,7 @@
 		</tr>
 
 		<tr>
-			<td style="text-align: center">2024-04-16</td>
+			<td style="text-align: center">2025-04-16</td>
 			<td>
 				Discovery of J/&Psi; and charm quark. J/&Psi; properties. Measurement of J/&Psi; width.
 				Charmonium resonances.
@@ -272,7 +272,7 @@
 		</tr>
 
 		<tr>
-			<td style="text-align: center">2024-04-28</td>
+			<td style="text-align: center">2025-04-28</td>
 			<td>
 				Decay of q-qbar resonances: Decays of J/&Psi;.
 				Discovery of the bottom quark and the &Upsilon; (b-bbar) resonances. Discovery of the top quark.
