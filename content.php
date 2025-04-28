@@ -274,11 +274,21 @@
 		<tr>
 			<td style="text-align: center">2025-04-28</td>
 			<td>
-				Decay of q-qbar resonances: Decays of J/&Psi;.
-				Discovery of the bottom quark and the &Upsilon; (b-bbar) resonances. Discovery of the top quark.
+				Decay of q-qbar resonances: Decays of J/&Psi;. Disovery of the &tau; lepton.
+				Discovery of the bottom quark and the &Upsilon; (b-bbar) resonances. 
 				(Cahn-Goldhaber Ch. 9, 11, 14)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-28-lecture-19.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-28-lecture-19.pdf" target=blank_>board</a></td>
+		</tr>
+
+
+		<tr>
+			<td style="text-align: center">2025-04-29</td>
+			<td>
+				Discovery of the top quark. Weak interactions.
+				(Cahn-Goldhaber Ch. 9, 11, 14)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-28-lecture-20.pdf" target=blank_></a></td>
 		</tr>
 
 
