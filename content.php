@@ -285,10 +285,20 @@
 		<tr>
 			<td style="text-align: center">2025-04-29</td>
 			<td>
-				Discovery of the top quark. (Cahn-Goldhaber Ch. 14). Weak interactions. Number of neutrino flavors.
+				Discovery of the top quark. parton-parton scattering.
+				Center of mass energy in parton-parton interaction. Missing transverse momentum. (Cahn-Goldhaber Ch. 14)
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-29-lecture-20.pdf" target=blank_>board</a></td>
+		</tr>
+
+		<tr>
+			<td style="text-align: center">2025-04-29</td>
+			<td>
+				Weak interactions. Number of neutrino flavors. Weak interaction as a chrial theory: Helicity and chirality.
+				From Fermi model to current-current theory.
 				(Terranova Ch. 10, Cahn-Goldhaber Ch. 14, 6, Griffiths Ch. 9, Perkins Ch. 9)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-28-lecture-20.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-30-lecture-21.pdf" target=blank_></a></td>
 		</tr>
 
 
