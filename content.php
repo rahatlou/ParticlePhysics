@@ -301,8 +301,22 @@
 			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-30-lecture-21.pdf" target=blank_></a></td>
 		</tr>
 
+		<tr>
+			<td style="text-align: center">2025-05-05</td>
+			<td>
+				Examples of selection rules in hadron decays: &rho;, &omega;, &Phi;, and J/&Psi; decays. Examples of decay diagrams in B mesons.
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-05-" target=blank_></a></td>
+		</tr>
 
 
+
+		<tr>
+			<td style="text-align: center">2025-05-07</td>
+			<td>Helicity of neutrinos. The Goldhaber experiment. Helicity suppression. Chiral weak interaction.
+			(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-07-" target=blank_></a></td>
+		</tr>
 
 
 
@@ -326,14 +340,6 @@
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-17-lecture-18.pdf" target=blank_>board</a></td>
 			</tr>
 
-			<tr>
-				<td style="text-align: center">2024-04-22</td>
-				<td>Weak interactions. Number of neutrino flavors. Weak interaction as a chrial theory: Helicity and chirality.
-					From Fermi model to current-current theory.
-				 (Terranova Ch. 10, Goldhaber Ch. 14, 6, Griffiths Ch. 9, Perkins Ch. 9)
-				</td>
-				<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-22-lecture-19.pdf" target=blank_>board</a></td>
-			</tr>
 
 
 			<tr>
