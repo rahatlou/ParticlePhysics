@@ -294,11 +294,12 @@
 		<tr>
 			<td style="text-align: center">2025-04-29</td>
 			<td>
-				Weak interactions. Number of neutrino flavors. Weak interaction as a chrial theory: Helicity and chirality.
-				From Fermi model to current-current theory.
+				Weak interactions. Number of neutrino flavors. Examples of weak decays. Weak vs. QED and QCD.
+				Heavy weak mediator and Fermi constant G<sub>F</sub>.
+				Weak interaction as a chrial theory: Helicity and chirality.
 				(Terranova Ch. 10, Cahn-Goldhaber Ch. 14, 6, Griffiths Ch. 9, Perkins Ch. 9)
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-30-lecture-21.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-04-30-lecture-21.pdf" target=blank_>board</a></td>
 		</tr>
 
 		<tr>
@@ -353,7 +354,7 @@
 
 			<tr>
 		    <td style="text-align: center">2024-04-29</td>
-		    <td>Heavy weak mediator and Fermi constant G<sub>F</sub>. Test of V-A theory: Muon decay and Helicity suppression in pion decay.
+		    <td>				From Fermi model to current-current theory. Test of V-A theory: Muon decay and Helicity suppression in pion decay.
 				(Terranova Ch. 10, Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-29-lecture-21.pdf" target=blank_>board</a></td>
 			</tr>
