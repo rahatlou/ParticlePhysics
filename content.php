@@ -307,7 +307,9 @@
 			<td>
 				Examples of selection rules in hadron decays: &rho;, &omega;, &Phi;, and J/&Psi; decays. Examples of decay diagrams in B mesons.
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-05-" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-05-exercises.pdf" target=blank_>exercises 1-8</a>,
+			<a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-05-solutions.pdf" target=blank_>solutions 1-5</a>
+		  </td>
 		</tr>
 
 
