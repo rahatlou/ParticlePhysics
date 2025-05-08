@@ -318,9 +318,16 @@
 			<td style="text-align: center">2025-05-07</td>
 			<td>Helicity of neutrinos. The Goldhaber experiment. Helicity suppression. Chiral weak interaction.
 			(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-07-" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-07-lecture-22.pdf" target=blank_>board</a></td>
 		</tr>
 
+		<tr>
+			<td style="text-align: center">2024-05-12</td>
+			<td> From Fermi model to current-current theory. Test of V-A theory: Muon decay and Helicity suppression in pion decay.
+				Weak interaction of leptons. Lepton universality in weak interactions.
+			(Terranova Ch. 10, Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-12-lecture-23.pdf" target=blank_></a></td>
+		</tr>
 
 
 <?php /* --- inizio commento lezioni passate
@@ -333,33 +340,8 @@
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/" target=blank_>board</a></td>
       </tr>
 
+=
 
-
-			<tr>
-		    <td style="text-align: center">2024-04-17</td>
-		    <td>
-					(Goldhaber Ch. 9, 10, 11)
-				</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-17-lecture-18.pdf" target=blank_>board</a></td>
-			</tr>
-
-
-
-			<tr>
-		    <td style="text-align: center">2024-04-24</td>
-		    <td>Helicity of neutrinos. The Goldhaber experiment. Helicity suppression. Chiral weak interaction.
-				(Terranova Ch. 10.6, Goldhaber  Ch. 6, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-24-esercitazione-20.pdf" target=blank_>pdf</a></td>
-			</tr>
-
-
-
-			<tr>
-		    <td style="text-align: center">2024-04-29</td>
-		    <td>				From Fermi model to current-current theory. Test of V-A theory: Muon decay and Helicity suppression in pion decay.
-				(Terranova Ch. 10, Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-04-29-lecture-21.pdf" target=blank_>board</a></td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2024-05-03, Fri @ 8:30</td>
