@@ -334,7 +334,7 @@
 			<td>Weak interaction of hadrons. Neutron decay. Pion and kaon leptonic decays.
 				Weak interaction of quarks. Flavor changing charged weak current. The Cabibbo angle.
 			(Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/PP2025/main/material/2025-05-13-lecture-24.pdf" target=blank_>board</a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-13-lecture-24.pdf" target=blank_>board</a></td>
 		</tr>
 
 
