@@ -322,12 +322,33 @@
 		</tr>
 
 		<tr>
-			<td style="text-align: center">2024-05-12</td>
+			<td style="text-align: center">2025-05-12</td>
 			<td> From Fermi model to current-current theory. Test of V-A theory: Muon decay and Helicity suppression in pion decay.
 				Weak interaction of leptons. Lepton universality in weak interactions.
 			(Terranova Ch. 10, Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-12-lecture-23.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-12-lecture-23.pdf" target=blank_>board</a></td>
 		</tr>
+
+		<tr>
+			<td style="text-align: center">2025-05-13</td>
+			<td>Weak interaction of hadrons. Neutron decay. Pion and kaon leptonic decays.
+				Weak interaction of quarks. Flavor changing charged weak current. The Cabibbo angle.
+			(Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/PP2025/main/material/2025-05-13-lecture-24.pdf" target=blank_>board</a></td>
+		</tr>
+
+
+		<tr>
+			<td style="text-align: center">2025-05-14</td>
+			<td>
+				The GIM mechanism. Tree and Loop diagrams. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Measurement of CKM matrix elements.
+					Oscillation of neutral mesons. Structure of weak interactions.
+			  (Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/PP2025/main/material/2025-05-14-lecture-25.pdf" target=blank_></a></td>
+		</tr>
+
+
+
 
 
 <?php /* --- inizio commento lezioni passate
@@ -340,28 +361,10 @@
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/" target=blank_>board</a></td>
       </tr>
 
-=
-
-
-			<tr>
-		    <td style="text-align: center">2024-05-03, Fri @ 8:30</td>
-		    <td>Lepton universality in weak interactions. Neutron decay. Weak interaction of hadrons.
-				(Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-03-lecture-22.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2024-05-06</td>
-		    <td>Weak interaction of quarks. Flavor changing charged weak current. The Cabibbo angle. The GIM mechanism. Tree and Loop diagrams.
-				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-06-lecture-23.pdf" target=blank_>board</a></td>
-			</tr>
-
 
 			<tr>
 		    <td style="text-align: center">2024-05-08</td>
-		    <td>The GIM mechanism. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Measurement of CKM matrix elements.
-					Oscillation of neutral mesons. Structure of weak interactions.
+		    <td>The GIM mechanism.
 					Neutral Weak Current.
 				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6, Terranova Ch. 13)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-08-lecture-24.pdf" target=blank_>board</a></td>
