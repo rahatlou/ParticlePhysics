@@ -342,17 +342,24 @@
 			<td style="text-align: center">2025-05-14</td>
 			<td>
 				The GIM mechanism. Tree and Loop diagrams. The Cabibbo-Kobayashi-Maskawa (CKM) matrix. Measurement of CKM matrix elements.
-					Oscillation of neutral mesons. Structure of weak interactions.
+				Oscillation of neutral mesons.
 			  (Griffiths Ch. 9, Goldhaber Ch. 6, Perkins Ch. 7)</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/PP2025/main/material/2025-05-14-lecture-25.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-14-lecture-25.pdf" target=blank_>board</a></td>
 		</tr>
 
+		<tr>
+			<td style="text-align: center">2025-05-19</td>
+			<td>Discovery of Neutral Weak Current at CERN. Electroweak theory of Glashow-Weinberg-Salam.
+			(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 7, Goldhaber Ch. 6)</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2024-05-19-lecture-26.pdf" target=blank_></a></td>
+		</tr>
 
 
 
 
 <?php /* --- inizio commento lezioni passate
 
+ Structure of weak interactions.
 
 
 			<tr>
@@ -362,21 +369,6 @@
       </tr>
 
 
-			<tr>
-		    <td style="text-align: center">2024-05-08</td>
-		    <td>The GIM mechanism.
-					Neutral Weak Current.
-				(Griffiths Ch. 9, Perkins Ch. 7, Goldhaber Ch. 6, Terranova Ch. 13)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-08-lecture-24.pdf" target=blank_>board</a></td>
-			</tr>
-
-
-			<tr>
-		    <td style="text-align: center">2024-05-13</td>
-		    <td>Discovery of Neutral Weak Current at CERN. Electroweak theory of Glashow-Weinberg-Salam.
-				(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 7, Goldhaber Ch. 6)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-13-lecture-25.pdf" target=blank_>board</a></td>
-			</tr>
 
 			<tr>
 		    <td style="text-align: center">2024-05-15</td>
