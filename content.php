@@ -351,7 +351,7 @@
 			<td style="text-align: center">2025-05-19</td>
 			<td>Discovery of Neutral Weak Current at CERN. Electroweak theory of Glashow-Weinberg-Salam.
 			(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 7, Goldhaber Ch. 6)</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2024-05-19-lecture-26.pdf" target=blank_>board</a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-19-lecture-26.pdf" target=blank_>board</a></td>
 		</tr>
 
 		<tr>
