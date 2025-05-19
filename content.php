@@ -61,7 +61,7 @@
 		 <p><a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s2_2425-v16.html#M1">orario II semestre</a></p>
 			<ul>
 	  	<li> <b>Monday, 12-14, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033) </li>
-	  	<li> <b>Tuesday  8-10, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033): March: 18, 25, <b>April: 1, 15, 29, May, 13, 20, 27</b> (lectures start at 8:30)</li>
+	  	<li> <b>Tuesday  8-10, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033): March: 18, 25, April: 1, 15, 29, <b>May, 13, 27</b> (lectures start at 8:30)</li>
 			<li> <b>Wednesday 10-12, Aula 3 "Nella Mortara"</b>, Edificio Fermi (CU033) </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
@@ -351,9 +351,16 @@
 			<td style="text-align: center">2025-05-19</td>
 			<td>Discovery of Neutral Weak Current at CERN. Electroweak theory of Glashow-Weinberg-Salam.
 			(Griffiths Ch. 9, Terranova Ch. 12, Perkins Ch. 7, Goldhaber Ch. 6)</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2024-05-19-lecture-26.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2024-05-19-lecture-26.pdf" target=blank_>board</a></td>
 		</tr>
 
+		<tr>
+			<td style="text-align: center">2025-05-21</td>
+			<td>Tests of the eletroweak theory. Experimental evidence for W and Z bosons.  Z resonance at LEP. (Terranova Ch. 12, Goldhaber Ch. 12, Perkins Ch. 7, Griffiths Ch. 9).
+			CP symmetry and its violation in weak interactions. CKM matrix and CP violaztion in the Standard Model.
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2025-05-21-lecture-27.pdf" target=blank_></a></td>
+		</tr>
 
 
 
