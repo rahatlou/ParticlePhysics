@@ -356,10 +356,38 @@
 
 		<tr>
 			<td style="text-align: center">2025-05-21</td>
-			<td>Tests of the eletroweak theory. Experimental evidence for W and Z bosons.  Z resonance at LEP. (Terranova Ch. 12, Goldhaber Ch. 12, Perkins Ch. 7, Griffiths Ch. 9).
-			CP symmetry and its violation in weak interactions. CKM matrix and CP violaztion in the Standard Model.
+			<td>Tests of the eletroweak theory. Experimental evidence for W and Z bosons.  Z resonance at LEP.
+				Number of families in the Standard Model and experimental evidence at LEP.
+			  (Terranova Ch. 12, Goldhaber Ch. 12, Perkins Ch. 7, Griffiths Ch. 9).
+			 CKM matrix and CP violaztion in the Standard Model.
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2025-05-21-lecture-27.pdf" target=blank_></a></td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-21-lecture-27.pdf" target=blank_>board</a></td>
+		</tr>
+
+		<tr>
+			<td style="text-align: center">2025-05-26</td>
+			<td>CP symmetry and its violation in weak interactions. Matter--anti-matter asymmetry. Unitarity triangle and the CKM matrix.
+				(Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-26-lecture-28.pdf" target=blank_>board</a>
+			</td>
+		</tr>
+
+
+		<tr>
+			<td style="text-align: center">2025-05-27</td>
+			<td>CP Violation in neutral kaons. (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-27-esercitazione-29.pdf" target=blank_></a>
+			</td>
+		</tr>
+
+		<tr>
+			<td style="text-align: center">2025-05-28</td>
+			<td>Direct CP Violation in B mesons. Quantum entanglement and coherent production of B mesons.
+				(Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)
+				Origin of mass in the Standard Model. The Higgs boson.
+			</td>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-28-lecture-30.pdf" target=blank_></a>
+			</td>
 		</tr>
 
 
@@ -377,19 +405,6 @@
 
 
 
-			<tr>
-		    <td style="text-align: center">2024-05-15</td>
-		    <td>Tests of the eletroweak theory. Experimental evidence for W and Z bosons.  (Terranova Ch. 12, Goldhaber Ch. 12, Perkins Ch. 7, Griffiths Ch. 9). </td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-15-lecture-26.pdf" target=blank_>board</a></td>
-			</tr>
-
-			<tr>
-		    <td style="text-align: center">2024-05-20</td>
-		    <td>CP Violation in neutral kaons. (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-20-esercitazione-27.pdf" target=blank_>pdf</a>
-				</td>
-			</tr>
-
 
 			<tr>
 		    <td style="text-align: center">2024-05-22</td>
@@ -401,7 +416,7 @@
 			<tr>
 		    <td style="text-align: center">2024-05-27</td>
 		    <td>Oscillation of neutral B mesons. CP Violation in interference between oscillation and decay in B &rightarrow; J/&Psi;K<sub>S</sub>.
-					 Number of families in the Standard Model and experimental evidence at LEP.  (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
+					  (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
 		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-27-lecture-29.pdf" target=blank_>board</a>
 				</td>
 			</tr>
