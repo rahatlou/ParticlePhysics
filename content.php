@@ -386,7 +386,10 @@
 				(Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)
 				Origin of mass in the Standard Model. Disocvery of the Higgs boson.
 			</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-28-lecture-30.pdf" target=blank_></a>
+			<td style="text-align: center">
+				<a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-28-lecture-30.pdf" target=blank_>board</a>,
+			 <a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/Higgs-LHC.pdf" target=blank_>Higgs</a>
+
 			</td>
 		</tr>
 
