@@ -376,7 +376,7 @@
 		<tr>
 			<td style="text-align: center">2025-05-27</td>
 			<td>CP Violation in neutral kaons. (Goldhaber Ch. 7, 15, Terranova 13.7, Perkins Ch. 7)</td>
-			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-27-esercitazione-29.pdf" target=blank_></a>
+			<td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-05-27-lecture-29.pdf" target=blank_>pdf</a>
 			</td>
 		</tr>
 
