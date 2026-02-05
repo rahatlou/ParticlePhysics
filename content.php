@@ -55,6 +55,23 @@
 	</div>
 
 
+	<h2  class="title">February exam session</h2>
+	<div class="entry">
+		<p>As you know the infostud system is still unavailable.
+
+		<p>Those of you who had registered or intend to take the exam should kindly fill the
+			<a href="https://forms.gle/Z776tWikqPEMqmsi7">this form</a>
+			which does not require uniroma1 credentials.
+
+		<p>The oral exams will be on Friday 20 Feb. In case the number of exams is very large, some exams will be scheduled
+			on Monday 23 Feb.
+
+		<p>The calendar with the exact time of exams will be posted here next Friday 13 Feb.
+
+</div>
+
+
+
 
 	<h2 class="title">Lecture schedule</h2>
 	<div class="entry">
