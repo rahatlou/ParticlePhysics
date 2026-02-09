@@ -68,7 +68,9 @@
 
 	<h2 class="title">Lectures</h2>
 	<div class="entry">
+  <a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2026/README.md" target=_blank>Day-by-day lectures and material</a>
 
+<?php /*
 		<table style="width:90%">
 		  <tr>
 		    <th style="width:15%"> Date</th>
@@ -77,15 +79,6 @@
 		  </tr>
 
 
-			<!--
-			<tr>
-				<td>2022- </td>
-				<td> </td>
-				<td><a href="https://github.com/rahatlou/FNSN/blob/FNSN2022/materiale/2022-NN-MM-lezione.pdf" target=blank_>pdf</a></td>
-			</tr>
-
-
-			-->
 
 		  <tr>
 		    <td style="text-align: center">2026-02-26 </td>
@@ -432,18 +425,10 @@
 			 <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-29-lecture-30.pdf" target=blank_>pdf</a>
 			 </td>
 		 </tr>
- ----- fine commento lezioni passate ----
-  */ ?>
-
-
 
 		</table>
-
-
-
-
-
-
+		----- fine commento lezioni passate ----
+	   */ ?>
 
 	</div> <!--- end of entry -->
 
