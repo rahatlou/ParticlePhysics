@@ -1,18 +1,18 @@
 <div id="content">
 	<h1>Particle Physics</h1>
-  <h3>A.A. 2024-25</h3>
+  <h3>Anno Accademico 2025-26</h3>
 
 	<div class="post news-cont">
 	   <? /*php include("Didattica/FNSN/news.html") */?>
 	</div>
 
 	<div class="post">
-		<p><b>Lectures start on Wednesday 26 Feb 2025</b></p>
+		<p><b>Lectures start on Thursday 26 Feb 2026</b></p>
 
 
 			<p>All communication and news will appear on Google Classroom.
 				All students attending the course are kindly asked to register on
-					<a href="https://classroom.google.com/c/MTk0NDgyNTQ5OTZa?cjc=urpjxku"  target="_blank">google classroom, code urpjxku</a>.
+					<a href="https://classroom.google.com/c/MjE5Njc5Mjg3MDFa?cjc=lws4rtlg"  target="_blank">google classroom, code lws4rtlg</a>.
 			  You can register  <b>exclusively</b> with your uniroma1 credentials (no personal google account).
 			</p>
 
@@ -55,31 +55,13 @@
 	</div>
 
 
-	<h2  class="title">February exam session</h2>
-	<div class="entry">
-		<p>As you know the infostud system is still unavailable.
-
-		<p>Those of you who had registered or intend to take the exam should kindly fill the
-			<a href="https://forms.gle/Z776tWikqPEMqmsi7">this form</a>
-			which does not require uniroma1 credentials.
-
-		<p>The oral exams will be on Friday 20 Feb. In case the number of exams is very large, some exams will be scheduled
-			on Monday 23 Feb.
-
-		<p>The calendar with the exact time of exams will be posted here next Friday 13 Feb.
-
-</div>
-
-
-
-
 	<h2 class="title">Lecture schedule</h2>
 	<div class="entry">
-		 <p><a href="https://www.phys.uniroma1.it/fisica/sites/default/files/allegati/orario_s2_2425-v16.html#M1">orario II semestre</a></p>
+		 <p><a href="https://www.phys.uniroma1.it/sites/default/files/allegati/orariolezioni/orario_s2_2526_v1.html#M1" target="_blank">orario II semestre</a></p>
 			<ul>
-	  	<li> <b>Monday, 12-14, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033) </li>
-	  	<li> <b>Tuesday  8-10, Aula 3 "Nella Mortara" </b>, Edificio Fermi (CU033): March: 18, 25, April: 1, 15, 29, <b>May, 13, 27</b> (lectures start at 8:30)</li>
-			<li> <b>Wednesday 10-12, Aula 3 "Nella Mortara"</b>, Edificio Fermi (CU033) </li>
+	  	<li> <b>Monday, 10-11, Aula 4 "Giustina Baroni" </b>, Edificio Fermi (CU033) </li>
+	  	<li> <b>Thursday  12-14, Aula 4 "Giustina Baroni" </b>, Edificio Fermi (CU033)</li>
+			<li> <b>Friday 10-12, Aula Majorana</b>, Edificio Marconi (CU013) </li>
 			<!--li><font color=red>No lectures on Friday because the room has been occupied by students.</font></li-->
 		</ul>
 	</div>
@@ -105,12 +87,13 @@
 
 			-->
 
-
 		  <tr>
-		    <td style="text-align: center">2025-02-26 </td>
+		    <td style="text-align: center">2026-02-26 </td>
 		    <td>Introduction. Collisions and decays. Unstable particles. Decay width and lifetime. Q value. Fermi Golden Rule.  (Griffiths Ch. 6, Terranova Ch. 2)</td>
-		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2025/material/2025-02-26-lecture-01.pdf" target=blank_>board</a></td>
+		    <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/PP2026/" target=blank_></a></td>
       </tr>
+
+			<?php /*
 
 			<tr>
 		    <td style="text-align: center">2025-03-03 </td>
@@ -449,7 +432,8 @@
 			 <td style="text-align: center"><a href="https://github.com/rahatlou/ParticlePhysics/blob/main/material/2024-05-29-lecture-30.pdf" target=blank_>pdf</a>
 			 </td>
 		 </tr>
- ----- fine commento lezioni passate ---- */ ?>
+ ----- fine commento lezioni passate ----
+  */ ?>
 
 
 

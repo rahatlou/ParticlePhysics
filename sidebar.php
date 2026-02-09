@@ -1,25 +1,29 @@
 <div id="sidebar-content">
 
-<h3 class=h3sidebar>Last update: 5 Feb 2026</h3>
+<h3 class=h3sidebar>Last update: 9 Feb 2026</h3>
   Created by
   <a href="http://www.roma1.infn.it/people/rahatlou/">Shahram Rahatlou</a>
   [<a href="mailto:shahram.rahatlou@uniroma1.it">shahram.rahatlou (at) uniroma1.it</a>]
 
 <p>
-<a href="https://classroom.google.com/c/MTk0NDgyNTQ5OTZa?cjc=urpjxku"  target="_blank">Google classroom: urpjxku</a><br>
+<a href="https://classroom.google.com/c/MjE5Njc5Mjg3MDFa?cjc=lws4rtlg"  target="_blank">Google classroom: lws4rtlg</a><br>
 <!--a href="">Google calendar of the course</a></br-->
 
 
 <p>Syllabus and exam sessions:
 <a href="https://corsidilaurea.uniroma1.it/it/view-course-details/2024/32384/20220331104432/559e9bb9-081d-4837-8320-122244ceb497/ce13b2fe-4c03-4eff-8a8f-98752c4d0fa8/0823b198-fe5e-4797-a86d-56da889c58c2/9daa0d75-32bf-4bc4-8139-d0a5d38211f2?guid_cv=ce13b2fe-4c03-4eff-8a8f-98752c4d0fa8&current_erogata=559e9bb9-081d-4837-8320-122244ceb497" target="_blank">catalogo Sapienza</a>
 </p>
-<p>Website of previous years: <a href="index.php?link=Didattica&sublink=2023.ParticlePhysics">2023</a>,
-<a href="index.php?link=Didattica&sublink=2024.ParticlePhysics">2024</a></p>
+
+<p>
+Website of previous years: <a href="index.php?link=Didattica&sublink=2023.ParticlePhysics">2023</a>,
+<a href="index.php?link=Didattica&sublink=2024.ParticlePhysics">2024</a>,
+<a href="index.php?link=Didattica&sublink=2025.ParticlePhysics">2025</a>
+</p>
 
 <h2>Office Hours</h2>
   <ul>
     <li>
-      Wednesday 14-16, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 251-B, Piano 2, Edificio Marconi (CU013)</a> or any other time by appointment
+      Friday 12-14, <a href="http://www.phys.uniroma1.it/mappe/mappe.php?edificio=marconi&piano=2">Stanza 251-B, Piano 2, Edificio Marconi (CU013)</a> or any other time by appointment
     </li>
 <?php
 /*
