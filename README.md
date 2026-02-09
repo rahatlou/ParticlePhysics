@@ -1,5 +1,11 @@
 
-# Bibliography and references
+
+| Date | Topic | Reference | Material |
+|------|-------|-----------|----------|
+| 2026-02-26 | Introduction. Collisions and decays. Unstable particles. Decay width and lifetime. Q value. Fermi Golden Rule. | Griffiths Ch. 6, Terranova Ch. 2 | |
+
+
+## Bibliography and references
 
 - Terranova, [A modern primer in particle and nuclear physics](https://global.oup.com/academic/product/a-modern-primer-in-particle-and-nuclear-physics-9780192845245?cc=it&lang=en&)
 - Griffiths, [Introduction to Elementary Particles, 2nd Ed.](https://www.wiley.com/en-us/Introduction+to+Elementary+Particles+%2C+2nd%2C+Revised+Edition-p-9783527406012)
@@ -8,13 +14,3 @@
 - Bagnaia, [lectures from previous years](https://www.roma1.infn.it/~bagnaia/particle_physics.html)
 - Paramatti, [Dispense di cinematica relativistica](https://riccardo.web.cern.ch/cinematica.pdf)
 - Sakurai, Napolitano, [Meccanica quantistica moderna, 2nd Ed.](https://www.zanichelli.it/ricerca/prodotti/meccanica-quantistica-moderna-sakurai-napolitano)
-
-
-# Particle Physics 2026
-Webpage and material for the course in Particle Physics
-Laurea Magistrale in Fisica, Sapienza Università di Roma
-
-
-| Date | Topic | Reference | Material |
-|------|-------|-----------|----------|
-| 2026-02-26 | Introduction. Collisions and decays. Unstable particles. Decay width and lifetime. Q value. Fermi Golden Rule. | Griffiths Ch. 6, Terranova Ch. 2 | |
