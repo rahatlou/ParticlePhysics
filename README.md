@@ -11,6 +11,7 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 ## Bibliography and references
 
 - Terranova, [A modern primer in particle and nuclear physics](https://global.oup.com/academic/product/a-modern-primer-in-particle-and-nuclear-physics-9780192845245?cc=it&lang=en&)
+- Thomson, [Modern Particle Physics](https://www.hep.phy.cam.ac.uk/~thomson/MPP/ModernParticlePhysics.html)
 - Griffiths, [Introduction to Elementary Particles, 2nd Ed.](https://www.wiley.com/en-us/Introduction+to+Elementary+Particles+%2C+2nd%2C+Revised+Edition-p-9783527406012)
 - Perkins, [Introduction to High Energy Physics, 4th ed.](https://doi.org/10.1017/CBO9780511809040)
 - Cahn and Goldhaber, [The experimental foundation of Particle Physics](https://doi.org/10.1017/CBO9780511609923), 2nd Ed.
