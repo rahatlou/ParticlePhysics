@@ -8,6 +8,10 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-02-26 | Introduction. Collisions and decays. Unstable particles. Decay width and lifetime. Q value. Fermi Golden Rule. | Griffiths Ch. 6, Terranova Ch. 2 | |
 
 
+<!-- Example row template:
+| YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
+-->
+
 ## Bibliography and references
 
 - Terranova, [A modern primer in particle and nuclear physics](https://global.oup.com/academic/product/a-modern-primer-in-particle-and-nuclear-physics-9780192845245?cc=it&lang=en&)
