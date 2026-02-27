@@ -6,12 +6,48 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | Date | Topic | Reference | Material |
 |------|-------|-----------|----------|
 | 2026-02-26 | Introduction. Unstable particles. Decay width and lifetime. Q value. | Griffiths Ch. 6, Terranova Ch. 2 | [board](material/2026-02-26-lecture-01.pdf) |
-| 2026-02-27 | Fermi Golden Rule for decays. Two-body decay width. Branching fraction. Collisions. Definition of cross section | |
+| 2026-02-27 | Fermi Golden Rule for decays. Two-body decay width.  Invariant mass of decay prodcuts. Collisions. Definition of cross section. Instantaneous and integrated luminosity | Griffiths Ch. 6, Terranova Ch. 2 | [board](material/2026-02-27-lecture-02.pdf) |
+
 
 
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
+-->
+
+<!--
+
+Branching fraction.
+
+| 2025-03-05 | Cross section: calculation of 1+2 → 3+4 scattering with Fermi's Golden rule. Rutherford scattering. The Mott formula. e⁺e⁻ → e⁺e⁻ and μ⁺μ⁻ | Griffiths Ch. 6, Terranova Ch. 2 | [board](material/2025-03-05-lecture-03.pdf) |
+| 2025-03-10 | Resonant cross section and the Breit-Wigner distribution. Probing structure of nucleons: Rutherford and Mott cross sections. Deviations in α scattering on nuclei | Griffiths Ch. 6, Terranova Ch. 2; Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-10-lecture-04.pdf) |
+| 2025-03-12 | Electron-nucleon scattering: elastic and inelastic. Electron-nucleon scattering for pointlike and extended target. Form factors | Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-12-lecture-05.pdf) |
+| 2025-03-17 | Electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure | Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-17-lecture-06.pdf) |
+| 2025-03-18 | Deep inelastic electron-proton scattering. Structure functions. Probing structure functions at SLAC | Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-18-lecture-07.pdf) |
+| 2025-03-19 | Quark Parton Model. Scaling of structure functions with x. Feynman interpretation of x in DIS. Valence and sea partons. Parton density functions | Perkins Ch. 5, Goldhaber Ch. 8, Terranova Ch. 7.7 | [board](material/2025-03-19-lecture-08.pdf) |
+| 2025-03-24 | Continuous and discrete symmetries. Quantum numbers and conservation laws. Isospin: hypothesis and experimental proof in hadron scattering | Terranova Ch. 5, Griffiths Ch. 4 | [board](material/2025-03-24-lecture-09.pdf) |
+| 2025-03-25 | Isospin in π-nucleon scattering. Discrete symmetries and their eigenvalues. Parity. Charge conjugation | Terranova Ch. 5, Griffiths Ch. 4 | [board](material/2025-03-25-lecture-10.pdf) |
+| 2025-03-26 | Charge conjugation of composite states. G-parity. Strangeness, charge and hypercharge. Gell-Mann–Nishijima formula. SU(3) flavor and static quark model | Terranova Ch. 5, 8; Griffiths Ch. 4; Perkins Ch. 4 | [board](material/2025-03-26-lecture-11.pdf) |
+| 2025-03-31 | Static quark model. Meson multiplets. Light meson mixing. Decay of ρ⁰. Baryon multiplets | Terranova Ch. 8, Griffiths Ch. 4, Perkins Ch. 4 | [board](material/2025-03-31-lecture-12.pdf) |
+| 2025-04-01 | Static quark model. Baryon multiplets. Prediction and discovery of Ω⁻. Weak decays and color quantum number | Terranova Ch. 8, Perkins Ch. 4, Griffiths Ch. 4, Cahn-Goldhaber Ch. 5 | [board](material/2025-04-01-lecture-13.pdf) |
+| 2025-04-02 | Color quantum number. Gluons and SU(3) color. QCD matrix elements. Asymptotic freedom | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 | [board](material/2025-04-02-lecture-14.pdf) |
+| 2025-04-09 | Baryon octets. Meson wave functions. Flavor symmetry with charm and beauty. Hadron production thresholds | Terranova Ch. 8, Perkins Ch. 4, Griffiths Ch. 4 | [board](material/2025-04-09-lecture-15.pdf) |
+| 2025-04-14 | Muon pair production. Hadronic cross section ratio R. PETRA collider and JADE detector | Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 10 | [board](material/2025-04-14-lecture-16.pdf) |
+| 2025-04-15 | Bhabha scattering. Mandelstam variables. Evidence for quarks and color. π⁰ decays | Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 9, 10 | [board](material/2025-04-15-lecture-17.pdf) |
+| 2025-04-16 | Discovery of J/ψ and charm quark. Charmonium resonances. Vector meson decays | Cahn-Goldhaber Ch. 9 | [board](material/2025-04-16-lecture-18.pdf) |
+| 2025-04-28 | Discovery of τ lepton and bottom quark. Υ resonances | Cahn-Goldhaber Ch. 9, 11 | [board](material/2025-04-28-lecture-19.pdf) |
+| 2025-04-29 | Discovery of the top quark. Parton scattering and missing transverse momentum | Cahn-Goldhaber Ch. 14 | [board](material/2025-04-29-lecture-20.pdf) |
+| 2025-04-30 | Weak interactions. Neutrino flavors. Helicity and chirality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 9 | [board](material/2025-04-30-lecture-21.pdf) |
+| 2025-05-05 | Selection rules in hadron decays. B meson decay diagrams | — | [exercises](material/2025-05-05-exercises.pdf), [solutions](material/2025-05-05-solutions.pdf) |
+| 2025-05-07 | Helicity of neutrinos. Goldhaber experiment. Chiral weak interaction | Terranova Ch. 10.6; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2025-05-07-lecture-22.pdf) |
+| 2025-05-12 | From Fermi model to V-A theory. Muon and pion decay. Lepton universality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 7 | [board](material/2025-05-12-lecture-23.pdf) |
+| 2025-05-13 | Weak interaction of hadrons. Cabibbo angle and flavor changing currents | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2025-05-13-lecture-24.pdf) |
+| 2025-05-14 | GIM mechanism. CKM matrix. Neutral meson oscillations | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2025-05-14-lecture-25.pdf) |
+| 2025-05-19 | Discovery of neutral weak current. Electroweak theory | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 | [board](material/2025-05-19-lecture-26.pdf) |
+| 2025-05-21 | Experimental evidence for W and Z bosons. LEP measurements. CKM and CP violation | Terranova Ch. 12; Goldhaber Ch. 12; Griffiths Ch. 9 | [board](material/2025-05-21-lecture-27.pdf) |
+| 2025-05-26 | CP violation and matter–antimatter asymmetry. Unitarity triangle | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2025-05-26-lecture-28.pdf) |
+| 2025-05-27 | CP violation in neutral kaons | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [pdf](material/2025-05-27-lecture-29.pdf) |
+| 2025-05-28 | CP violation in B mesons. Higgs mechanism and discovery | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2025-05-28-lecture-30.pdf), [Higgs](material/Higgs-LHC.pdf) |
 -->
 
 ## Bibliography and references
