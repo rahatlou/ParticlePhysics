@@ -60,3 +60,4 @@ Branching fraction.
 - Bagnaia, [lectures from previous years](https://www.roma1.infn.it/~bagnaia/particle_physics.html)
 - Paramatti, [Dispense di cinematica relativistica](https://riccardo.web.cern.ch/cinematica.pdf)
 - Sakurai, Napolitano, [Meccanica quantistica moderna, 2nd Ed.](https://www.zanichelli.it/ricerca/prodotti/meccanica-quantistica-moderna-sakurai-napolitano)
+- [Particle Data Group (PDG)](https://pdg.lbl.gov/) 
