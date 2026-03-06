@@ -9,8 +9,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-02-27 | Fermi Golden Rule for decays. Two-body decay width.  Invariant mass of decay prodcuts. Collisions. Definition of cross section. Instantaneous and integrated luminosity | Griffiths Ch. 6, Terranova Ch. 2 | [board](material/2026-02-27-lecture-02.pdf) |
 | 2026-03-02 | Cross section and Higgs production rate at LHC. Branching fraction.  Cross section: calculation of 1+2 → 3+4 scattering with Fermi's Golden rule. | Griffiths Ch. 6, Terranova Ch. 2 | [board](material/2026-03-02-lecture-03.pdf) |
 | 2026-03-05 | Rutherford scattering. The Mott formula.  Probing structure of nucleons. Deviations in α scattering on nuclei  | Griffiths Ch. 6, Terranova Ch. 2, Perkins Ch. 5, Goldhaber Ch. 8  | [board](material/2026-03-05-lecture-04.pdf)   |
-| 2026-03-06 | Electron-nucleon scattering: elastic and inelastic. Electron-nucleon scattering for pointlike and extended target. Form factors | Perkins Ch. 5, Goldhaber Ch. 8 |  |
-
+| 2026-03-06 | Electron-nucleon scattering: elastic and inelastic. Electron-nucleon scattering for pointlike and extended target. Form factors. Electron-proton scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure  | Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2026-03-06-lecture-05.pdf)  |
+| 2026-03-09 | Experimental proof of proton structure. Deep inelastic electron-proton scattering. Structure functions. Probing structure functions at SLAC.  | Perkins Ch. 5, Goldhaber Ch. 8 | |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
@@ -20,11 +20,9 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 
 [board](material/2025-03-05-lecture-03.pdf)
 
-| 2025-03-10 | Resonant cross section and the Breit-Wigner distribution. Probing structure of nucleons: Rutherford and Mott cross sections. Deviations in α scattering on nuclei | Griffiths Ch. 6, Terranova Ch. 2; Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-10-lecture-04.pdf) |
+| 2025-03-10 | Resonant cross section and the Breit-Wigner distribution.  | Griffiths Ch. 6, Terranova Ch. 2; Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-10-lecture-04.pdf) |
 
-| 2025-03-12 | Electron-nucleon scattering: elastic and inelastic. Electron-nucleon scattering for pointlike and extended target. Form factors | Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-12-lecture-05.pdf) |
-| 2025-03-17 | Electron-nucleon scattering for Dirac proton: Rosenbluth formula. Experimental proof of proton structure | Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-17-lecture-06.pdf) |
-| 2025-03-18 | Deep inelastic electron-proton scattering. Structure functions. Probing structure functions at SLAC | Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-18-lecture-07.pdf) |
+
 | 2025-03-19 | Quark Parton Model. Scaling of structure functions with x. Feynman interpretation of x in DIS. Valence and sea partons. Parton density functions | Perkins Ch. 5, Goldhaber Ch. 8, Terranova Ch. 7.7 | [board](material/2025-03-19-lecture-08.pdf) |
 | 2025-03-24 | Continuous and discrete symmetries. Quantum numbers and conservation laws. Isospin: hypothesis and experimental proof in hadron scattering | Terranova Ch. 5, Griffiths Ch. 4 | [board](material/2025-03-24-lecture-09.pdf) |
 | 2025-03-25 | Isospin in π-nucleon scattering. Discrete symmetries and their eigenvalues. Parity. Charge conjugation | Terranova Ch. 5, Griffiths Ch. 4 | [board](material/2025-03-25-lecture-10.pdf) |
