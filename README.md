@@ -14,8 +14,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-03-12 | Probing structure functions at SLAC. Experimental evidence for partons. Quark Parton Model. Parton density functions. Callan-Gross relation.  | Perkins Ch. 5, Goldhaber Ch. 8, Terranova Ch. 7.7 | [board](material/2026-03-12-lecture-07.pdf) |
 | 2026-03-13 | Scaling of structure functions with x. Feynman interpretation of x in Deep Inelastic Scattering. Valence and sea partons.  | Perkins Ch. 5, Goldhaber Ch. 8, Terranova Ch. 7.7 | [board](material/2026-03-13-lecture-08.pdf) |
 | 2026-03-13 | Continuous and discrete symmetries. Quantum numbers and conservation laws. Isospin. | Terranova Ch. 5, Griffiths Ch. 4 | [board](material/2026-03-13-lecture-08.pdf) |
-| 2026-03-16 | Isospin of deuterium. Test of Isospin in hadron scattering.  | Terranova Ch. 5, Griffiths Ch. 4 | |
-| 2026-03-19 | Isospin in π-nucleon scattering. Discrete symmetries and their eigenvalues. Parity. Charge conjugation | Terranova Ch. 5, Griffiths Ch. 4 |  |
+| 2026-03-16 | Exercise: Test of Isospin conservation in nuleon-nucleon scattering.  | Terranova Ch. 5, Griffiths Ch. 4 | [board](material/2026-03-16-lecture-09.pdf) |
+| 2026-03-19 | Exercise: Isospin in π-nucleon scattering. Discrete symmetries and their eigenvalues. Parity. Charge conjugation | Terranova Ch. 5, Griffiths Ch. 4 |  |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
