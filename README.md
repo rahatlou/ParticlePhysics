@@ -18,7 +18,7 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-03-19 | Exercise: Isospin in π-nucleon scattering. | Terranova Ch. 5, Griffiths Ch. 4 | [board](material/2026-03-19-exercise-01.pdf) |
 | 2026-03-19 | Discrete symmetries and their eigenvalues. Parity. Charge conjugation | Terranova Ch. 5, Griffiths Ch. 4 | [board](material/2026-03-19-lecture-10.pdf)  |
 | 2026-03-20 | Charge conjugation of composite states. G-parity. Strangeness, charge and hypercharge. Gell-Mann–Nishijima formula. SU(3) flavor and static quark model. Meson multiplets. | Terranova Ch. 5, 8; Griffiths Ch. 4; Perkins Ch. 4 | [board](material/2026-03-20-lecture-11.pdf) |
-| 2026-03-23 | Exercise: decays of $\rho(770)$, $\omega(782)$, $\phi(1020)$ mesons and conservation of isospin and G-parity. | Terranova Ch. 5, 8; Griffiths Ch. 4; Perkins Ch. 4 |  |
+| 2026-03-23 | Exercise: decays of $\rho(770)$, $\omega(782)$, $\phi(1020)$ mesons and conservation of isospin and G-parity. | Terranova Ch. 5, 8; Griffiths Ch. 4; Perkins Ch. 4 | [pdf](material/2026-03-23-exercise-02.pdf) |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
