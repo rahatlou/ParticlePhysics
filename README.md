@@ -19,6 +19,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-03-19 | Discrete symmetries and their eigenvalues. Parity. Charge conjugation | Terranova Ch. 5, Griffiths Ch. 4 | [board](material/2026-03-19-lecture-10.pdf)  |
 | 2026-03-20 | Charge conjugation of composite states. G-parity. Strangeness, charge and hypercharge. Gell-Mann–Nishijima formula. SU(3) flavor and static quark model. Meson multiplets. | Terranova Ch. 5, 8; Griffiths Ch. 4; Perkins Ch. 4 | [board](material/2026-03-20-lecture-11.pdf) |
 | 2026-03-23 | Exercise: decays of $\rho(770)$, $\omega(782)$, $\phi(1020)$ mesons and conservation of isospin and G-parity. | Terranova Ch. 5, 8; Griffiths Ch. 4; Perkins Ch. 4 | [pdf](material/2026-03-23-exercise-02.pdf) |
+| 2026-03-26 | Light meson mixing. Baryon multiplets. Baryon wave function. Color quantum number. | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 | [board](material/2026-03-26-lecture-12.pdf) |
+| 2026-03-27 | Color quantum number. Gluons and SU(3) color. QCD matrix elements. Asymptotic freedom | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 |  |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
@@ -29,10 +31,10 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2025-03-10 | Resonant cross section and the Breit-Wigner distribution.  | Griffiths Ch. 6, Terranova Ch. 2; Perkins Ch. 5, Goldhaber Ch. 8 | [board](material/2025-03-10-lecture-04.pdf) |
 
 
-| 2025-03-31 | Light meson mixing. Decay of ρ⁰. Baryon multiplets | Terranova Ch. 8, Griffiths Ch. 4, Perkins Ch. 4 | [board](material/2025-03-31-lecture-12.pdf) |
 | 2025-04-01 | Static quark model. Baryon multiplets. Prediction and discovery of Ω⁻. Weak decays and color quantum number | Terranova Ch. 8, Perkins Ch. 4, Griffiths Ch. 4, Cahn-Goldhaber Ch. 5 | [board](material/2025-04-01-lecture-13.pdf) |
 | 2025-04-02 | Color quantum number. Gluons and SU(3) color. QCD matrix elements. Asymptotic freedom | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 | [board](material/2025-04-02-lecture-14.pdf) |
 | 2025-04-09 | Baryon octets. Meson wave functions. Flavor symmetry with charm and beauty. Hadron production thresholds | Terranova Ch. 8, Perkins Ch. 4, Griffiths Ch. 4 | [board](material/2025-04-09-lecture-15.pdf) |
+
 | 2025-04-14 | Muon pair production. Hadronic cross section ratio R. PETRA collider and JADE detector | Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 10 | [board](material/2025-04-14-lecture-16.pdf) |
 | 2025-04-15 | Bhabha scattering. Mandelstam variables. Evidence for quarks and color. π⁰ decays | Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 9, 10 | [board](material/2025-04-15-lecture-17.pdf) |
 | 2025-04-16 | Discovery of J/ψ and charm quark. Charmonium resonances. Vector meson decays | Cahn-Goldhaber Ch. 9 | [board](material/2025-04-16-lecture-18.pdf) |
