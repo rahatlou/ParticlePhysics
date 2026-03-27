@@ -20,7 +20,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-03-20 | Charge conjugation of composite states. G-parity. Strangeness, charge and hypercharge. Gell-Mann–Nishijima formula. SU(3) flavor and static quark model. Meson multiplets. | Terranova Ch. 5, 8; Griffiths Ch. 4; Perkins Ch. 4 | [board](material/2026-03-20-lecture-11.pdf) |
 | 2026-03-23 | Exercise: decays of $\rho(770)$, $\omega(782)$, $\phi(1020)$ mesons and conservation of isospin and G-parity. | Terranova Ch. 5, 8; Griffiths Ch. 4; Perkins Ch. 4 | [pdf](material/2026-03-23-exercise-02.pdf) |
 | 2026-03-26 | Light meson mixing. Baryon multiplets. Baryon wave function. Color quantum number. | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 | [board](material/2026-03-26-lecture-12.pdf) |
-| 2026-03-27 | Color quantum number. Gluons and SU(3) color. QCD matrix elements. Asymptotic freedom | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 |  |
+| 2026-03-27 | Baryon multiplets. Color quantum number. Gluons and SU(3) color. Example of QCD matrix elements.  | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 | [board](material/2026-03-27-lecture-13.pdf) |
+| 2026-03-30 | Asymptotic freedom. Flavor symmetry with charm and beauty. Test of SU(3) flavor: discovery of $\Omega^-$. Hadron production thresholds. | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 |  |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
