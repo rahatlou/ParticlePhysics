@@ -22,7 +22,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-03-26 | Light meson mixing. Baryon multiplets. Baryon wave function. Color quantum number. | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 | [board](material/2026-03-26-lecture-12.pdf) |
 | 2026-03-27 | Baryon multiplets. Color quantum number. Gluons and SU(3) color. Example of QCD matrix elements.  | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 | [board](material/2026-03-27-lecture-13.pdf) |
 | 2026-03-30 | Flavor symmetry with charm and beauty. Test of SU(3) flavor: discovery of $\Omega^-$. Asymptotic freedom.  | Terranova Ch. 7, 8; Perkins Ch. 4; Griffiths Ch. 4 | [board](material/2026-03-30-lecture-14.pdf)  |
-| 2026-04-09 | Hadron production thresholds. Muon pair production. Hadronic cross section ratio R.| Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 10 |  |
+| 2026-04-09 | Hadron production thresholds in $e^+e^-$ collisions. Muon pair production. | Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 10 | [board](material/2026-04-09-lecture-15.pdf)  |
+| 2026-04-10 | Muon pair production. Hadronic cross section ratio R. PETRA collider and JADE detector | Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 10 | |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
