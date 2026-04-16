@@ -25,7 +25,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-09 | Hadron production thresholds in $e^+e^-$ collisions. Muon pair production. | Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 10 | [board](material/2026-04-09-lecture-15.pdf)  |
 | 2026-04-10 | Muon pair production. Hadronic cross section ratio R. PETRA collider and JADE detector. Evidence for quarks and color. Resonant cross section and the Breit-Wigner distribution. | Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 10 | [board](material/2026-04-10-lecture-16.pdf)  |
 | 2026-04-13 | Production and observation of a resonance X in $e^+e^-$ and proton+nuleon collisions. | | [board](material/2026-04-13-lecture-17.pdf) |
-| 2026-04-16 | Discovery of J/ψ and charm quark. Charmonium resonances. Discovery of τ lepton. Discovery of $\Upsilon$ resonance and bottom quark.| Cahn-Goldhaber Ch. 9 |  | |
+| 2026-04-16 | Discovery of J/ψ and charm quark. | Cahn-Goldhaber Ch. 9 | [board](material/2026-04-16-lecture-18.pdf) | 
+| 2026-04-17 | Charmonium resonances. Discovery of $\Upsilon$ resonance and bottom quark.| Cahn-Goldhaber Ch. 9 |  |  |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
