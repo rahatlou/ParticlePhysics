@@ -26,7 +26,7 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-10 | Muon pair production. Hadronic cross section ratio R. PETRA collider and JADE detector. Evidence for quarks and color. Resonant cross section and the Breit-Wigner distribution. | Griffiths Ch. 8; Perkins Ch. 5; Cahn-Goldhaber Ch. 10 | [board](material/2026-04-10-lecture-16.pdf)  |
 | 2026-04-13 | Production and observation of a resonance X in $e^+e^-$ and proton+nuleon collisions. | | [board](material/2026-04-13-lecture-17.pdf) |
 | 2026-04-16 | Discovery of J/ψ and charm quark. | Cahn-Goldhaber Ch. 9 | [board](material/2026-04-16-lecture-18.pdf) | 
-| 2026-04-17 | Charmonium resonances. Discovery of $\Upsilon$ resonance and bottom quark.| Cahn-Goldhaber Ch. 9 |  |  |
+| 2026-04-17 | Charmonium resonances. Discovery of $\Upsilon$ resonance and bottom quark.| Cahn-Goldhaber Ch. 9 | [board](material/2026-04-17-lecture-19.pdf)  | 
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
@@ -34,7 +34,6 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 
 <!--
 
-| 2025-04-16 | Discovery of J/ψ and charm quark. Charmonium resonances. Vector meson decays | Cahn-Goldhaber Ch. 9 | [board](material/2025-04-16-lecture-18.pdf) |
 | 2025-04-28 | Discovery of τ lepton and bottom quark. Υ resonances | Cahn-Goldhaber Ch. 9, 11 | [board](material/2025-04-28-lecture-19.pdf) |
 | 2025-04-29 | Discovery of the top quark. Parton scattering and missing transverse momentum | Cahn-Goldhaber Ch. 14 | [board](material/2025-04-29-lecture-20.pdf) |
 | 2025-04-30 | Weak interactions. Neutrino flavors. Helicity and chirality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 9 | [board](material/2025-04-30-lecture-21.pdf) |
