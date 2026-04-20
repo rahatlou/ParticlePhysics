@@ -27,6 +27,9 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-13 | Production and observation of a resonance X in $e^+e^-$ and proton+nuleon collisions. | | [board](material/2026-04-13-lecture-17.pdf) |
 | 2026-04-16 | Discovery of J/ψ and charm quark. | Cahn-Goldhaber Ch. 9 | [board](material/2026-04-16-lecture-18.pdf) | 
 | 2026-04-17 | Charmonium resonances. Discovery of $\Upsilon$ resonance and bottom quark.| Cahn-Goldhaber Ch. 9 | [board](material/2026-04-17-lecture-19.pdf)  | 
+| 2026-04-20 | Top production at hadron colliders. Parton-Parton scattering and conservation of  transverse momentum. | Cahn-Goldhaber Ch. 14 | [board](material/2026-04-20-lecture-20.pdf) |
+| 2026-04-23 | Discovery of the top quark at Tevtron. Missing transverse momentum. | Cahn-Goldhaber Ch. 14 |  |
+| 2026-04-23 | Exercise: Decay of $q\bar{q}$ resonances: width of $\rho$, $\Phi(1020)$, J/ψ, and $\Upsilon$. OZI rule  | Cahn-Goldhaber Ch. 14 |  |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
