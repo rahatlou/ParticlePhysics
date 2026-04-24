@@ -28,8 +28,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-16 | Discovery of J/ψ and charm quark. | Cahn-Goldhaber Ch. 9 | [board](material/2026-04-16-lecture-18.pdf) | 
 | 2026-04-17 | Charmonium resonances. Discovery of $\Upsilon$ resonance and bottom quark.| Cahn-Goldhaber Ch. 9 | [board](material/2026-04-17-lecture-19.pdf)  | 
 | 2026-04-20 | Top production at hadron colliders. Parton-Parton scattering and conservation of  transverse momentum. | Cahn-Goldhaber Ch. 14 | [board](material/2026-04-20-lecture-20.pdf) |
-| 2026-04-23 | Discovery of the top quark at Tevtron. Missing transverse momentum. | Cahn-Goldhaber Ch. 14 |  |
-| 2026-04-23 | Exercise: Decay of $q\bar{q}$ resonances: width of $\rho$, $\Phi(1020)$, J/ψ, and $\Upsilon$. OZI rule  | Cahn-Goldhaber Ch. 14 |  |
+| 2026-04-23 | Discovery of the top quark at Tevtron. Missing transverse momentum. Exercise: Decay of $q\bar{q}$ resonances: width of $\rho$, $\Phi(1020)$, J/ψ, and $\Upsilon$. OZI rule  | Cahn-Goldhaber Ch. 14 | [board](material/2026-04-23-lecture-21.pdf) |
+| 2026-04-24 | Weak interactions. Neutrino flavors. Helicity and chirality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 9 | [board](material/2026-04-24-lecture-22.pdf) |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
@@ -38,8 +38,9 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 <!--
 
 | 2025-04-28 | Discovery of τ lepton and bottom quark. Υ resonances | Cahn-Goldhaber Ch. 9, 11 | [board](material/2025-04-28-lecture-19.pdf) |
-| 2025-04-29 | Discovery of the top quark. Parton scattering and missing transverse momentum | Cahn-Goldhaber Ch. 14 | [board](material/2025-04-29-lecture-20.pdf) |
-| 2025-04-30 | Weak interactions. Neutrino flavors. Helicity and chirality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 9 | [board](material/2025-04-30-lecture-21.pdf) |
+
+
+
 | 2025-05-05 | Selection rules in hadron decays. B meson decay diagrams | — | [exercises](material/2025-05-05-exercises.pdf), [solutions](material/2025-05-05-solutions.pdf) |
 | 2025-05-07 | Helicity of neutrinos. Goldhaber experiment. Chiral weak interaction | Terranova Ch. 10.6; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2025-05-07-lecture-22.pdf) |
 | 2025-05-12 | From Fermi model to V-A theory. Muon and pion decay. Lepton universality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 7 | [board](material/2025-05-12-lecture-23.pdf) |
