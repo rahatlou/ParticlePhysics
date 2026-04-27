@@ -30,6 +30,9 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-20 | Top production at hadron colliders. Parton-Parton scattering and conservation of  transverse momentum. | Cahn-Goldhaber Ch. 14 | [board](material/2026-04-20-lecture-20.pdf) |
 | 2026-04-23 | Discovery of the top quark at Tevtron. Missing transverse momentum. Exercise: Decay of $q\bar{q}$ resonances: width of $\rho$, $\Phi(1020)$, J/ψ, and $\Upsilon$. OZI rule  | Cahn-Goldhaber Ch. 14 | [board](material/2026-04-23-lecture-21.pdf) |
 | 2026-04-24 | Weak interactions. Neutrino flavors. Helicity and chirality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 9 | [board](material/2026-04-24-lecture-22.pdf) |
+| 2026-04-27 | From Fermi model to V-A theory. Muon decay. Lepton universality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 7 | [board](material/2026-04-27-lecture-23.pdf) |
+| 2026-04-30 | Helicity of neutrinos: Goldhaber experiment. Lepton flavor universality in weak interactions | Terranova Ch. 10; Goldhaber Ch. 6; Perkins Ch. 7 |  |
+| 2026-05-04 | Weak interaction of hadrons. Pion decay: helicity supprression. Cabibbo angle and flavor changing currents | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 |  |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
@@ -37,14 +40,14 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 
 <!--
 
-| 2025-04-28 | Discovery of τ lepton and bottom quark. Υ resonances | Cahn-Goldhaber Ch. 9, 11 | [board](material/2025-04-28-lecture-19.pdf) |
+| 2025-04-28 | Discovery of τ lepton| Cahn-Goldhaber Ch. 9, 11 | [board](material/2025-04-28-lecture-19.pdf) |
 
 
 
 | 2025-05-05 | Selection rules in hadron decays. B meson decay diagrams | — | [exercises](material/2025-05-05-exercises.pdf), [solutions](material/2025-05-05-solutions.pdf) |
-| 2025-05-07 | Helicity of neutrinos. Goldhaber experiment. Chiral weak interaction | Terranova Ch. 10.6; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2025-05-07-lecture-22.pdf) |
-| 2025-05-12 | From Fermi model to V-A theory. Muon and pion decay. Lepton universality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 7 | [board](material/2025-05-12-lecture-23.pdf) |
-| 2025-05-13 | Weak interaction of hadrons. Cabibbo angle and flavor changing currents | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2025-05-13-lecture-24.pdf) |
+
+
+
 | 2025-05-14 | GIM mechanism. CKM matrix. Neutral meson oscillations | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2025-05-14-lecture-25.pdf) |
 | 2025-05-19 | Discovery of neutral weak current. Electroweak theory | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 | [board](material/2025-05-19-lecture-26.pdf) |
 | 2025-05-21 | Experimental evidence for W and Z bosons. LEP measurements. CKM and CP violation | Terranova Ch. 12; Goldhaber Ch. 12; Griffiths Ch. 9 | [board](material/2025-05-21-lecture-27.pdf) |
