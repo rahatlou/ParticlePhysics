@@ -31,7 +31,7 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-23 | Discovery of the top quark at Tevtron. Missing transverse momentum. Exercise: Decay of $q\bar{q}$ resonances: width of $\rho$, $\Phi(1020)$, J/ψ, and $\Upsilon$. OZI rule  | Cahn-Goldhaber Ch. 14 | [board](material/2026-04-23-lecture-21.pdf) |
 | 2026-04-24 | Weak interactions. Neutrino flavors. Helicity and chirality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 9 | [board](material/2026-04-24-lecture-22.pdf) |
 | 2026-04-27 | From Fermi model to V-A theory. Muon decay. Lepton universality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 7 | [board](material/2026-04-27-lecture-23.pdf) |
-| 2026-04-30 | Helicity of neutrinos: Goldhaber experiment. Lepton flavor universality in weak interactions | Terranova Ch. 10; Goldhaber Ch. 6; Perkins Ch. 7 |  |
+| 2026-04-30 | Helicity of neutrinos: Goldhaber experiment. Lepton flavor universality in weak interactions | Terranova Ch. 10; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-04-30-lecture-24.pdf)  |
 | 2026-05-04 | Weak interaction of hadrons. Pion decay: helicity supprression. Cabibbo angle and flavor changing currents | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 |  |
 
 <!-- Example row template:
