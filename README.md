@@ -32,7 +32,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-24 | Weak interactions. Neutrino flavors. Helicity and chirality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 9 | [board](material/2026-04-24-lecture-22.pdf) |
 | 2026-04-27 | From Fermi model to V-A theory. Muon decay. Lepton universality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 7 | [board](material/2026-04-27-lecture-23.pdf) |
 | 2026-04-30 | Helicity of neutrinos: Goldhaber experiment. Lepton flavor universality in weak interactions | Terranova Ch. 10; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-04-30-lecture-24.pdf)  |
-| 2026-05-04 | Weak interaction of hadrons. Pion decay: helicity supprression. Cabibbo angle and flavor changing currents | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 |  |
+| 2026-05-04 | Estimation of $\tau$ lifetime with V-A. Weak interaction of hadrons: vector and axial currents. Weak interaction of quarks and Cabibbo-Kobayashi-Maskawa matrix  | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-04-lecture-25.pdf)  |
+| 2026-05-07 | Pion decay: helicity supprression. Cabibbo angle and flavor changing weak current | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 |  |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
