@@ -33,7 +33,9 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-27 | From Fermi model to V-A theory. Muon decay. Lepton universality | Terranova Ch. 10; Griffiths Ch. 9; Perkins Ch. 7 | [board](material/2026-04-27-lecture-23.pdf) |
 | 2026-04-30 | Helicity of neutrinos: Goldhaber experiment. Lepton flavor universality in weak interactions | Terranova Ch. 10; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-04-30-lecture-24.pdf)  |
 | 2026-05-04 | Estimation of $\tau$ lifetime with V-A. Weak interaction of hadrons: vector and axial currents. Weak interaction of quarks and Cabibbo-Kobayashi-Maskawa matrix  | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-04-lecture-25.pdf)  |
-| 2026-05-07 | Pion decay: helicity supprression. Cabibbo angle and flavor changing weak current | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 |  |
+| 2026-05-07 | Pion decay: helicity supprression. Cabibbo angle and flavor changing weak current. The GIM mechanism. | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-07-lecture-26.pdf)  |
+| 2025-05-08 | CKM matrix. Measurment of CKM matrix elements. Neutral meson oscillations. Neutral weak current | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | |
+| 2025-05-11 | Discovery of neutral weak current. Electroweak theory | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 |  |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
@@ -48,9 +50,6 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2025-05-05 | Selection rules in hadron decays. B meson decay diagrams | — | [exercises](material/2025-05-05-exercises.pdf), [solutions](material/2025-05-05-solutions.pdf) |
 
 
-
-| 2025-05-14 | GIM mechanism. CKM matrix. Neutral meson oscillations | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2025-05-14-lecture-25.pdf) |
-| 2025-05-19 | Discovery of neutral weak current. Electroweak theory | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 | [board](material/2025-05-19-lecture-26.pdf) |
 | 2025-05-21 | Experimental evidence for W and Z bosons. LEP measurements. CKM and CP violation | Terranova Ch. 12; Goldhaber Ch. 12; Griffiths Ch. 9 | [board](material/2025-05-21-lecture-27.pdf) |
 | 2025-05-26 | CP violation and matter–antimatter asymmetry. Unitarity triangle | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2025-05-26-lecture-28.pdf) |
 | 2025-05-27 | CP violation in neutral kaons | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [pdf](material/2025-05-27-lecture-29.pdf) |
