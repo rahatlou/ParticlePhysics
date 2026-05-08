@@ -34,8 +34,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-30 | Helicity of neutrinos: Goldhaber experiment. Lepton flavor universality in weak interactions | Terranova Ch. 10; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-04-30-lecture-24.pdf)  |
 | 2026-05-04 | Estimation of $\tau$ lifetime with V-A. Weak interaction of hadrons: vector and axial currents. Weak interaction of quarks and Cabibbo-Kobayashi-Maskawa matrix  | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-04-lecture-25.pdf)  |
 | 2026-05-07 | Pion decay: helicity supprression. Cabibbo angle and flavor changing weak current. The GIM mechanism. | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-07-lecture-26.pdf)  |
-| 2025-05-08 | CKM matrix. Measurment of CKM matrix elements. Neutral meson oscillations. Neutral weak current | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | |
-| 2025-05-11 | Discovery of neutral weak current. Electroweak theory | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 |  |
+| 2025-05-08 | CKM matrix. Measurment of CKM matrix elements. Oscillation of Neutral mesons. | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-08-lecture-27.pdf)  |
+| 2025-05-11 | Neutral weak current. Discovery of neutral weak current. Electroweak theory | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 |  |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
