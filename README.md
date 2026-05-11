@@ -34,8 +34,10 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-04-30 | Helicity of neutrinos: Goldhaber experiment. Lepton flavor universality in weak interactions | Terranova Ch. 10; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-04-30-lecture-24.pdf)  |
 | 2026-05-04 | Estimation of $\tau$ lifetime with V-A. Weak interaction of hadrons: vector and axial currents. Weak interaction of quarks and Cabibbo-Kobayashi-Maskawa matrix  | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-04-lecture-25.pdf)  |
 | 2026-05-07 | Pion decay: helicity supprression. Cabibbo angle and flavor changing weak current. The GIM mechanism. | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-07-lecture-26.pdf)  |
-| 2025-05-08 | CKM matrix. Measurment of CKM matrix elements. Oscillation of Neutral mesons. | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-08-lecture-27.pdf)  |
-| 2025-05-11 | Neutral weak current. Discovery of neutral weak current. Electroweak theory | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 |  |
+| 2026-05-08 | CKM matrix. Measurment of CKM matrix elements. Oscillation of Neutral mesons. | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-08-lecture-27.pdf)  |
+| 2026-05-11 | Neutral weak current. Neutrino beam in p+Be collisions. Discovery of neutral weak current. Electroweak theory | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 | [board](material/2026-05-11-lecture-28.pdf) |
+| 2026-05-14 | Discovery of neutral weak current. Electroweak theory. Direct evidence for W and Z bosons. Z production at LEP | Griffiths Ch. 9; Terranova Ch. 12; Goldhaber Ch. 12; Perkins Ch. 7 |  |
+| 2026-05-15 | CP violation and matter–antimatter asymmetry. CKM matrix and unitarity triangle. | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
@@ -51,6 +53,7 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 
 
 | 2025-05-21 | Experimental evidence for W and Z bosons. LEP measurements. CKM and CP violation | Terranova Ch. 12; Goldhaber Ch. 12; Griffiths Ch. 9 | [board](material/2025-05-21-lecture-27.pdf) |
+
 | 2025-05-26 | CP violation and matter–antimatter asymmetry. Unitarity triangle | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2025-05-26-lecture-28.pdf) |
 | 2025-05-27 | CP violation in neutral kaons | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [pdf](material/2025-05-27-lecture-29.pdf) |
 | 2025-05-28 | CP violation in B mesons. Higgs mechanism and discovery | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2025-05-28-lecture-30.pdf), [Higgs](material/Higgs-LHC.pdf) |
