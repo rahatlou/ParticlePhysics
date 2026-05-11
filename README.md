@@ -35,7 +35,7 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-05-04 | Estimation of $\tau$ lifetime with V-A. Weak interaction of hadrons: vector and axial currents. Weak interaction of quarks and Cabibbo-Kobayashi-Maskawa matrix  | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-04-lecture-25.pdf)  |
 | 2026-05-07 | Pion decay: helicity supprression. Cabibbo angle and flavor changing weak current. The GIM mechanism. | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-07-lecture-26.pdf)  |
 | 2026-05-08 | CKM matrix. Measurment of CKM matrix elements. Oscillation of Neutral mesons. | Griffiths Ch. 9; Goldhaber Ch. 6; Perkins Ch. 7 | [board](material/2026-05-08-lecture-27.pdf)  |
-| 2026-05-11 | Neutral weak current. Neutrino beam in p+Be collisions. Discovery of neutral weak current. Electroweak theory | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 | [board](material/2026-05-11-lecture-28.pdf) |
+| 2026-05-11 | Neutral weak current. Neutrino beam in p+Be collisions. | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 | [board](material/2026-05-11-lecture-28.pdf) |
 | 2026-05-14 | Discovery of neutral weak current. Electroweak theory. Direct evidence for W and Z bosons. Z production at LEP | Griffiths Ch. 9; Terranova Ch. 12; Goldhaber Ch. 12; Perkins Ch. 7 |  |
 | 2026-05-15 | CP violation and matter–antimatter asymmetry. CKM matrix and unitarity triangle. | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | |
 
