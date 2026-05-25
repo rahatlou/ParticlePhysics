@@ -38,7 +38,8 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-05-11 | Neutral weak current. Neutrino beam in p+Be collisions. | Griffiths Ch. 9; Terranova Ch. 12; Perkins Ch. 7 | [board](material/2026-05-11-lecture-28.pdf) |
 | 2026-05-14 | Discovery of neutral weak current. Glashow-Weinberg-Salam theory of Electroweak interaction.  | Griffiths Ch. 9; Terranova Ch. 12; Goldhaber Ch. 12; Perkins Ch. 7 | [board](material/2026-05-14-lecture-29.pdf) |
 | 2026-05-15 | Direct evidence for W and Z bosons. Z production at LEP. Number of neutrino families.  | Griffiths Ch. 9; Terranova Ch. 12; Goldhaber Ch. 12; Perkins Ch. 7 | [board](material/2026-05-15-lecture-30.pdf) |
-| 2026-05-25 | CP violation and matter–antimatter asymmetry. CKM matrix and unitarity triangle. | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | |
+| 2026-05-25 | CP violation and matter–antimatter asymmetry. | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2026-05-25-lecture-31.pdf) |
+| 2026-05-28 | CKM matrix and unitarity triangle. CP violation in Kaons and B mesons. | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | |
 
 <!-- Example row template:
 | YYYY-MM-DD | Topic description | Book Ch. X | [board](material/YYYY-MM-DD-lecture-XX.pdf) |
@@ -52,8 +53,6 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 
 | 2025-05-05 | Selection rules in hadron decays. B meson decay diagrams | — | [exercises](material/2025-05-05-exercises.pdf), [solutions](material/2025-05-05-solutions.pdf) |
 
-
-| 2025-05-21 | Experimental evidence for W and Z bosons. LEP measurements. CKM and CP violation | Terranova Ch. 12; Goldhaber Ch. 12; Griffiths Ch. 9 | [board](material/2025-05-21-lecture-27.pdf) |
 
 | 2025-05-26 | CP violation and matter–antimatter asymmetry. Unitarity triangle | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2025-05-26-lecture-28.pdf) |
 | 2025-05-27 | CP violation in neutral kaons | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [pdf](material/2025-05-27-lecture-29.pdf) |
