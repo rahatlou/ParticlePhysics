@@ -41,7 +41,7 @@ Laurea Magistrale in Fisica, Sapienza Università di Roma
 | 2026-05-25 | CP violation and matter–antimatter asymmetry. | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2026-05-25-lecture-31.pdf) |
 | 2026-05-28 | CKM matrix and unitarity triangle. CP violation with B mesons. B-factories. Direct CP violation in B decays. B0 oscillation | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2026-05-28-lecture-32.pdf) |
 | 2026-05-29 | B0 oscillation. Flavor, mass, and CP eigenstates for neutral B mesons. CP violation in interference of mixing and decay.  | Goldhaber Ch. 7, 15; Terranova 13.7; Perkins Ch. 7 | [board](material/2026-05-29-lecture-33.pdf)  |
-| 2026-06-04 | Higgs mechanism and origin of mass in the Standard Model. Higgs production and discovery at LHC | | [board](material/2026-06-04-lecture-34.pdf) |
+| 2026-06-04 | Higgs mechanism and origin of mass in the Standard Model. Higgs production and discovery at LHC | Terranova 13 | [board](material/2026-06-04-lecture-34.pdf) |
 | 2026-06-05 | Higgs properties. Search for phenomena beyond the Standard Model. Dark Matter. | | |
 
 <!-- Example row template:
